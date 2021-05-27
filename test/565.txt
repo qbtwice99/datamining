@@ -1,0 +1,17 @@
+
+Bài_toán mở khóa số của Hong_Kong
+Trong 4 phút , liệu bạn có_thể tìm ra đáp_số bài_toán lớp 5 trong kỳ thi học_sinh giỏi Toán Hong_Kong năm 2006 ?
+Topic 59 .
+Problem :
+Solly want to unlock his friend Koo ' s combination lock .
+The lock consists of 4 reels , each reel display the digits from 1 to 9 .
+Koo tells Solly that the first digit from left to right is a multiple of 3 , the second digit is a prime , the third digit is a multiple of 2 , and the whole number is divisible by 4 .
+For example :
+What is the maximum possible number of different ways that Solly may try in order to unlock it ?
+Dịch đề :
+Solly muốn mở ổ_khóa số của Koo .
+Ổ_khóa có bốn vòng số để xoay , mỗi vòng số là một chữ số từ 1 đến 9 .
+Koo gợi_ý cho Solly về các con_số như sau :
+đếm từ trái , chữ_số đầu_tiên là bội của 3 , chữ_số thứ hai là một số_nguyên_tố , chữ_số thứ ba là bội của 2 , và cả 4 chữ_số tạo thành một_số chia_hết cho 4 .
+Ví_dụ :
+Nếu Solly chỉ thử các số thỏa_mãn quy_luật mà Koo gợi_ý , thì cậu ấy phải thử nhiều nhất bao_nhiêu nhóm các số khác nhau mới có_thể mở được ổ_khóa ?

@@ -1,0 +1,15 @@
+
+Giải pháp tổng đài trợ lý ảo của MobiFone 
+Công nghệ thay thế nhân viên tổng đài giúp các doanh nghiệp có thể xử lý lượng khách hàng lớn và đa dạng.
+Hãng viễn thông đưa ra giải pháp tổng đài tự động MobiFone AI Call Center (mAICallCenter) nhằm hỗ trợ các doanh nghiệp đạt hiệu suất và hiệu quả làm việc cao hơn. 
+Nhân viên truyền thống là những người được bố trí nhiệm vụ trực tổng đài để giao tiếp với khách hàng. 
+Sự phát triển ngày càng cao của cuộc sống, tệp khách hàng lớn với nhu cầu đa dạng đã tạo áp lực không nhỏ lên bộ phận này. 
+mAICallCenter là giải pháp thay thế nhân viên trực tổng đài truyền thống với khả năng tương tác bằng giọng nói, được phát triển trên nền tảng xử lý tiếng nói ứng dụng AI. 
+Với tổng đài ảo, doanh nghiệp có thể soạn nội dung, gọi điện tự động đến từng khách hàng để phục vụ theo nhiều mục đích. 
+Giải pháp này có khả năng giúp doanh nghiệp cắt giảm chi phí nhân viên tổng đài với các cuộc gọi được tự động hoá. 
+Mỗi khách hàng sẽ tiếp nhận thông điệp riêng, dựa trên cơ sở dữ liệu người dùng. 
+mAICallCenter phù hợp với nhóm khách hàng là các doanh nghiệp viễn thông, doanh nghiệp tài chính, bảo hiểm, các công ty sự kiện, giao vận hay công ty thương mại điện tử với số lượng khách hàng và đơn hàng lên đến hàng vạn, hàng triệu vận đơn mỗi ngày, đại diện MobiFone nói. 
+Ứng dụng trên hỗ trợ đắc lực cho hoạt động chăm sóc khách hàng của doanh nghiệp bằng cách chủ động gọi và khảo sát chất lượng dịch vụ, tự động trả lời các yêu cầu theo kịch bản được nạp sẵn. 
+Thậm chí, mAICallCenter còn được phát triển với các giọng đọc theo giới tính, vùng miền, dự đoán cách đọc các từ chưa chuẩn hóa, viết tắt, từ mượn khiến giọng nói có biểu cảm và ngữ điệu giống người thật. 
+Trợ lý ảo mAICallCenter có thể vận hành 24/7. 
+Điểm quan trọng của khách hàng khi sử dụng dịch vụ là sự đồng bộ, nhất quán trong việc đưa ra các giải pháp được lập trình sẵn để giải đáp thắc mắc của khách hàng. 

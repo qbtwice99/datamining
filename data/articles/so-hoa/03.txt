@@ -1,0 +1,12 @@
+
+Apple phát hành iOS, iPadOS thử nghiệm mới 
+Apple vừa tung ra iOS 13.3 beta 2 cho iPhone và iPadOS 13.3 beta 2 cho iPad trong đó chủ yếu khắc phục lỗi tồn đọng trước đó.
+Hai bản cập nhật này có mặt sau hơn một tuần so với iOS 13.3 beta và iPadOS 13.3 beta đầu tiên, muộn hơn nếu so sánh với lịch trình cập nhật các bản thử nghiệm của Apple. 
+Thay vì bổ sung thêm tính năng mới, các bản cập nhật chủ yếu sửa các lỗi đã tồn tại trên phiên bản cũ, trong đó, nghiêm trọng nhất là sự cố quản lý RAM khiến máy bị chậm khi thực hiện thao tác đa nhiệm. 
+Đồng thời, bản beta này cũng cải thiện hiệu suất thiết bị, từ đó mang lại cho người dùng trải nghiệm mượt mà hơn. 
+Những người đã cài phiên bản beta của iOS và iPadOS có thể tiến hành nâng cấp bằng cách vào Cài đặt > Chung > Cập nhật phần mềm. 
+Tuy nhiên, thiết bị cần được sao lưu dữ liệu để tránh gặp phải sự cố không đáng có trong quá trình update. 
+Những máy được hỗ trợ gồm iPhone 6s trở lên, iPad Pro 9,7 inch trở lên, iPad thế hệ thứ 5 trở lên, iPad mini 4 trở lên và iPod Touch thế hệ thứ 7. 
+Ở phiên bản chính thức, iOS vừa có nâng cấp lớn thứ 2 vào cuối tháng 10 vừa qua, với bổ sung quan trọng nhất là khả năng chụp ảnh mới Deep Fusion cho loạt iPhone 11. 
+iOS 13 là hệ điều hành được Apple giới thiệu từ tháng 6/2019. 
+Sau ba tháng thử nghiệm, phiên bản chính được phát hành hôm 20/9 ngay trước khi bộ ba iPhone 11 mở bán. 

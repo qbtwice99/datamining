@@ -1,0 +1,4 @@
+
+Ẩn_ý sau cách xếp dao dĩa trên bàn ăn
+
+Bằng việc sắp_xếp vị_trí của dao và dĩa , thực_khách có_thể ngầm thông_báo với bồi_bàn rằng mình ghét bữa ăn hay đang đợi món .

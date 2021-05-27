@@ -1,0 +1,12 @@
+
+Robot báo săn trổ_tài chơi bóng_đá
+Đội robot báo săn của viện MIT thể_hiện kỹ_năng nhào_lộn và chơi bóng tài_tình dưới sự điều_khiển của con_người .
+Phòng thí_nghiệm Mô_phỏng Sinh_học thuộc Viện_Công_nghệ_Massachusetts ( MIT ) hôm 6/11 chia_sẻ video ghi_hình những con robot báo săn cỡ nhỏ khoe kỹ_năng vận_động trên bãi cỏ .
+Đội robot siêu nhẹ và có 4 chân do MIT phát_triển có kích_thước lớn ngang chó , có_thể bật lên , nhào_lộn và chơi bóng_đá .
+Trong video , các robot phối_hợp giống như đang nô_đùa với nhau .
+Mỗi con robot báo săn nặng khoảng 9 kg , vận_hành nhờ 12 motor điện và có_thể đạt tốc_độ 8 km / h ( 2,2 m / s ) .
+Hồi đầu năm , MIT từng đăng video ghi_hình robot báo săn thể_hiện tài nhào_lộn và giữ thăng bằng không kém nghệ_sĩ xiếc .
+" Trọng_lượng 9 kg không quá nhỏ nhưng cũng không lớn tới mức gây nguy_hiểm " , Sangbae_Kim , giám_đốc Phòng_thí_nghiệm Mô_phỏng Sinh_học , nói .
+Kim đang lên kế_hoạch kiểm_tra những con robot trên đường đua vượt chướng_ngại_vật .
+" Tôi hy_vọng chúng_tôi có_thể tổ_chức cuộc đua robot , trong đó mỗi đội điều_khiển một con robot báo săn cỡ nhỏ với thuật_toán khác nhau để xem chiến_lược nào hiệu_quả hơn .
+Đó là cách để thúc_đẩy nghiên_cứu " , Kim chia_sẻ .

@@ -1,0 +1,20 @@
+
+Những lưu ý cần biết khi cứu dữ liệu 
+Người dùng không đủ trình độ chuyên môn tự ý can thiệp sẽ khiến việc cứu dữ liệu trở nên khó khăn.
+Dữ liệu là tài nguyên quan trọng đối với các doanh nghiệp. 
+Những can thiệp nhằm cứu dữ liệu một cách hiệu quả sẽ phụ thuộc vào việc người dùng xử lý ngay khi xảy ra sự cố. 
+Các chuyên gia khuyến cáo, nếu không am hiểu về kỹ thuật, người dùng nên hạn chế can thiệp để cứu dữ liệu. 
+Nếu không rành về kỹ thuật, những can thiệp vô tình có thể khiến xác suất cứu dữ liệu bị giảm xuống, hoặc xấu nhất là không thể cứu được, ông Võ Ngọt, Giám đốc công ty khôi phục dữ liệu Võ Nguyễn nói. 
+Đối với hư hại về mặt vật lý, người dùng mở ổ cứng trong môi trường bụi bẩn sẽ làm ảnh hưởng tới bộ phận đầu và đĩa cứng. 
+Trong khi tại các trung tâm, công đoạn này được thực hiện trong phòng sạch, tiêu chuẩn cao. 
+Đối với các lỗi về logical, sau khi thử những cách thông thường nhưng không thành công, người dùng nên lưu lại những thông tin chi tiết về lỗi để các chuyên gia nắm bắt được tình trạng lỗi. 
+Từ đó, việc cứu dữ liệu sẽ dễ dàng và lượng dữ liệu được cứu sẽ nhiều hơn. 
+Tại các doanh nghiệp chuyên cứu và phục hồi dữ liệu máy chủ, người dùng có thể trực tiếp theo dõi tiến trình. 
+Doanh nghiệp sử dụng các thiết bị hiện đại như PC-3000 của Acelab hay MRT Ultra của MRT Lab từ chuẩn SCSI, SATA, SAS để cứu dữ liệu, ông Võ nói. 
+Đội ngũ kỹ sư trình độ cao của chúng tôi được đào tạo tại Nga, Trung Quốc từng xử lý thành công nhiều trường hợp khó. 
+Các trường hợp ổ cứng trong máy chủ, NAS/SAN còn nhận dạng nhưng mất cấu hình Raid, xóa, mất tập tin, bad sector, bị virus phá hoại, thời gian xử lý mất khoảng 2 giờ. 
+Ngoài ra, người dùng cần mang thiết bị đến để các kỹ sư kiểm tra và tính toán mức độ thiệt hại cũng như tỷ lệ thành công và thời gian hoàn thành. 
+Điện thoại: 
+0888711775 - 0974756775. 
+Các khách hàng lớn của doanh nghiệp: 
+VTC, đại học Mở TPHCM, Big C Việt Nam, Vinamilk... 

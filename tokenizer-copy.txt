@@ -1,0 +1,25 @@
+from underthesea import word_tokenize
+
+
+def tokenize(type_): # bỏ folder chứa các bài viết
+
+    path = type_
+    tokenize_path = # Chỗ này là folder m muốn lưu sau khi tách từ
+
+    files = scripts.list_dir(path)
+
+    for file in files:
+        print(f'Tokenize file: {type_} - {file}')
+        with open(f'{path}{file}', 'r', encoding='utf-8') as fread,\
+                open(f'{tokenize_path}{file}', 'w', encoding='utf-8') as fwrite:
+            for line in fread:
+                text = word_tokenize(line, format='text')
+                fwrite.write(text + "\n")
+
+
+def tokenize_(data): # Hàm này nếu m muốn tách chỉ 1 văn bản thì bỏ văn bản đó vào
+    return word_tokenize(data, format="text")
+
+
+if __name__ == "__main__":
+    print('Done')

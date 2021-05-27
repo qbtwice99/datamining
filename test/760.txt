@@ -1,0 +1,15 @@
+
+Go - Viet cho tài_xế tra_cứu thu_nhập và thuế
+
+Cổng thông_tin điện_tử tra_cứu thu_nhập và nghĩa_vụ thuế dành cho các tài_xế Go - Viet vận_hành từ ngày 7 / 11 .
+Cổng thông_tin này cho_phép tài_xế theo_dõi thu_nhập với độ trễ một ngày .
+Họ có_thể xem chi_tiết bảng kê thu_nhập , bao_gồm doanh_thu từ cước_phí chuyến đi , thu_nhập từ tiền thưởng , thuế phải thu trên từng hạng_mục , tổng nghĩa_vụ thuế và số tiền thuế đã đóng , thu_nhập còn lại sau khi nộp thuế ...
+từ đầu năm 2019 .
+Tài_xế phải sử_dụng đúng tài_khoản đã đăng_ký với Go - Viet mới có_thể truy_cập . Nhằm đảm_bảo an_toàn thông_tin , mỗi đối_tác tài_xế có 5 phút duy_trì trên hệ_thống , sau đó tài_khoản sẽ tự_động thoát ra ngoài .
+Đối_tác tài_xế muốn xem_lại cần_đăng nhập lại .
+" Với cổng thông_tin điện_tử mới này , chúng_tôi hy_vọng tạo ra một kênh thông_tin minh_bạch , tiện_lợi dành cho đối_tác tài_xế , " ông Nguyễn_Kiên , Giám_đốc phụ_trách cộng_đồng đối_tác tài_xế Go - Viet nói .
+Phía công_ty cho hay , cổng thông_tin này là một trong các bước hoàn_thiện quy_trình và hệ_thống quản_trị nhằm đạt các tiêu_chuẩn quốc_tế mà tập_đoàn mẹ Go - Jek hướng tới .
+Đây cũng là hãng gọi xe công_nghệ đầu_tiên ở Việt_Nam có công_cụ này .
+Trước đó , Go - Viet thông_báo kể từ ngày 19/10 , doanh_nghiệp bắt_đầu thu thuế từ những cá_nhân kinh_doanh theo hình_thức hợp_tác kinh_doanh vận_tải có thu_nhập từ nền_tảng này từ 100 triệu đồng trở_lên trong một năm .
+Công_ty sẽ thay_mặt các đối_tác tài_xế thực_hiện việc khai thuế và đóng thuế cho cơ_quan_thuế .
+Theo số_liệu công_bố gần nhất , tính đến tháng 8/20 19 , sau một năm có_mặt trên thị_trường , Go - Viet có 150.000 đối_tác tài_xế và giao đồ ăn từ 80.000 nhà_hàng .

@@ -1,0 +1,10 @@
+
+Facebook cho tắt thông báo phiền nhiễu 
+Bản cập nhật Facebook cho các nền tảng di động sẽ cho phép người dùng không còn nhận thông báo từ Marketplace, Watch và nhiều tính năng khác.
+Sau khi cập nhật, sẽ có một menu Cài đặt Thanh phím tắt (Shortcut Bar Settings) thêm vào ứng dụng. 
+Tuy nhiên, tùy chọn này được Facebook "chôn" khá sâu, khi người dùng phải vào More tab (Ba gạch ngang ở góc phải) > Settings & Privacy > Settings > Shortcuts để thấy tất cả những tính năng cần tắt thông báo. 
+Ngoài Marketplace (Thị trường) hay Watch (xem video), người dùng có thể tắt các thông báo gây phiền nhiễu của Groups (nhóm), Events (sự kiện), Profile (hồ sơ người dùng), Friend Requests (bạn bè gửi lời kết bạn), News (tin tức), Gaming (trò chơi) và cả Dating (hẹn hò). 
+Facebook chưa đưa ra thông báo chính thức nào. 
+Trả lời Techcrunch, một đại diện của mạng xã hội lớn nhất thế giới thừa nhận "đang triển khai tính năng cho phép người dùng kiểm soát và điều hướng thông báo, nhằm giúp họ có trải nghiệm tốt hơn". 
+Hiện tính năng trên mới chỉ được triển khai cho người dùng iOS. 
+Tuy nhiên, các thiết bị chạy Android cũng sớm cập nhật trong thời gian tới. 

@@ -1,0 +1,8 @@
+
+Facebook vẫn làm lộ dữ liệu người dùng 
+Facebook tiếp tục thừa nhận khoảng 100 nhà phát triển vẫn đang truy cập trái phép dữ liệu người dùng.
+Facebook hạn chế giao diện lập trình ứng dụng API nhằm ngăn nhà phát triển thu thập dữ liệu cá nhân từ tháng 4/2018 sau khi scandal Cambridge Analytica bị phanh phui. 
+Bê bối này diễn ra năm 2015 khi một giảng viên thuộc Đại học Cambridge (Anh) phát triển ứng dụng khảo sát tâm lý và thu thập dữ liệu của 87 triệu người dùng, sau đó bán lại cho Cambridge Analytica. Thông tin của người dùng được cho là đã được sử dụng vào mục đích chính trị. 
+Tới tháng 3/2018, sự việc được báo chí phát hiện và đăng tải, khiến CEO Facebook phải điều trần trước Quốc hội Mỹ và mạng xã hội lớn nhất thế giới phải nộp 5 tỷ USD cho Ủy ban Thương mại Liên bang Mỹ (FTC). 
+Tuy nhiên, theo Forbes, biện pháp của Facebook dường như không hiệu quả bởi sau hơn một năm triển khai việc hạn chế tiếp cận API, Facebook vẫn phải thông báo về phát hiện mới liên quan tới rò rỉ dữ liệu người dùng. 
+Facebook đã liên hệ với khoảng 100 đối tác của các nhà triển nói trên và có ít nhất 11 đối tác từng truy cập thông tin người dùng trong vòng 60 ngày qua. "Dù chưa nhận thấy dấu hiệu lạm dụng dữ liệu nào, chúng tôi sẽ yêu cầu những nhà phát triển này xóa mọi thông tin của các thành viên mà họ đã nắm giữ, đồng thời tiếp tục kiểm tra để đảm bảo dữ liệu đã thực sự được xóa", Facebook tuyên bố. 

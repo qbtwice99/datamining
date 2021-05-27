@@ -1,0 +1,12 @@
+
+Trung Quốc ra mắt robot phân loại rác 
+Robot được trang bị công nghệ trí tuệ nhân tạo, có khả năng nhận diện và phân loại bốn nhóm rác thải khác nhau để tái chế.
+Trung Quốc hôm 5/11 trình làng mẫu robot phân loại rác tự động mới tại Triển lãm Nhập khẩu Quốc tế (CIIE) lần thứ hai diễn ra tại thành phố Thượng Hải. 
+Thiết bị do hãng sản xuất robot công nghiệp ABB phát triển là sự kết hợp giữa hai cánh tay máy YuMi và robot xử lý vật liệu IRB 1200. 
+YuMi có nhiệm vụ phân loại rác thành bốn nhóm khác nhau, từ chất thải nguy hiểm đến vật liệu có thể tái chế. 
+Rác sau khi phân loại được chuyển tới robot IRB 1200 bằng băng chuyền, nơi chúng được thu gom để tái chế. 
+Theo Cui Hengfeng, kỹ sư của ABB, hệ thống sử dụng trí tuệ nhân tạo (AI) và công nghệ học máy (machine learning), cho phép nhận dạng thêm các loại rác thải mới có thể được tạo ra trong tương lai. 
+Robot có khả năng tự học hỏi và nâng cấp để vận hành tốt hơn trong một quy trình kỹ thuật số hoàn toàn tự động. 
+Thiết bị còn có thể tùy chỉnh để sử dụng trong nhiều lĩnh vực khác như kiểm tra chất lượng, quản lý sản phẩm trên dây chuyền lắp ráp và phân loại vật liệu. 
+Triển lãm CIIE sẽ diễn ra từ ngày 5/11 đến hết ngày 10/11. 
+Theo kế hoạch, hơn 40 thành phố của Trung Quốc sẽ được thêm vào mạng lưới phân loại rác thải trong thời gian tới. 

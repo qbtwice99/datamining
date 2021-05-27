@@ -1,0 +1,28 @@
+
+Bốn điểm nhấn đặc biệt chỉ có tại FPT Techday 2019 
+Một trong các điểm nhấn của ngày hội công nghệ là lần đầu tiên khách mời được di chuyển trên chiếc xe tích hợp công nghệ tự hành tiên tiến của FPT ngay tại sự kiện.
+Với chủ đề "Khởi động thông minh", Diễn đàn công nghệ FPT (FPT Techday 2019) diễn ra ngày 21/11 sẽ xoay quanh việc tìm điểm bắt đầu thông minh và hiệu quả cho doanh nghiệp, tổ chức để tham gia vào cuộc chơi chuyển đổi số hiệu quả. 
+Tại đây, những xu hướng công nghệ nổi bật, những bài học, kinh nghiệm bắt đầu thực tiễn trong quản trị doanh nghiệp thông minh, ngân hàng số... 
+sẽ được chia sẻ bên cạnh các giải pháp chuyển đổi số thông minh mang tính ứng dụng cao. 
+Với hơn 6 năm tổ chức, sự kiện Techday lần này được FPT nâng tầm trở thành một Diễn đàn công nghệ với quy mô tầm cỡ, được ban tổ chức hứa hẹn mang đến bốn điểm nhấn đặc biệt. 
+Yếu tố "lần đầu tiên" xuất hiện tại FPT Techday 2019 là cơ hội trải nghiệm công nghệ xe tự hành do FPT tập trung nghiên cứu phát triển từ năm 2016 đến nay. 
+Vào cuối tháng 10/2019, FPT đã chính thức thử nghiệm thành công xe tự hành tại khu đô thị Ecopark. 
+Yếu tố lần đầu tiên xuất hiện tại FPT Techday 2019 là cơ hội trải nghiệm công nghệ xe tự hành do FPT tập trung nghiên cứu phát triển từ năm 2016 đến nay. 
+Vào cuối tháng 10/2019, FPT đã chính thức thử nghiệm thành công xe tự hành tại khu đô thị Ecopark. 
+Tại Diễn đàn sắp tới, khách tham gia sẽ có cơ hội trải nghiệm chiếc xe với công nghệ tự hành của FPT bằng cách đứng chờ và gọi xe từ một trong bốn trạm chờ thuộc khuôn viên Trung tâm Hội nghị Quốc gia, nơi diễn ra sự kiện. 
+Sau khi hành khách đặt xe, hệ thống tự động sẽ tính toán cung đường tối ưu để điều phối xe đón khách theo thứ tự. 
+Trong thời gian di chuyển, xe sẽ tự động dừng, tránh các vật cản cố định hoặc xuất hiện bất ngờ cũng như các phương tiện khác, đồng thời đón trả khách tại các trạm chờ cố định với độ chính xác 100%. 
+Người tham gia có thể lần đầu tiên tận mắt chứng kiến và khám phá một sản phẩm hoàn chỉnh được phát triển và xây dựng bởi bàn tay và khối óc Việt. 
+Với trọng tâm giúp các doanh nghiệp khởi động chuyển đổi số thông minh, Diễn đàn quy tụ rất nhiều những bài chia sẻ, kinh nghiệm thành công thực tiễn xung quanh chủ đề này. 
+Đội ngũ diễn giả không chỉ đến từ các chuyên gia, lãnh đạo cấp cao của FPT mà còn là những khách mời cấp cao của các doanh nghiệp, ngân hàng đi đầu trong quá trình chuyển đổi số như EY, Masan, Nvidia, Sacombank, TPBank... 
+Họ sẽ là những diễn giả thuyết phục nhất khi chia sẻ về hành trình chuyển đổi của chính bản thân doanh nghiệp, đồng thời đưa ra những bài học thành công quý giá để chuyển đổi số đúng hướng và hiệu quả, giúp quá trình vận hành doanh nghiệp tinh gọn, bứt phá. 
+Trường hợp điển hình có thể kể đến giải pháp số hóa thông tin khách hàng ứng dụng FPT.AI Vision công nghệ nhận dạng và trích xuất thông tin từ hình ảnh chứng minh thư, giấy tờ tùy thân của chủ tài khoản với độ chính xác tới 98%. 
+Nhờ giải pháp này, MB Bank có thể xử lý trên 5.000 yêu cầu mỗi ngày liên quan đến nhận diện và phân tích thông tin khách hàng từ chứng minh thư nhân dân, rút ngắn thời gian và nhân sự so với cách làm truyền thống. 
+Là sân chơi cho những lập trình viên, sinh viên công nghệ nhanh nhạy nắm bắt xu thế, dám đương đầu với công nghệ mới, FPT Techday 2019 sẽ có những cuộc thi đầy thử thách bao gồm Đấu sĩ Coder, BOT đại chiến và AI đào vàng, dựa trên các nền tảng, sản phẩm do FPT phát triển. 
+Với đa dạng hình thức từ thi cá nhân đến thi đội, người chơi sẽ có cơ hội thể hiện tài năng cũng như nhận giải thưởng tổng trị giá 150 triệu từ cuộc thi. 
+Một khác biệt nữa so với FPT Techday những năm trước nằm việc khách mời sẽ được trải nghiệm công nghệ hoàn chỉnh từ khi đăng ký đến khi tham gia trực tiếp tại sự kiện. 
+Dự kiến, Diễn đàn năm nay thu hút trên 3.000 người tham dự. 
+Với số lượng khách mời khổng lồ này, lần đầu tiên ban tổ chức sử dụng trợ lý ảo AI, phát triển dựa trên nền tảng trí tuệ nhân tạo toàn diện FPT.AI, để thay thế tổng đài viên gọi điện ghi danh và xác nhận khách mời. 
+Theo đại diện FPT, giải pháp trợ lý ảo dựa trên trí tuệ nhân tạo Made in Vietnam sẽ trở thành trợ thủ đắc lực cho các doanh nghiệp trong quá trình chuyển đổi số, đặc biệt ở mảng chăm sóc khách hàng. 
+Những giải pháp thực tiễn, những màn trình diễn công nghệ tiên tiến sẽ có tại diễn đàn công nghệ FPT 2019 và 21/11 tới. 
+Cập nhật thông tin sự kiện và đăng ký tham gia tại đây. 

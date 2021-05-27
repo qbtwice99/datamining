@@ -1,0 +1,8 @@
+
+Facebook vẫn làm lộ dữ_liệu người dùng
+Facebook tiếp_tục thừa_nhận khoảng 100 nhà phát_triển vẫn đang truy_cập trái_phép dữ_liệu người dùng .
+Facebook hạn_chế giao_diện lập_trình ứng_dụng API nhằm ngăn nhà phát_triển thu_thập_dữ_liệu cá_nhân từ tháng 4/20 18 sau khi scandal Cambridge_Analytica bị phanh_phui .
+Bê_bối này diễn ra năm 2015 khi một giảng_viên thuộc Đại_học Cambridge ( Anh ) phát_triển ứng_dụng khảo_sát tâm_lý và thu_thập_dữ_liệu của 87 triệu người dùng , sau đó bán lại cho Cambridge_Analytica . Thông_tin của người dùng được cho là đã được sử_dụng vào mục_đích chính_trị .
+Tới tháng 3/20 18 , sự_việc được báo_chí phát_hiện và đăng_tải , khiến CEO_Facebook phải điều_trần trước Quốc_hội Mỹ và mạng xã_hội lớn nhất thế_giới phải nộp 5 tỷ USD cho Ủy_ban Thương_mại Liên_bang Mỹ ( FTC ) .
+Tuy_nhiên , theo Forbes , biện_pháp của Facebook dường_như không hiệu_quả bởi sau hơn một năm triển_khai việc hạn_chế tiếp_cận API , Facebook vẫn phải thông_báo về phát_hiện mới liên_quan tới rò_rỉ dữ_liệu người dùng .
+Facebook đã liên_hệ với khoảng 100 đối_tác của các nhà_triển nói trên và có ít_nhất 11 đối_tác từng truy_cập thông_tin người dùng trong vòng 60 ngày qua . " Dù chưa nhận thấy dấu_hiệu lạm_dụng dữ_liệu nào , chúng_tôi sẽ yêu_cầu những nhà phát_triển này xóa mọi thông_tin của các thành_viên mà họ đã nắm giữ , đồng_thời tiếp_tục kiểm_tra để đảm_bảo dữ_liệu đã thực_sự được xóa " , Facebook tuyên_bố .

@@ -1,0 +1,15 @@
+
+Mỹ sửa_lỗi mũ bảo_hiểm của phi_công F - 35
+Tập_đoàn Lockheed_Martin thay cụm đèn LED trên chiếc mũ giá 400.000 USD nhằm khắc_phục lỗi hạn_chế tầm nhìn phi_công bay đêm .
+Tập_đoàn Lockheed_Martin hôm_qua được Lầu Năm_Góc giao hợp_đồng tái_thiết_kế và lắp_đặt diode hữu_cơ phát_quang ( OLED ) trên mũ_bảo_hiểm trị_giá 400.000 USD của phi_công siêu tiêm_kích F - 35 , thay_thế cụm thiết_bị sử_dụng đèn LED tích_hợp hiện_nay .
+Nhà sản_xuất không tiết_lộ số_mũ cần chỉnh sửa cũng như chi_phí cho đợt sửa_chữa này .
+Cụm đèn LED tích_hợp trong hệ_thống hiển_thị gắn trên mũ_bảo_hiểm ( HMDS ) của phi_công F - 35 tạo ra quầng ánh_sáng xanh_lục , khiến phi_công khó quan_sát khi tác_chiến ban_đêm .
+Lỗi này được phát_hiện từ năm 2012 nhưng chưa được xử_lý , khiến phi công_hải_quân Mỹ không_thể quan_sát dàn đèn dẫn đường trên boong tàu sân_bay , gây nguy_hiểm tính_mạng nếu họ cố hạ_cánh trong đêm .
+" Boong tàu sân_bay là môi_trường tối nhất bạn có_thể gặp trong những đêm không trăng .
+Bạn không_thể hạ độ sáng đèn LED tới_mức đủ để quan_sát xung_quanh mà vẫn nhìn được dữ_liệu hiển_thị trên mũ .
+Nếu muốn nhìn rõ thông_tin trong mũ , đèn LED phải đạt độ sáng lấn_át mọi thứ bên ngoài " , trung_tá Tommy_Locke , chỉ_huy Phi_đoàn tiêm_kích số 125 hải_quân Mỹ , cho biết hồi năm_ngoái .
+Lỗi này khiến phần_lớn phi_công tiêm_kích hạm F - 35C không được bay trong điều_kiện trời tối , chỉ những người có trên 50 lần hạ_cánh thành_công xuống tàu sân_bay mới được thực_hiện nhiệm_vụ ban_đêm .
+Lầu Năm_Góc từng tìm cách giải_quyết vấn_đề bằng cách nâng_cấp phần_mềm , cho_phép phi_công giảm độ sáng của đèn LED , nhưng nó vẫn không giải_quyết triệt_để vấn_đề .
+Công_nghệ_OLED mang lại nhiều lợi_ích so với LED như cải_thiện chất_lượng hình_ảnh và thời_gian phản_ứng nhanh , nhưng có nhược_điểm là tuổi_thọ thấp hơn .
+Mũ bảo_hiểm của phi_công F - 35 được ví_như " thiên_nhãn " vì được kết_nối với hệ_thống cảm_biến trên máy_bay , giúp phi_công quan_sát mọi thứ xung_quanh tiêm_kích khi hoạt_động .
+Hệ_thống HMDS hiển_thị các thông_số quan_trọng như tốc_độ và độ cao , dữ_liệu mục_tiêu và cảnh_báo nguy_hiểm , bảo_đảm phi_công luôn nắm_bắt được tình_huống tác_chiến .

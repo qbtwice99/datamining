@@ -1,0 +1,13 @@
+
+Apple xóa ứng_dụng ' rình_mò ' Instagram
+Ứng_dụng Like_Patrol thông_báo cho người sử_dụng mỗi khi tài_khoản Instagram mà họ muốn theo_dõi có tương_tác mới , như bấm Like hay bình_luận ảnh .
+Tuần trước , Instagram đã gửi cảnh_báo tới nhà phát_triển Sergio_Luis_Quintero với lý_do Like_Patrol vi_phạm điều_khoản dịch_vụ của mạng xã_hội .
+Tuần này , đến lượt Apple quyết_định xóa ứng_dụng khỏi App_Store do liên_quan tới việc thu_thập_dữ_liệu và xâm_phạm quyền riêng_tư .
+Like Patrol bị các chuyên_gia_bảo_mật chỉ trích vì nó được lập_trình để theo_dõi hoạt_động của những tài_khoản Instagram nhất_định , chẳng_hạn khi vợ muốn biết chồng mình đã dùng Instagram để " thích " ảnh của những ai , comment những gì ...
+Tuy_nhiên , Quintero cho rằng họ không vi_phạm chính_sách của Apple .
+Thực_tế , Instagram vốn tích_hợp thẻ " Following " để người dùng biết được các hoạt_động của những tài_khoản mà họ muốn theo_dõi .
+Đến tháng 10/20 19 , Instagram loại_bỏ thẻ này .
+Quintero đã viết thuật_toán riêng để tiếp_tục lấy được thông_tin từ các tài_khoản Instagram và cung_cấp cho người dùng nếu họ trả phí 2,99 USD / tuần hay 80 USD / năm .
+Ứng_dụng này thậm_chí còn phân_tích_số_liệu theo giới_tính và chỉ ra ai là người mà tài_khoản Instagram đó tương_tác nhiều nhất .
+Dù đã bị gỡ bỏ , Like_Patrol vẫn tồn_tại trên trên những thiết_bị đã tải và cài_đặt ứng_dụng từ trước đó .
+Hiện chưa rõ người dùng có_thể tiếp_tục sử_dụng dịch_vụ này hay không .

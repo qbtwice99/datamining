@@ -1,0 +1,42 @@
+
+‘ Miếng bánh ’ ví điện_tử đang trong tay ai ?
+
+28 ví được cấp phép nhưng 80-90 % thị_phần thuộc về vài cái tên như Payoo , MoMo , SenPay , Moca , AirPay và ZaloPay .
+Hơn chục năm từ khi ví điện_tử đầu_tiên được thí_điểm , Việt_Nam đã có 28 đơn_vị được cấp phép kinh_doanh ví .
+Thế nhưng , theo số_liệu từ Vụ Thanh_toán Ngân_hàng Nhà_nước , hầu_hết thị_phần về số_lượng ví được mở , số_dư , lượng giao_dịch qua ví ...
+chỉ rơi vào 5-6 ví .
+Tính đến tháng 8/20 19 , 5 ví có số_dư lớn nhất chiếm hơn 80 % số_dư toàn_thị_trường là Payoo , MoMo , SenPay , Moca và Airpay .
+Trong khi đó , Airpay , MoMo , Senpay , Moca và VTC_Pay là các ví điện_tử có số_lượng phát_hành luỹ kế lớn nhất .
+Trong quý II , 95 % giá_trị giao_dịch toàn_thị_trường ví tập_trung vào 5 đơn_vị là Payoo , MoMo , Senpay , Airpay và Zalopay .
+Bà Trương_Hồng_Liên , Chủ_nhiệm phụ_trách mảng công_nghệ tài_chính của Công_ty EY_Consulting cho biết , bản_chất của ví điện_tử được dùng cho chi_tiêu hàng ngày , giao_dịch có giá_trị nhỏ nhưng có tính thường_xuyên .
+Vì_thế , ai sở_hữu_hệ_sinh_thái đủ lớn ( đảm_bảo có các giao_dịch thường_xuyên ) và có chương_trình khuyến_mãi sẽ chiếm được thị_phần .
+Thương_mại điện_tử được xem là một hệ_sinh_thái góp_phần làm_nên thành_công cho nhiều ví điện_tử .
+Trong bối_cảnh thương_mại_điện_tử tại Việt_Nam trở_thành điểm_nóng và tăng_trưởng mạnh_mẽ , nhiều ví điện_tử hưởng lợi từ các " khu chợ online " . Theo báo_cáo của JP_Morgan , 19 % giá_trị giao_dịch thương_mại_điện_tử tại Việt_Nam được thực_hiện qua ví điện_tử .
+Giá_trị giao_dịch thương_mại_điện_tử qua ví điện_tử ngang với thanh_toán bằng tiền_mặt , xếp sau thanh_toán qua thẻ ( 34 % ) và chuyển_khoản ngân_hàng ( 22 % ) .
+Tại Việt_Nam , Senpay hay Airpay là những ví điện_tử điển_hình nhất có lợi_thế khi nằm trong một hệ_sinh_thái thương_mại_điện_tử sẵn có .
+Hậu_thuẫn bởi Tập_đoàn FPT , Senpay được sử_dụng như một phương_thức giao_dịch giữa sàn thương_mại_điện_tử Sendo và các chủ_shop .
+Khách_hàng của Sendo cũng có_thể giao_dịch bằng ví Senpay .
+Hiện_nay , Sendo là một trong 4 sàn thương_mại hàng_đầu tại Việt_Nam , sở_hữu_tệp khách_hàng là các nhà bán hàng trong nước và người mua chủ_yếu ở khu_vực tỉnh_lẻ .
+Còn về AirPay , ví điện_tử này là sản_phẩm của Công_ty phát_triển thể_thao điện_tử Việt_Nam ( tiền_thân là Garena Việt_Nam ) , được " chống lưng " bởi Tập_đoàn SEA ( sở_hữu_sàn thương_mại_điện_tử Shopee và nền_tảng giải_trí trực_tuyến Garena ) .
+SEA cũng là nhà_đầu_tư rót tiền vào dịch_vụ ăn_uống Foody ( Now ) .
+Bởi_vậy , AirPay tại Việt_Nam không_những có hệ_sinh_thái từ giao_dịch mua_sắm trên Shopee , mà_còn hưởng lợi từ tệp khách_hàng mua thẻ game của Garena và đặt đồ ăn trực_tuyến qua Now .
+Một cái tên khác là ZaloPay , nằm trong danh_sách có giá_trị giao_dịch lớn nhất trong quý II / 2018 .
+ZaloPay được cấp phép ví điện_tử từ năm 2016 , sở_hữu bởi Công_ty Zion , thuộc Tập_đoàn VNG.
+Ví ZaloPay là một phương_tiện thanh_toán được sử_dụng trên Tiki , sàn thương_mại_điện_tử do Tập_đoàn VNG góp vốn và là một trong ba sàn có lượng truy_cập lớn nhất tại Việt_Nam .
+Bên_cạnh đó , ZaloPay có lợi_thế từ khoảng 100 triệu người dùng Zalo và tệp khách_hàng mảng game của VNG.
+Tuy không có lợi_thế sẵn có từ thị_trường_thương_mại_điện_tử như những cái tên kể trên , MoMo , Moca hay Payoo vẫn nằm trong danh_sách ví điện_tử có thị_phần_lớn nhất nhờ phát_triển hệ_sinh_thái riêng .
+MoMo là một trong những ví điện_tử tiên_phong trên thị_trường khi được cấp giấy_phép thí_điểm từ năm 2009 và có giấy_phép chính_thức từ 2015 .
+Dòng vốn từ các quỹ đầu_tư lớn như Warburg_Pincus , Goldman_Sachs , Standard_Chartered ...
+đổ vào ( khoảng 140 triệu USD , theo dữ_liệu trên Crunchbase ) đã khiến MoMo phát_triển nhanh và mạnh , đặc_biệt từ năm 2018 đến nay .
+Ví điện_tử này từng bước hợp_tác những điểm offline asset ( thương_mại , bán_lẻ truyền_thống ) và có hơn 100.000 điểm thanh_toán , đồng_thời dốc tiền làm khuyến_mãi thu_hút khách sử_dụng ví .
+Ông Nguyễn_Xuân_Trường , giám_đốc dịch_vụ chuyển tiền của công_ty chủ_quản MoMo từng nhận_định , " không có gì " lại là một lợi_thế mà người_ta gọi là " lợi_thế bất_công " của MoMo .
+Ông nhận_định thị_trường bán_lẻ rất lớn và đó là cơ_hội cho MoMo , điều quan_trọng là tạo ra một liên_minh trong một hệ_sinh_thái lớn .
+Cùng_với việc đẩy_mạnh giao_dịch tại các cửa_hàng nhỏ_lẻ , MoMo còn có_thể thanh_toán được trên Tiki và Adayroi , những sàn thương_mại_điện_tử vốn đã có chỗ cho ví " người_nhà " .
+Kế đến là Moca , một trong 5 ví có số_dư lớn nhất tại Việt_Nam_tính đến tháng 8/20 19 .
+Bước đột_phá của Moca được biết đến thông_qua cái " bắt_tay " chiến_lược với Grab vào năm 2018 , hình_thành nên Grabpay by Moca .
+Các giao_dịch không tiền_mặt từ gọi xe cho đến đặt đồ_ăn được thực_hiện qua ví Moca trên ứng_dụng Grab .
+Bên_cạnh đó , tương_tự với chiến_lược của MoMo , Grabpay by Moca cũng đang dồn_lực xây_dựng đại_lý với các cửa_hàng nhỏ_lẻ và tung hàng_loạt chương_trình khuyến_mãi cho người dùng .
+Ngoài_ra , một cái tên khác trong top ví điện_tử có giá_trị giao_dịch lớn là Payoo ( thuộc Công_ty VietUnion ) . Là một trong hai đơn_vị đầu_tiên được cấp giấy_phép thí_điểm vào năm 2009 , Payoo có lợi_thế của người đi đầu và xây_dựng được mạng_lưới thanh_toán hoá_đơn ( điện , nước ... ) khắp mọi miền tại các điểm bán_lẻ như Vinmart + , Thế_giới di_động , Điện_Máy Xanh ...
+70 % người Việt chưa có tài_khoản ngân_hàng và vẫn có thói_quen dùng tiền_mặt thanh_toán hoá_đơn tiện_ích .
+Cùng với mạng_lưới điểm thu rộng khắp , đó là điều_kiện khiến cho Payoo có lợi_thế ở ngách thanh_toán hoá_đơn tại cửa_hàng bán_lẻ .
+Nhìn từ vị_thế của nhóm dẫn_đầu này , có_thể thấy những tay_chơi dẫn_dắt thị_trường là kẻ sinh ra trong một hệ_sinh_thái sẵn có hoặc / và tự gây_dựng nên được một mạng_lưới rộng khắp , từ bán_lẻ truyền_thống đến thương_mại_điện_tử và các dịch_vụ tiềm_năng khác của nền kinh_tế Internet .

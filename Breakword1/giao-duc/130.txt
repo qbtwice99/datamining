@@ -1,0 +1,8 @@
+
+' Giỏ bánh_mì của châu_Âu ' là biệt_danh nước nào ?
+Quốc_gia Đông_Âu nổi_tiếng với những cánh đồng lúa_mì rộng_lớn , xuất_khẩu nhiều thực_phẩm tới các nước trong châu_Âu .
+Câu 1 :
+" Giỏ bánh_mì của châu_Âu " là biệt_danh nước nào ?
+a .
+b .
+c .

@@ -1,0 +1,13 @@
+
+Sinh viên chế tạo xe điện chạy 900 km trong một lần sạc 
+Chiếc Helia do sinh viên Đại học Cambridge phát triển có tỷ lệ tiêu hao năng lượng chỉ bằng 1/10 so với xe điện thương mại hiện nay.
+Helia là đứa con tinh thần của đội đua Eco Eco đến từ Đại học Cambridge - gồm 20 sinh viên, dẫn đầu bởi giám đốc chương trình Xiaofan Zhang. 
+Đây là một chiếc xe điện 4 chỗ ngồi hiệu suất cao, có khả năng di chuyển liên tục quãng đường dài 900 km chỉ trong một lần sạc. 
+Nhờ thiết kế khung xe bằng sợi carbon siêu nhẹ, xe có trọng lượng chỉ 550 kg. 
+Khi chở đủ 4 người, nó có thể chạy với tốc độ tối đa 120 km/h và tốc độ hành trình khoảng 80 km/h. 
+Xe được mô tả là tiết kiệm nhiên liệu gấp 10 lần so với các mẫu ôtô điện đang được bán trên thị trường. 
+Hiệu suất cao của phương tiện không chỉ đến từ cấu trúc nhẹ mà còn nhờ thiết kế khí động học và lốp kháng lăn thấp (low-rolling resistance tire) - giúp giảm ma sát giữa bề mặt cao su của lốp với mặt đường. 
+Trên nóc xe còn được lắp đặt các tấm pin năng lượng mặt trời hiệu suất 25% với tổng diện tích bề mặt là 5 m2. 
+Ngay cả khi không sử dụng pin mặt trời, chiếc Helia vẫn có phạm vi hoạt động gấp đôi so với xe điện Tesla hiện nay. 
+Hệ thống pin của phương tiện có thể được sạc bằng bộ sạc điện tiêu chuẩn. 
+Đội đua Eco Eco cho biết sẽ tổ chức các chuyến lưu diễn với xe điện Helia tại các trường học trên khắp Vương quốc Anh vào mùa hè tới, với mục đích truyền cảm hứng cho thế hệ kỹ sư tương lai. 

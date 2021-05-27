@@ -1,0 +1,7 @@
+
+Cửa_sổ máy_bay được dán bằng băng keo
+
+Một hãng hàng_không Ấn_Độ vẫn cho máy_bay cất_cánh , dù cửa_sổ bị nứt .
+Cửa_sổ máy_bay được thiết_kế gồm ba tấm kính riêng_biệt ( bên ngoài , ở giữa , bên trong ) .
+Trong đó , tấm kính ngoài cùng chịu áp_lực do chênh_lệch áp_suất , tấm kính giữa đóng vai_trò dự_phòng an_toàn .
+Tấm kính trong cùng không chịu lực , nhưng giúp bảo_vệ tấm kính giữa và tấm kính ngoài cùng khỏi những hư_hại có_thể gây ra bởi hành_khách . Ngoài_ra , cửa_sổ máy_bay thường có dạng hình_tròn , giúp áp_suất được dàn đều và cân_bằng hơn , bảo_vệ thân máy_bay .

@@ -1,0 +1,20 @@
+
+Facebook 'chơi xấu' YouTube, Twitter 
+Loạt email bị rò rỉ cho thấy Facebook đã kiểm soát dữ liệu người dùng như thế nào để ngăn cản đối thủ lớn như YouTube, Twitter, Amazon.
+Ngày 5/11, hơn 4.000 trang tài liệu mật, nằm trong vụ kiện giữa Facebook và nhà phát triển Six4Three, được nhà báo điều tra Duncan Campbell tung lên mạng, cho thấy nhiều góc khuất của mạng xã hội lớn nhất thế giới. 
+Trước đó, từ 2018, một phần tài liệu cũng đã bị phát tán và Facebook đã tìm nhiều cách để ngăn chặn, cho rằng những thông tin đó, được thu thập từ 2012 đến 2015, khiến hình ảnh về công ty bị sai lệch và không toàn diện. 
+Trang Business Insider cho biết, dữ liệu người dùng là "đồng tiền" có giá trị với các công ty công nghệ và là trung tâm trong mô hình kinh doanh của Facebook. 
+Dù không bán thông tin người dùng, Facebook chia sẻ dữ liệu này với các ứng dụng khác mỗi khi người dùng kết nối tài khoản Facebook với các ứng dụng đó. 
+Ví dụ, các ứng dụng cho phép người dùng đăng nhập bằng tài khoản Facebook sẽ "nhìn thấy" địa chỉ email và danh sách bạn bè của họ, nhờ đó người dùng vẫn có thể kết nối với bạn bè Facebook ngay trên ứng dụng bên thứ ba. 
+Tuy nhiên, đầu những năm 2010, các nhân viên Facebook đã thảo luận về việc hạn chế quyền tiếp cận dữ liệu có giá trị với những ứng dụng đối thủ, trong đó có Twitter, Amazon, Pinterest, và YouTube dù bề ngoài, các ứng dụng đó đã được Facebook chấp thuận cho tiếp cận thông tin người dùng. 
+Các email từ năm 2012 đến 2014 cũng cho thấy Facebook dự tính ép các công ty, trong đó có các nhà quảng cáo phải trả tiền để có thể tiếp cận dữ liệu người dùng. 
+Tuy nhiên, sau đó Facebook không theo đuổi kế hoạch này và đại diện mạng xã hội khẳng định "không bao giờ bán thông tin người dùng". 
+Trong khi đó, khi tìm hiểu các trang tài liệu rò rỉ, trang Computer Weekly cũng phát hiện Facebook lên kế hoạch dùng ứng dụng Android của mình để theo dõi vị trí của người dùng, từ đó, cho phép nhà quảng cáo hiển thị quảng cáo chính trị, hay mời chào các trang hẹn hò tới những người dùng smartphone Android còn độc thân. 
+Facebook từng nhiều lần khẳng định họ chưa bao giờ bán dữ liệu người dùng. 
+Nhưng trong một email gửi tháng 10/2012, Mark Zuckerberg, CEO Facebook, đã thảo luận về mô hình kiếm tiền, cho phép nhà phát triển sử dụng công cụ đăng nhập của Facebook hoặc xuất bản nội dung lên Facebook miễn phí, nhưng sẽ tính phí cho việc "đọc" dữ liệu. 
+"Một mô hình cơ bản có thể là: 
+Đăng nhập bằng Facebook luôn miễn phí. 
+Đưa nội dung lên Facebook cũng luôn miễn phí. 
+Đọc bất cứ điều gì, kể cả từ bạn bè, sẽ tốn tiền. 
+Có thể đề xuất mức 0,1 USD trên một người dùng mỗi năm", CEO Facebook gợi ý. 
+Phát ngôn viên của Facebook nói với Business Insider rằng những tài liệu trên đã cũ, bị trích dẫn không đúng bối cảnh và bị cố tình phát tán nhằm chống lại Facebook và vi phạm luật pháp Mỹ. 

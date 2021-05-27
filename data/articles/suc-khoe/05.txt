@@ -1,0 +1,9 @@
+
+Ứng dụng sàng lọc trẻ bị rối loạn di truyền 
+Trung QuốcPhần mềm dùng trí tuệ nhân tạo quét khuôn mặt trẻ sơ sinh để sàng lọc và phát hiện sớm chứng rối loạn di truyền.
+Các nhà nghiên cứu từ Trung tâm Y tế Trẻ em Thượng Hải và Trung tâm Nhi khoa Thượng Hải phát triển công cụ chẩn đoán gene đầu tiên trên thế giới có khả năng phát hiện hơn 100 chứng rối loạn với các đặc điểm trên khuôn mặt, trong đó có hội chứng Cornelia de Lange (CdLS) và hội chứng Down. 
+Theo thông tin công bố ngày 8/11, công cụ này sử dụng công nghệ trí tuệ nhân tạo (AI) trong quá trình sàng lọc ban đầu, tránh chẩn đoán sai hoặc bỏ sót trẻ sơ sinh mắc bệnh, đưa ra phương pháp điều trị phù hợp. Ứng dụng rà soát và sàng lọc các dữ liệu hồ sơ khuôn mặt bệnh nhân, sử dụng dữ liệu này để giúp chẩn đoán ca bệnh mới. 
+Phần mềm này đã được thử nghiệm tại Thượng Hải. 
+Các bác sĩ nhi khoa tải hình ảnh khuôn mặt bệnh nhân lên, sau đó tiến hành sàng lọc hình ảnh hoặc video để phát hiện các chứng rối loạn nếu có. 
+Theo Tổ chức CdLS, khuôn mặt trẻ em mắc chứng CdLS có các đặc điểm nổi bật như lông mày mỏng và giao nhau, lông mi dài, mũi ngắn và hếch, môi dưới mỏng, tai thấp và vòm miệng cao hoặc vòm miệng hở. 
+Trong khi đó, trẻ em mắc hội chứng Down thường có những đốm trắng nhỏ ở phần mắt, mặt phẳng, lưỡi lè ra khỏi miệng và mắt có hình quả hạnh, hoặc có hình dạng khác biệt so với đặc điểm dân tộc. 

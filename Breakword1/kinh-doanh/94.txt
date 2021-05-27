@@ -1,0 +1,20 @@
+
+' Mở khóa ' cho Mobile_Money
+
+Những quy_định đầu_tiên về Mobile_Money ( tiền di_động ) đã xuất_hiện trong dự_thảo thay_thế_Nghị_định 101 về thanh_toán không dùng tiền_mặt .
+Theo dự_thảo , tiền di_động được định_nghĩa_là tiền điện_tử do tổ_chức cung_ứng dịch_vụ trung_gian thanh_toán kinh_doanh dịch_vụ viễn_thông phát_hành và định_danh khách_hàng thông_qua cơ_sở dữ_liệu thuê_bao di_động .
+Dịch_vụ này , sau khi được Ngân_hàng Nhà_nước cấp phép , có_thể dùng tài_khoản viễn_thông thanh_toán các dịch_vụ khác có giá_trị nhỏ .
+Dự_thảo thay_thế_Nghị_định 101 xếp tiền di_động nằm trong loại dịch_vụ hỗ_trợ thanh_toán , thuộc dịch_vụ trung_gian thanh_toán .
+Theo đó , các đơn_vị cung_cấp dịch_vụ viễn_thông , trước_hết , phải đáp_ứng các tiêu_chí về trung_gian thanh_toán để được cấp phép , bao_gồm điều_kiện về vốn , đề_án hoạt_động , các điều_kiện về nhân_sự , kỹ_thuật , ...
+Trong phần giải_trình , cơ_quan điều_hành cho biết , tiền di_động là nội_dung mới , cần_thiết giúp người_dân có_thể thanh_toán mọi lúc mọi nơi với thiết_bị di_động được kết_nối Internet , đồng_thời giúp thúc_đẩy tài_chính toàn_diện .
+Đối_với nội_dung này , Ngân_hàng Nhà_nước cho biết đã nhận được sự đồng_thuận của một_số Bộ , ngành , tuy_nhiên để quản_lý đòi_hỏi cần đáp_ứng các điều_kiện kinh_doanh chặt_chẽ ._Dù_vậy , cơ_quan điều_hành cũng nêu rõ , cơ_sở ban_hành còn phụ_thuộc vào tiến_độ của dự_thảo Luật_Đầu_tư trình Quốc_hội .
+Theo Hiệp_hội di_động toàn_cầu ( GSMA ) , bản_chất của Mobile_Money là chuyển_đổi hình_thức của tiền_mặt sang tiền điện_tử theo tỉ_lệ 1 : 1 .
+Theo đó , đơn_vị cung_cấp dịch_vụ Mobile_Money ( ở đây có_thể là nhà mạng ) không phải là đơn_vị phát_hành tiền điện_tử vì không tạo ra lượng tiền mới đưa vào lưu_thông .
+Họ chỉ chuyển_đổi hình_thức của tiền_mặt để khách_hàng có_thể sử_dụng thanh_toán .
+Đại_diện Ngân_hàng Nhà_nước trong những hội_thảo gần đây đã nhận_định , Mobile_Money bản_chất là eMoney , là ví điện_tử nhưng không có tài_khoản ngân_hàng .
+Tuy_nhiên , khác_biệt lớn nhất giữa ví điện_tử và Mobile_Money là phần định_danh khách_hàng ( KYC - Know your customer ) .
+Với ví điện_tử , KYC do ngân_hàng làm .
+Còn với Mobile_Money , các công_ty cung_cấp dịch_vụ phải tự làm .
+Như_vậy , thách_thức với các nhà mạng là kho dữ_liệu khách_hàng phải chính xách , phải làm xác_thực như ngân_hàng , tránh mạo_danh ...
+Bên_cạnh đó , quan_điểm của Ngân_hàng Nhà_nước cũng là Mobile_Money không được làm phát_sinh lượng tiền_tệ .
+Theo đó , số tiền công_ty viễn_thông nhận của khách phải được nạp tương_ứng theo tỷ_lệ 1 : 1 .

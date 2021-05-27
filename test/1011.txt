@@ -1,0 +1,12 @@
+
+Apple phát_hành iOS , iPadOS thử_nghiệm mới
+Apple vừa tung ra iOS 13.3 beta 2 cho iPhone và iPadOS 13.3 beta 2 cho iPad trong đó chủ_yếu khắc_phục lỗi tồn_đọng trước đó .
+Hai bản cập_nhật này có_mặt sau hơn một tuần so với iOS 13.3 beta và iPadOS 13.3 beta đầu_tiên , muộn hơn nếu so_sánh với lịch_trình cập_nhật các bản thử_nghiệm của Apple .
+Thay_vì bổ_sung thêm tính_năng mới , các bản cập_nhật chủ_yếu sửa các lỗi đã tồn_tại trên phiên_bản cũ , trong đó , nghiêm_trọng nhất là sự_cố quản_lý RAM khiến máy bị chậm khi thực_hiện thao_tác đa_nhiệm .
+Đồng_thời , bản beta này cũng cải_thiện hiệu_suất thiết_bị , từ đó mang lại cho người dùng trải_nghiệm mượt_mà hơn .
+Những người đã cài phiên_bản beta của iOS và iPadOS có_thể tiến_hành nâng_cấp bằng cách vào Cài_đặt > Chung > Cập_nhật phần_mềm .
+Tuy_nhiên , thiết_bị cần được sao lưu_dữ_liệu để tránh gặp phải sự_cố không đáng có trong quá_trình update .
+Những máy được hỗ_trợ gồm iPhone 6s trở_lên , iPad Pro 9,7 inch trở_lên , iPad thế_hệ thứ 5 trở_lên , iPad mini 4 trở_lên và iPod Touch thế_hệ thứ 7 .
+Ở phiên_bản chính_thức , iOS vừa có nâng_cấp lớn thứ 2 vào cuối tháng 10 vừa_qua , với bổ_sung quan_trọng nhất là khả_năng chụp ảnh mới Deep_Fusion cho loạt iPhone 11 .
+iOS 13 là hệ điều_hành được Apple giới_thiệu từ tháng 6/20 19 .
+Sau ba tháng thử_nghiệm , phiên_bản_chính được phát_hành hôm 20/9 ngay trước khi bộ_ba iPhone 11 mở bán .

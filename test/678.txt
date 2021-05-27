@@ -1,0 +1,20 @@
+
+Trung_Quốc thử_nghiệm drone dưới nước ở Biển_Đông
+Các nhà_khoa_học Trung_Quốc phát_triển drone dưới nước tầm xa có hình_dáng giống ngư_lôi và khả_năng lặn sâu 2.000 m .
+Phương_tiện dưới nước tự_động ( AUV ) mang tên Sea - Whale 2000 đã hoàn_thành đợt thử_nghiệm kéo_dài 37 ngày liên_tiếp ở Biển_Đông trên quãng đường 2.011 km , theo thông_báo hôm 5/11 của Viện_Hàn_lâm Khoa_học Trung_Quốc .
+Mẫu drone hình ngư_lôi dài khoảng ba mét và nặng 200 kg , trang_bị công_nghệ trí_tuệ nhân_tạo và hàng_loạt cảm_biến để phát_hiện nhiệt_độ , độ_mặn , dòng hải_lưu , dấu_vết hóa_học , hoạt_động sinh_học và quan_sát dưới nước .
+Nó có_thể lặn sâu 2.000 m bên dưới mặt_nước và chạy hành_trình ở tốc_độ 1,2 mét / giây .
+" Chúng_tôi phát_triển Sea - Whale 2000 nhằm đáp_ứng những nhu_cầu khảo_sát di_động ở vùng_biển sâu về lâu_dài tại khu_vực Biển_Đông " , tiến_sĩ Huang_Yan ở Viện robot thuộc Viện_Hàn_lâm Khoa_học Trung_Quốc ở Liêu_Ninh , chia_sẻ .
+Theo nhóm thiết_kế , mẫu drone có_thể thực_hiện nhiệm_vụ kéo_dài hàng tuần chỉ với một lần phóng và hoàn_thành nhiều công_việc .
+Tuy_nhiên , họ từ_chối tiết_lộ tại_sao Trung_Quốc chế_tạo drone dưới nước dành riêng cho khu_vực Biển_Đông .
+Sea - Whale 2000 không phải mẫu AUV có tầm hoạt_động dài nhất thế_giới .
+Mẫu drone Autosub_Long_Range , biệt_danh Boaty_McBoatface của Anh , có tầm hoạt_động 6.000 km và thời_gian hoạt_động liên_tục 6 tháng .
+Trung_Quốc đang chạy_đua phát_triển tàu_ngầm không người lái và nằm trong số những nước đầu_tiên đưa công_nghệ này vào sử_dụng .
+Để mở_rộng tầm hoạt_động của mẫu drone , tiếng sĩ_Huang và cộng_sự tạo ra một bộ khung lai cho_phép phương_tiện vận_hành ở các chế_độ khác nhau nhằm giảm mức tiêu_thụ năng_lượng .
+Sea - Whale 2000 có_thể chạy hành_trình như tàu_ngầm thông_thường , lượn lên và xuống mặt_nước , hoặc cưỡi sóng giống như chai lọ trôi_dạt .
+Mẫu drone sử_dụng bộ xử_lý trung_tâm từ STMicroelectronics , công_ty bán_dẫn tại châu_Âu , và liên_lạc qua mạng_lưới vệ_tinh toàn_cầu do công_ty Mỹ Iridium_Communications điều_hành .
+Giáo_sư Liu_Xiaoshou , nhà_khoa_học đời_sống hải_dương ở Đại_học Hải_dương Trung_Quốc , cho biết cảm_biến sinh_học trên Sea - Whale 2000 có_thể thu_thập_dữ_liệu về sinh_thái như tảo nở hoa .
+Tổng_hợp thông_tin từ những cảm_biến khác , nhóm nghiên_cứu có_thể dựng lại quá_trình tiến_hóa của các hệ_thống sinh_học ở quy_mô lớn hơn .
+Phần_lớn công_việc thu_thập_dữ_liệu vẫn được tiến_hành bởi con_người trong các hành_trình nghiên_cứu tốn_kém , mất thời_gian và chịu ảnh_hưởng từ thời_tiết .
+Theo giáo_sư Liu , việc ứng_dụng drone trên quy_mô lớn có_thể không diễn ra ngay_lập_tức bởi công_nghệ mới cần nhiều thời_gian để hoàn_thiện .
+Dữ_liệu do drone thu_thập cần được so_sánh cẩn_thận với dữ_liệu từ các phương_pháp khác để quyết_định chất_lượng và độ chính_xác .

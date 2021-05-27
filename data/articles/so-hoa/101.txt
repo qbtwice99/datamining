@@ -1,0 +1,27 @@
+
+Những vật cản sóng Wi-Fi 
+Bề mặt kim loại, đồ nội thất, tường nhà sẽ khiến sóng Wi-Fi không đạt tốc độ truyền như ban đầu.
+Kim loại là một chất dẫn, tức là nó có khả năng hấp thụ điện. 
+Trong khi việc truyền tín hiệu của Wi-Fi sẽ giải phóng sóng điện từ. 
+Do vậy, bất kỳ bề mặt kim loại hoặc vật thể nào tương tự cũng sẽ ngăn sóng lan rộng. 
+Nếu muốn kết nối Internet thông suốt, người dùng cần đặt bộ định tuyến càng xa kim loại càng tốt. 
+Một số tường xây bằng đá cẩm thạch, xi măng, bê tông, thạch cao hay gạch nung có thể chặn sóng Wi-Fi. 
+Để khắc phục, người dùng cần đặt bộ định tuyến ở một khu vực mở và không bị ngăn cách. 
+Đây là vật dụng phản chiếu hình ảnh của mình khi soi, nhưng cũng có thể khiến tín hiệu Wi-Fi bị bật ngược trở lại, tương tự lá chắn. 
+Khi đặt bộ định tuyến gần gương, cường độ tín hiệu sẽ chậm hơn, tốc độ Internet không nhanh như ban đầu. 
+Theo nguyên tắc chung, các thiết bị điện có đường ống dẫn nước không thân thiện với tín hiệu Wi-Fi. 
+Nước có thể giữ lại một phần năng lượng từ sóng không dây và điều này ảnh hưởng tiêu cực đến chất lượng kết nối Internet. 
+Những chuỗi đèn đầy màu sắc cũng có thể là nguyên nhân khiến tín hiệu Wi-Fi bị yếu. 
+Hệ thống chip trên đó điều khiển để tạo ra nhấp nháy nhưng cũng đồng thời tạo ra từ trường. 
+Khi tương tác với sóng điện do bộ định tuyến phát ra, sóng Wi-Fi cũng từ đó bị yếu đi. 
+Những màn hình đời cũ, kích thước nhỏ có thể tạo ra sóng nhiễu 2,4 GHz tương tự sóng Wi-Fi. 
+Việc hai thiết bị truyền cùng tần số có thể khiến sóng bị triệt tiêu lẫn nhau, làm cho mạng Wi-Fi chập chờn, thậm chí không sử dụng được. 
+Để tăng chất lượng sóng Wi-Fi gia đình, người dùng có thể thực hiện các cách sau: 
+- Chọn vị trí thích hợp, không bị các vật cản che khuất để đặt bộ định tuyến. 
+- Thường xuyên cập nhật bộ định tuyến. 
+- Dùng thiết bị có ăng-ten mạnh. 
+- Sử dụng mật khẩu mạnh, tránh chia sẻ với bên ngoài nếu không cần thiết. 
+- Mua thêm bộ khuếch đại Wi-Fi nếu bộ định tuyến đặt xa nơi thường dùng. 
+- Sử dụng các công nghệ Wi-Fi mới và hiện đại nhất. 
+- Nếu đang sử dụng bộ định tuyến 2,4 GHz cũ kỹ, người dùng có thể nâng cấp lên thiết bị mới hơn với tần số 5 GHz. 
+- Reset bộ định tuyến định kỳ sau một thời gian sử dụng. 

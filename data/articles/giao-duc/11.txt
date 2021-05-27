@@ -1,0 +1,16 @@
+
+Bài toán chuyển động lớp 6 của Hungary 
+Toán chuyển động trên thang cuốn rất ít thấy trong sách tiểu học, THCS và đề thi học sinh giỏi toán ở Việt Nam, nhưng ở Hungary thì không hiếm.
+Bài toán dưới đây được trích từ một kỳ thi lớp 6 của Hungary. 
+Topic 60. 
+Problem: 
+Timea, who is always in a hurry, went up the escalator by making one step every second. 
+This way it took her 20 steps to get upstairs. 
+The next day she made 2 steps every second on her way up, and this time it took her 32 steps to get upstairs. 
+How many steps would it take her to go upstairs if the escalator did not work? 
+Dịch đề: 
+Timea, một người luôn luôn vội vã, đi lên thang cuốn bằng cách bước 1 bậc thang mỗi giây. 
+Như vậy để lên đến tầng trên, cô ấy cần bước 20 bậc thang. 
+Ngày hôm sau, cô ấy lại đi thang cuốn nhưng bằng cách bước 2 bậc thang mỗi giây. 
+Lần này Timea phải bước 32 bậc mới lên đến tầng trên. 
+Hỏi nếu thang cuốn không chạy thì cô ấy cần đi bao nhiêu bậc để lên tầng trên? 

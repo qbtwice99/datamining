@@ -1,0 +1,3 @@
+
+Học sinh tiểu học được kiểm tra sức khỏe bằng robot 
+Trung QuốcTrong 10 giây, robot tự động ghi lại thông số sức khỏe hàng ngày, gửi tới bác sĩ để theo dõi và phát hiện những vấn đề bất thường ở trẻ. 

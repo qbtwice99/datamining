@@ -1,0 +1,28 @@
+
+Thử nghiệm 'gây sốc điện' 400 V lên con người 
+MỹNếu một kẻ có quyền ra lệnh cho bạn chích điện mức 400 volt lên một người khác, bạn có làm không? Đương nhiên là không. Nhưng một thí nghiệm đã chứng minh ngược lại. 
+Trong những năm 1960, nhà tâm lý học của Đại học Yale, ông Stanley Milgram, tiến hành một loạt thí nghiệm về sự tuân lệnh của con người trong những hoàn cảnh nhất định. 
+Nó cho thấy sự nguy hiểm khi "kẻ xấu" hoàn toàn kiểm soát tình huống; 
+hoặc kẻ tuân lệnh chỉ răm rắp làm mà không có suy nghĩ của bản thân. 
+Thí nghiệm này đến nay vẫn gây tranh cãi về y đức. 
+Có 40 người tham gia thí nghiệm Milgram, được tuyển chọn thông qua quảng cáo trên báo. 
+Mỗi người được trả 4,50 USD. 
+Stanley Milgram tạo ra một bộ sốc điện, với các mức sốc bắt đầu từ 30 volt và tăng dần mỗi nấc 15 volt đến 450 volt. 
+Trên thiết bị có các công tắc được dán nhãn với các từ "sốc nhẹ", "sốc vừa phải" và "nguy hiểm sốc nặng". 
+Hai công tắc cuối cùng được gắn nhãn đơn giản với chữ "XXX". 
+Mỗi người tham gia đóng vai trò là một "giáo viên". 
+Họ sẽ sốc điện "học sinh" mỗi khi học sinh trả lời sai. 
+Máy tạo sốc điện thực ra không nối với "học sinh" và không gây hại cho họ. 
+Học sinh, thực chất là những người hỗ trợ thí nghiệm và họ chỉ giả vờ là bị sốc điện. Câu trả lời của học sinh được thu âm sẵn và phát lại tương ứng với mức độ sốc điện. 
+Ở mức 75 volt, học sinh bắt đầu càu nhàu và rên rỉ, ở mức 150 volt họ yêu cầu được cho ra khỏi thí nghiệm. 
+Ở 180 volt, họ kêu lên rằng mình không còn chịu đựng được sự đau đớn này nữa. 
+Ở mức 300 volt, họ từ chối trả lời thêm bất kỳ câu hỏi nào và nhấn mạnh rằng họ cần phải được thả ra. 
+Khi tiến hành thí nghiệm, người tham gia sẽ nghe những "học sinh" khẩn khoản xin được thả ra hoặc thậm chí nói rằng họ có vấn đề về bệnh tim. 
+Hầu hết những người tham gia hỏi nhà khoa học chủ trì thí nghiệm, rằng liệu họ có nên tiếp tục không. 
+Người chủ trì sẽ ra một loạt lệnh để thúc đẩy người tham gia: "Xin vui lòng tiếp tục", "Thí nghiệm yêu cầu bạn tiếp tục", "Việc bạn tiếp tục là điều hoàn toàn cần thiết", "Bạn không có lựa chọn nào khác, bạn phải tiếp tục",... 
+Kết quả, 65% người tham gia nghiên cứu Milgram thực hiện sốc điện tối đa và 14 người dừng lại trước khi vặn mức cao nhất. 
+Theo Stanley Milgram, một số yếu tố tình huống có thể giải thích mức độ vâng lời cao như vậy, ví dụ như việc không phải chịu trách nhiệm, sự tin tưởng tuyệt đối vào hình ảnh một người có thẩm quyền (ở đây là người chủ trì thí nghiệm) và uy tín của trường đại học Yale, nơi tổ chức thí nghiệm. 
+Suốt nhiều năm, thí nghiệm Milgram trở thành đề tài tranh luận có vi phạm đạo đức hay không. 
+Nó cũng trở thành thí nghiệm kinh điển trong tâm lý học, chứng minh sự nguy hiểm của việc tuân theo mệnh lệnh. Nghiên cứu cho thấy các yếu tố tình huống có ảnh hưởng mạnh hơn các yếu tố tính cách khi chủ thể quyết định xem nên vâng lời hay không. 
+Milgram kết luận: 
+"Dưới áp lực xã hội, nhiều cá nhân sẽ tham gia vào các hành vi gây ra sự đau khổ đáng kể ở người khác và bản thân họ". 

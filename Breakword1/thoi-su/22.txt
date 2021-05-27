@@ -1,0 +1,11 @@
+
+Xe không dán thẻ gây tắc làn thu phí tự_động
+Xe không dán thẻ , chưa nạp tiền đi vào làn thu phí không dừng dẫn đến ùn_tắc ở nhiều trạm BOT.
+Theo ông Hồ_Trọng_Vinh , Phó_tổng_giám_đốc Công_ty TNHH Thu phí tự_động ( VETC ) , đơn_vị này đã dán 812.000 thẻ thu phí không dừng trong tổng_số 3 triệu phương_tiện trên cả nước và lắp_đặt hệ_thống thu phí không dừng tại 31 trong 44 trạm BOT theo dự_án thu phí không dừng giai_đoạn 1 , còn một_số trạm thu phí trên cao_tốc chưa lắp_đặt do nhà_đầu_tư chậm triển_khai .
+" Do chậm triển_khai đồng_bộ tại các trạm thu phí và xe không dán thẻ đi không đúng làn khiến nhiều chủ xe không mặn_mà với việc dán thẻ VETC.
+Tôi tin rằng nếu xử_lý được hai vấn_đề này thì lượng xe dán thẻ sẽ tăng lên " , ông Vinh nói .
+Dịch_vụ thu phí tự_động đường_bộ áp_dụng công_nghệ_RFID để nhận_diện phương_tiện xe_cơ_giới có gắn thẻ định_danh được dán lên kính hoặc đèn xe .
+Từ thẻ gắn trên kính xe , thiết_bị đọc gắn tại trạm thu phí sẽ trừ tiền của chủ xe .
+Chủ xe có_thể nạp tiền vào tài_khoản bằng tiền_mặt , Internet banking ...
+Theo kế_hoạch , 44 trạm BOT trên cả nước đều phải triển_khai làn thu phí tự_động không dừng trước 31/12/2019 và một thẻ có_thể đi qua tất_cả các trạm .
+Trong thời_gian tới , các xe không dán thẻ đi vào làn thu phí tự_động sẽ bị xử_phạt theo điều 5 , nghị_định 46 với mức phạt từ 800.000 đồng đến 1,2 triệu đồng ( người điều_khiển xe đi không đúng phần đường hoặc làn đường quy_định ) .

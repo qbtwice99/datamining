@@ -1,0 +1,15 @@
+
+Go-Viet cho tài xế tra cứu thu nhập và thuế	
+
+Cổng thông tin điện tử tra cứu thu nhập và nghĩa vụ thuế dành cho các tài xế Go-Viet vận hành từ ngày 7 /11.	
+Cổng thông tin này cho phép tài xế theo dõi thu nhập với độ trễ một ngày. 
+Họ có thể xem chi tiết bảng kê thu nhập, bao gồm doanh thu từ cước phí chuyến đi, thu nhập từ tiền thưởng, thuế phải thu trên từng hạng mục, tổng nghĩa vụ thuế và số tiền thuế đã đóng, thu nhập còn lại sau khi nộp thuế... 
+từ đầu năm 2019. 
+Tài xế phải sử dụng đúng tài khoản đã đăng ký với Go-Viet mới có thể truy cập. Nhằm đảm bảo an toàn thông tin, mỗi đối tác tài xế có 5 phút duy trì trên hệ thống, sau đó tài khoản sẽ tự động thoát ra ngoài. 
+Đối tác tài xế muốn xem lại cần đăng nhập lại. 
+"Với cổng thông tin điện tử mới này, chúng tôi hy vọng tạo ra một kênh thông tin minh bạch, tiện lợi dành cho đối tác tài xế," ông Nguyễn Kiên, Giám đốc phụ trách cộng đồng đối tác tài xế Go-Viet nói. 
+Phía công ty cho hay, cổng thông tin này là một trong các bước hoàn thiện quy trình và hệ thống quản trị nhằm đạt các tiêu chuẩn quốc tế mà tập đoàn mẹ Go-Jek hướng tới. 
+Đây cũng là hãng gọi xe công nghệ đầu tiên ở Việt Nam có công cụ này. 
+Trước đó, Go-Viet thông báo kể từ ngày 19/10, doanh nghiệp bắt đầu thu thuế từ những cá nhân kinh doanh theo hình thức hợp tác kinh doanh vận tải có thu nhập từ nền tảng này từ 100 triệu đồng trở lên trong một năm. 
+Công ty sẽ thay mặt các đối tác tài xế thực hiện việc khai thuế và đóng thuế cho cơ quan thuế. 
+Theo số liệu công bố gần nhất, tính đến tháng 8/2019, sau một năm có mặt trên thị trường, Go-Viet có 150.000 đối tác tài xế và giao đồ ăn từ 80.000 nhà hàng. 

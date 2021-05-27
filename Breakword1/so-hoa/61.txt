@@ -1,0 +1,23 @@
+
+Công_nghệ có_thể tạo ' Big_Bang ' trong báo_chí
+Bộ_trưởng Bộ Thông_tin và Truyền_thông Nguyễn_Mạnh_Hùng khẳng_định công_nghệ số sẽ ảnh_hưởng đến lĩnh_vực báo_chí nhiều nhất .
+" Công_nghệ_số có_thể tạo nên Big_Bang ở lĩnh_vực báo_chí truyền_thông .
+Nhưng hiện_nay , báo_chí đang đi sau về công_nghệ .
+Trước những thách_thức khác nhau của nhu_cầu đổi_mới công_nghệ , nhiều cơ_quan báo_chí đã lỗi_hẹn , hoặc bỏ_cuộc , hoặc chưa từng bắt_đầu " , Bộ_trưởng Nguyễn_Mạnh_Hùng phát_biểu tại Diễn_đàn Báo_chí và_Công_nghệ ngày 13/11 ở Hà_Nội .
+Theo Bộ_trưởng , thời_đại kỹ_thuật_số sẽ tạo điều_kiện cho báo_chí tiếp_cận những kho dữ_liệu quan_trọng , những kho trí_thức và nguồn tin đa_dạng chỉ bằng một cú nhấp chuột . " Chuyển_đổi số báo_chí cũng cần những công_ty công_nghệ đi bên cạnh hỗ_trợ .
+Việt_Nam có những công_ty công_nghệ số rất mạnh , không_chỉ cung_cấp hạ_tầng viễn_thông , hạ_tầng CNTT , cloud mà_còn có_thể phát_triển nền_tảng ( platform ) , ứng_dụng báo_chí , nhất_là các platform dùng chung cho báo_chí " , ông Nguyễn_Mạnh_Hùng nói .
+Cục_trưởng Cục Báo_chí Lưu_Đình_Phúc cho biết , các kênh quảng_cáo số , như của Facebook , Google ...
+đang chiếm đa_số chi_phí quảng_cáo của doanh_nghiệp .
+Vì_vậy , nguồn thu của báo_chí nói_chung đang ngày một thu_nhỏ lại . Công_nghệ sẽ tạo ra cuộc_chơi mới , mô_hình kinh_doanh mới .
+Quá_trình tìm lời_giải về công_nghệ phải song_song với việc tìm ra các mô_hình kinh_tế mới cho báo_chí .
+" Tốc_độ thay_đổi công_nghệ không có dấu_hiệu chậm lại , trí_tuệ nhân_tạo có khả_năng cung_cấp nhiều dịch_vụ cá_nhân , những cách mới để khám_phá câu_chuyện , phân_phối nội_dung hiệu_quả hơn .
+Blockchain mở ra các dịch_vụ thanh_toán và xác_minh mới , trong khi trợ_lý giọng nói có_thể trở_thành một cổng thông_tin mới .
+Báo_chí cần tìm cách kết_hợp nguồn nhân_lực của mình với làn_sóng công_nghệ mới , sử_dụng AI để gợi_ý bài viết theo sở_thích , thói_quen của độc_giả ... " , ông Phúc nhấn_mạnh .
+Trong khi đó , theo ông Nguyễn_Huy_Dũng , Cục_trưởng Cục An_toàn An_ninh mạng , các cơ_quan báo_chí truyền_thông thường_xuyên là đích ngắm của tin tặc .
+Nhiều báo điện_tử tại Việt_Nam từng là nạn_nhân của những cuộc tấn_công từ_chối dịch_vụ ( DDoS ) quy_mô lớn .
+Không chỉ tấn_công mạng , kẻ xấu còn có_thể lợi_dụng chiêu trò công_nghệ để bôi_nhọ , cạnh_tranh không lành_mạnh ...
+Ông Dũng cho biết , các nhóm tấn_công thường không trực_tiếp nhắm vào hệ_thống thông_tin , máy_chủ ...
+mà khai_thác thông_qua người dùng cuối .
+Chúng có_thể gửi email có nội_dung liên_quan tới công_việc để dụ người nhận mở_đường link chứa mã độc , từ đó leo_thang lây_nhiễm vào cả hệ_thống , gây lộ lọt thông_tin ra ngoài .
+" Với hàng chục triệu độc_giả truy_cập , các kênh báo_chí sẽ là kênh dễ_dàng nhất để tin tặc tấn_công nhằm xuyên_tạc nội_dung , đăng thông_tin vi_phạm pháp_luật , phát_tán mã độc nhanh hơn ... " , Cục_trưởng Cục An_toàn Thông_tin nhấn_mạnh .
+Ông khuyến_cáo các cơ_quan báo_chí cần đảm_bảo an_toàn thông_tin cho các hệ_thống và tăng_cường khả_năng tự đảm_bảo an_toàn thông_tin cho các phóng_viên , biên_tập_viên .

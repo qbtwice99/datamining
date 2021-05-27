@@ -1,0 +1,15 @@
+
+Trung_Quốc có máy_tính lượng_tử không thua_kém Google
+Các nhà_khoa_học Trung_Quốc vừa công_bố máy_tính lượng_tử mới cho tốc_độ thực_hiện phép_tính không thua_kém gì cỗ máy Sycamore của Google .
+Các nhà_khoa_học thuộc Đại_học Khoa_học_và_Công_nghệ Trung_Quốc tại thành_phố Hợp_Phì cho biết đã tạo thành_công hệ_thống máy_tính mô_phỏng dựa trên ánh_sáng ( light - base simulation ) , cho_phép thực_hiện một phép tính nhanh hơn 10 tỷ lần so với các phương_pháp truyền_thống đang có trên máy_tính cá_nhân tốt nhất hiện_nay .
+Theo nhóm chuyên_gia , cỗ máy này sẽ là máy_tính lượng_tử tiên_tiến nhất , trong đó , sử_dụng các hạt nguyên_tử ánh_sáng ( subatomic particles of light ) để thực_hiện phép_tính .
+Tuy_nhiên , chi_tiết về chế_tạo và cách_thức hoạt_động đã không được tiết_lộ .
+Thông_báo từ Đại_học Khoa_học_và_Công_nghệ Trung_Quốc được đưa ra ít_lâu sau khi Google công_bố đã đạt Ưu_thế lượng_tử hay Lượng_tử tối_cao ( Quantum_Supremacy ) , trong đó , cỗ máy chạy chip_Sycamore tốc_độ xử_lý 54 qubit ( bit lượng_tử ) , chỉ mất khoảng 200 giây ( 3 phút 20 giây ) để thực_hiện xong phép_toán mà IBM_Summit , siêu máy_tính mạnh nhất thế_giới , ước_tính phải mất 10.000 năm mới giải xong .
+Tuy_nhiên , Giáo_sư Pan_Jianwei , trưởng nhóm phát_triển máy_tính lượng_tử của Đại_học Khoa_học_và_Công_nghệ Trung_Quốc , đánh_giá , thiết_bị chưa_thể so_sánh với Sycamore về hiệu_năng .
+Ông cũng thừa_nhận Mỹ vẫn đang vượt xa Trung_Quốc về máy_tính lượng_tử , nhưng cỗ máy mới giúp cuộc đua về siêu máy_tính giữa hai nước trở_nên gay_cấn hơn .
+Chuyên_gia này cũng kỳ_vọng Trung_Quốc sớm đạt được Ưu_thế lượng_tử .
+Theo SCMP , cả hai thành_tựu này giúp Mỹ và Trung_Quốc tiến thiêm một bước trong điện_toán lượng_tử , trong đó , các nhà_khoa_học dần kiểm_soát các hạt hạ_nguyên_tử .
+Điều này sẽ giúp giới khoa_học có_thể tạo nên những siêu máy_tính mạnh hơn rất nhiều so với hiện_nay .
+Siêu máy_tính được đánh_giá là xu_hướng của tương_lai , phục_vụ cho rất nhiều lĩnh_vực trong cuộc_sống .
+Những đột_phá về loại thiết_bị này có_thể giúp hỗ_trợ y_học nghiên_cứu kéo_dài sự sống , tạo siêu vật_liệu mới .
+Nó cũng được cho là sẽ ảnh_hưởng đến thị_trường tài_chính , chính_phủ , cộng_đồng quốc_tế và cả quân_đội .

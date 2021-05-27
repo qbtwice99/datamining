@@ -1,0 +1,15 @@
+
+Máy tính Google có thể khai thác hết Bitcoin trong 2 giây 
+Lượng Bitcoin trên thế giới được dự đoán có thể bị khai thác sớm hơn so với dự đoán nhờ vào máy tính lượng tử của Google.
+Theo một bài viết mới đây trên Medium, cỗ máy chạy chip Sycamore của Google đã có bước đột phá và có thể giải quyết một bài toán trong 200 giây, điều mà IBM Summit - siêu máy tính mạnh nhất thế giới - ước tính phải mất 10.000 năm mới giải xong. 
+Gần như ngay lập tức sau thông tin này, một "cơn hoảng loạn" bùng phát trong cộng đồng tiền điện tử. 
+Các cuộc thảo luận về nguy cơ loại tiền này sẽ mất giá do Google có thể khai thác chúng nhanh hơn dự đoán thu hút hàng nghìn bình luận. 
+Giả thuyết được trang Medium đưa ra là 3 triệu còn lại trong tổng 21 triệu Bitcoin sẽ bị máy tính lượng tử của Google khai thác chỉ trong vỏn vẹn 2 giây. 
+Bitcoin thứ 18 triệu đã được khai thác thành công hồi đầu năm và theo tính toán ban đầu, toàn bộ số tiền ảo này sẽ bị khai thác hết vào năm 2140. 
+Bài đăng đã bị xóa vì có một số chi tiết sai. 
+Đầu tiên, tác giả tính toán rằng mỗi Bitcoin sẽ được tạo ra sau 10 phút nhưng thực tế số lượng cao hơn, 12,5 Bitcoin sau 10 phút. 
+Chênh lệch này không phải nhỏ và nó sẽ khiến quá trình tính toán trở nên phức tạp hơn nên kết quả cuối cùng không còn đúng. Tác giả cũng không để ý đến chi tiết là sau mỗi đợt sẽ có tiến trình điều chỉnh độ khó. 
+Khi độ khó tăng lên, máy tính lượng tử cũng tính chậm đi. 
+Thực tế, trang Cryptoglobe cho rằng việc đưa một cỗ máy mạnh mẽ vào "đào" Bitcoin không hề đơn giản, thậm chí việc thiết lập để nó đào Bitcoin cũng khó thực hiện được. 
+Chuyên gia tiền ảo Vitalik Buterin cho rằng máy tính lượng tử chưa thực sự là mối đe dọa với tiền kỹ thuật số, ít nhất là lúc này. 
+Theo ông, thiết bị này chỉ mang tính khái niệm và sẽ không tác động tiêu cực đến công nghệ mã hóa chuỗi khối hiện tại. Tuy nhiên, một số chuyên gia khác đánh giá điện toán lượng tử đang đứng trước một cơ hội lớn và vẫn có những lợi ích nào đó đối với nền công nghiệp tiền kỹ thuật số. 

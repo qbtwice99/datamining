@@ -1,0 +1,17 @@
+
+' Bẫy ' bắt_giữ tế_bào ung_thư
+MỹCơ chế hoạt_động của ' bẫy ' như một bộ lọc , in 3D , có_thể tách các tế_bào ung_thư từ hàng triệu tế_bào máu .
+Nhóm nghiên_cứu từ Trường Kỹ_thuật_Điện và Vi_tính ( SECE ) của Học_viện Công_nghệ_Georgia , ứng_dụng công_nghệ kênh dẫn vi lưu ( Microfluidics ) để tạo ra " bẫy mồi " .
+Nghiên_cứu_sinh Chia - Heng_Chu dùng công_nghệ in 3D chứa các kênh dẫn vi lưu đặt trong dung_dịch kháng_nguyên để lọc những tế_bào bạch_cầu trong máu .
+Các kênh dẫn vi lưu nối với nhau thành_hình zig - zag dài khoảng 50 cm .
+Mọi tế_bào bạch_cầu sẽ tiếp_xúc với thành kênh và bị giữ lại , loại_bỏ . Các tế_bào hồng_cầu nhỏ hơn tiếp_tục đi qua bộ lọc để nuôi cơ_thể .
+Nhóm nghiên_cứu thử_nghiệm thiết_bị bằng cách thêm tế_bào ung_thư vào máu từ những người khỏe_mạnh .
+Kết_quả , " bẫy " có_thể thu được khoảng 90 % tế_bào khối_u .
+Thử_nghiệm tiếp với 10 ml mẫu máu từ bệnh_nhân ung_thư tuyến_tiền_liệt , kết_quả cho thấy tế_bào ung_thư đã bị loại_bỏ hoàn_toàn .
+Trước đây , giới khoa_học dùng công_nghệ kênh dẫn vi lưu ( Microfluidics ) để thử_nghiệm " bắt " các tế_bào ung_thư nhờ tính_năng nhận_biết dấu_hiệu bên ngoài của tế_bào ác_tính .
+Tuy_nhiên , vì ung_thư liên_tục thay_đổi theo thời_gian nên công_nghệ này không phải lúc_nào cũng phân_biệt chính_xác được các tế_bào bệnh .
+Ngay cả khi các tế_bào ung_thư bị " trúng bẫy " thì việc loại_bỏ chúng và tách khỏi kháng_nguyên mà không gây tổn_hại tế_bào lành ở xung_quanh , cũng là một thách_thức lớn .
+Theo giáo_sư Fatih_Sarioglu tại Trường SECE , các thiết_bị sử_dụng công_nghệ kênh dẫn vi lưu trước_đây chỉ có một lớp với độ cao các kênh trung_bình là 50-10 0 micrometer .
+Công_nghệ in 3D có_thể tạo ra nhiều kênh trong không_gian 3 chiều để tối_đa khả_năng lọc của thiết_bị .
+Công_nghệ này chỉ mới thử_nghiệm trên các mẫu máu của bệnh_nhân ung_thư tuyến_tiền_liệt , ung_thư vú và ung_thư buồng_trứng .
+Các nhà_khoa_học tin rằng thiết_bị có_thể áp_dụng cho bất_kỳ loại ung_thư nào vì cơ_chế của nó nhắm vào tế_bào máu chứ không phải tế_bào ung_thư . Họ hy_vọng đây là công_cụ hỗ_trợ lâm_sàng cho bác_sĩ , sử_dụng trong bệnh_viện , phòng_khám và các cơ_sở y_tế tương_lai không xa .

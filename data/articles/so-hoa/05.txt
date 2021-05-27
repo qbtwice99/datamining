@@ -1,0 +1,16 @@
+
+Google thu thập dữ liệu y tế trái phép 
+MỹGoogle được cho là đã thu thập dữ liệu sức khỏe của hàng triệu người dân ở 21 bang mà không có thông báo hoặc sự đồng ý của người dùng.
+Việc thu thập dữ liệu nằm trong dự án có tên mã "Nightingale Project" mà Google đang hợp tác với hệ thống chăm sóc sức khỏe lớn thứ hai nước Mỹ Ascension, theo Wall Street Journal. 
+Mục đích chính của dự án là nhằm cải thiện phần mềm chăm sóc sức khỏe mà công ty tìm kiếm đang triển khai. 
+Các thông tin mà Google thu thập bao gồm "kết quả phòng thí nghiệm, chẩn đoán của bác sĩ và hồ sơ nhập viện". 
+Chúng đều ở dạng "hồ sơ sức khỏe hoàn chỉnh với đầy đủ tên bệnh nhân và ngày sinh của họ". 
+Nói cách khác, Ascension đã bàn giao toàn bộ thông tin y tế khách hàng của mình cho Google một cách đầy đủ thay vì ẩn danh. 
+Mashable đánh giá rằng sự việc đang trở nên tồi tệ, bởi hành vi của Google vẫn hợp pháp dù thu thập dữ liệu bệnh nhân mà chưa được phép, do họ vẫn tuân thủ đạo luật về tính linh hoạt và tính trách nhiệm về bảo hiểm sức khoẻ (HIPPA) năm 1996. 
+Theo website của Bộ Y tế và Dịch vụ Nhân sinh Mỹ, dựa trên HIPPA, các nhà cung cấp và chương trình chăm sóc y tế có thể "tiết lộ thông tin sức khỏe được bảo vệ cho các 'đối tác kinh doanh' nếu nhà cung cấp hoặc chương trình đó đảm bảo đối tác sẽ chỉ sử dụng chúng cho mục đích thực thể, cam kết bảo vệ thông tin khỏi bị lạm dụng và tuân thủ Quy tắc bảo mật". 
+Trong trường hợp này, Ascension là "thực thể được bảo hiểm" với tư cách là nhà cung cấp dịch vụ chăm sóc sức khỏe còn Google là "đối tác kinh doanh". 
+Một nguồn tin khác cho biết, ít nhất 150 nhân viên của Google có quyền truy cập vào "Nightingale Project" - nơi chứa khối dữ liệu này, dù bệnh nhân và bác sĩ khám bệnh chưa cho phép. 
+Điều này có thể khiến chúng dễ bị rò rỉ, nhất là trong quá khứ, hãng tìm kiếm Mỹ từng để lộ 52,2 triệu thông tin người dùng do hệ thống bị lỗi. 
+Trước sự lo ngại ngày càng tăng, cả Ascension lẫn Google đều đưa ra thông cáo chung, trong đó khẳng định mọi vấn đề đều tuân thủ theo luật HIPAA, đồng thời việc bảo mật thông tin được thực hiện kỹ lưỡng và nghiêm ngặt quy định của Ascension về xử lý dữ liệu. 
+Tuy vậy, thông cáo báo chí này lại không đề cập đến những lo ngại liên quan đến quyền riêng tư và các câu hỏi về tính hợp pháp của việc chia sẻ dữ liệu cá nhân mà chưa được bệnh nhân đồng ý. 
+Thay vào đó, Google chỉ đề cập đến việc hợp tác liên quan đến chuyển cơ sở hạ tầng sang Google Cloud, sử dụng G-Suite và trí tuệ nhân tạo để "hỗ trợ cải thiện chất lượng, hiệu quả lâm sàng và an toàn cho bệnh nhân". 

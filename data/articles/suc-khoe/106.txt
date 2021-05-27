@@ -1,0 +1,17 @@
+
+'Bẫy' bắt giữ tế bào ung thư 
+MỹCơ chế hoạt động của 'bẫy' như một bộ lọc, in 3D, có thể tách các tế bào ung thư từ hàng triệu tế bào máu.
+Nhóm nghiên cứu từ Trường Kỹ thuật Điện và Vi tính (SECE) của Học viện Công nghệ Georgia, ứng dụng công nghệ kênh dẫn vi lưu (Microfluidics) để tạo ra "bẫy mồi". 
+Nghiên cứu sinh Chia-Heng Chu dùng công nghệ in 3D chứa các kênh dẫn vi lưu đặt trong dung dịch kháng nguyên để lọc những tế bào bạch cầu trong máu. 
+Các kênh dẫn vi lưu nối với nhau thành hình zig-zag dài khoảng 50 cm. 
+Mọi tế bào bạch cầu sẽ tiếp xúc với thành kênh và bị giữ lại, loại bỏ. Các tế bào hồng cầu nhỏ hơn tiếp tục đi qua bộ lọc để nuôi cơ thể. 
+Nhóm nghiên cứu thử nghiệm thiết bị bằng cách thêm tế bào ung thư vào máu từ những người khỏe mạnh. 
+Kết quả, "bẫy" có thể thu được khoảng 90% tế bào khối u. 
+Thử nghiệm tiếp với 10 ml mẫu máu từ bệnh nhân ung thư tuyến tiền liệt, kết quả cho thấy tế bào ung thư đã bị loại bỏ hoàn toàn. 
+Trước đây, giới khoa học dùng công nghệ kênh dẫn vi lưu (Microfluidics) để thử nghiệm "bắt" các tế bào ung thư nhờ tính năng nhận biết dấu hiệu bên ngoài của tế bào ác tính. 
+Tuy nhiên, vì ung thư liên tục thay đổi theo thời gian nên công nghệ này không phải lúc nào cũng phân biệt chính xác được các tế bào bệnh. 
+Ngay cả khi các tế bào ung thư bị "trúng bẫy" thì việc loại bỏ chúng và tách khỏi kháng nguyên mà không gây tổn hại tế bào lành ở xung quanh, cũng là một thách thức lớn. 
+Theo giáo sư Fatih Sarioglu tại Trường SECE, các thiết bị sử dụng công nghệ kênh dẫn vi lưu trước đây chỉ có một lớp với độ cao các kênh trung bình là 50-100 micrometer. 
+Công nghệ in 3D có thể tạo ra nhiều kênh trong không gian 3 chiều để tối đa khả năng lọc của thiết bị. 
+Công nghệ này chỉ mới thử nghiệm trên các mẫu máu của bệnh nhân ung thư tuyến tiền liệt, ung thư vú và ung thư buồng trứng. 
+Các nhà khoa học tin rằng thiết bị có thể áp dụng cho bất kỳ loại ung thư nào vì cơ chế của nó nhắm vào tế bào máu chứ không phải tế bào ung thư. Họ hy vọng đây là công cụ hỗ trợ lâm sàng cho bác sĩ, sử dụng trong bệnh viện, phòng khám và các cơ sở y tế tương lai không xa. 

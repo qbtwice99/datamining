@@ -1,0 +1,37 @@
+
+Công nghệ thay đổi ngành điện TP HCM	
+
+Trước đây, xử lý sự cố điện phải mất vài giờ thì hiện tại thông qua hệ thống điều hành từ xa mà sau vài phút có thể đóng điện trở lại.	
+Thay đổi đáng kể này có được do Tổng công ty Điện lực TP HCM (EVN HCMC) thực hiện xây dựng lưới điện thông minh, góp phần vào việc triển khai đề án "Xây dựng TP HCM trở thành thành phố thông minh giai đoạn 2017-2020, tầm nhìn 2025". 
+Ông Nguyễn Văn Thanh - Phó tổng giám đốc EVN HCMC kể lại câu chuyện xảy ra tại khu vực đường Cây Trâm, quận Gò Vấp, TP HCM, hồi giữa tháng 3. 
+Sự cố chập khiến một khu vực rộng trải dài trên tuyến phố mất điện. 
+Trước đây với tình trạng tương tự, công nhân phải trực tiếp đến hiện trường, tìm nguyên nhân rồi cô lập, khắc phục một cách thủ công. 
+Mỗi lần mất ít nhất hai tiếng các khu vực lân cận mới có thể đóng điện trở lại. 
+Giờ đây, chỉ sau bốn phút, việc tái lập điện đã được thực hiện một phần nhờ cô lập điểm gặp sự cố. 
+Công nhân không mất công xác định nguyên nhân. 
+Sau 22 phút, hầu hết hộ dân bị ảnh hưởng có điện trở lại bình thường. 
+Toàn bộ quá trình từ khi phát hiện, cho đến xử lý đều được điều khiển từ xa từ trung tâm điều độ hệ thống điện của EVN HCMC đặt tại quận 1. 
+Ông Thanh giải thích, tất cả lưới điện thuộc sự quản lý của các công ty điện lực thành viên đều hiển thị thông qua hệ thống thông tin điều hành hiện đại tại phòng điều hành của trung tâm điều độ hệ thống điện TP HCM, được xây dựng bằng đội ngũ kỹ sư nội tại. 
+"Đó luôn là niềm tự hào khi nói về trung tâm điều khiển từ xa - mô hình thí điểm đầu tiên trên toàn quốc", ông nói. 
+Với tổ hợp thiết bị tự động lắp đặt trên lưới điện, mỗi khi có sự cố, hệ thống sẽ báo động chính xác vị trí. 
+Từ đó cô lập khu vực ngay từ xa, hạn chế ở mức thấp nhất. 
+Việc xây dựng lưới điện thông minh còn chứng minh tính hiệu quả trong những điều kiện thời tiết đặc biệt. 
+Khi cơn bão đổ bộ vào thành phố TP HCM vào tháng 11/2018, chỉ có 4 nhân viên trực điều hành toàn bộ hệ thống lưới điện 16 quận huyện. 
+Trước đó, để đảm bảo an toàn phải huy động hàng chục người túc trực ngày đêm, do đặc thù ngành là khi tiếp cận gần phải có 2 người trở lên. 
+Công nghệ đã giúp tối đa hóa năng suất lao động từ những hoạt động nhỏ nhất. 
+Thậm chí, trong bối cảnh biến đổi khí hậu tác động khó lường đến triều cường, và các hiện tượng thời tiết cực đoan gây nên tình trạng ngập úng đô thị, ông Thanh cho biết EVN HCMC còn phối hợp để thiết lập bản đồ quản lý các điểm có nguy cơ ngập, lắp camera theo dõi thường xuyên để kịp thời đánh giá tình hình thực tế và lên phương án vận hành lưới. 
+Theo đại diện Tổng công ty Điện lực TP HCM, đề án lưới điện thông minh đã triển khai từ năm 2016. 
+Mục tiêu là xây dựng một hệ thống lưới điện tiên tiến, quản lý nhu cầu điện năng theo thời gian thực tế, chất lượng điện tin cậy, ổn định và liên tục. 
+Đến 2019, đơn vị đã hoàn tất xây dựng, chuyển sang điều hành từ xa toàn bộ các trạm 110kV. 
+Trong đó đã rút người hoàn toàn cho 40 trên 54 trạm biến áp, số còn lại sẽ hoàn tất trong cuối năm. 
+Tổng công ty đồng thời thực hiện kế hoạch tự động hóa lưới điện phân phối 22kV. 
+"Chúng tôi đẩy mạnh việc ứng dụng công nghệ thi công, sửa chữa trên đường dây đang mang điện để giảm thiểu thời gian gián đoạn cung cấp điện", đại diện đơn vị nói. 
+Đơn vị này còn nghiên cứu, chế tạo và đã đưa vào sử dụng 21 bộ vệ sinh cách điện lưới 110kV, 22kV bằng vòi nước áp lực cao, nhằm phục vụ công tác bảo trì lưới điện mà không phải cắt điện. 
+Tại khu Công nghệ cao quận 9, khu văn phòng thương mại dọc các trục đường chính quận 1, khu dân cư Miếu Nổi quận Phú Nhuận và các khu dân cư quận 7, Tổng công ty thực hiện thí điểm mô hình Micro Grid - lưới điện thông minh điển hình khu vực, làm cơ sở cho việc nhân rộng mô hình này trong các năm tới. EVN HCMC hiện còn áp dụng phần mềm quản lý dữ liệu mất điện (OMS) và thực hiện đề án bảo trì lưới điện theo mô hình tiên tiến. 
+Theo đại diện công ty, quá trình triển khai các giải pháp công nghệ mới mang lại hiệu quả lớn về mặt kinh tế, kỹ thuật. 
+Độ tin cậy lưới điện được nâng cao với chỉ số SAIFI (số lần mất điện trung bình một khách hàng) 9 tháng đầu năm 2019 là 0,64 lần, cải thiện 50,51%. 
+Chỉ số SAIDI (số thời gian mất điện trung bình của một khách hàng) là 47,49 phút, cải thiện 53,22%. 
+Chỉ số tiếp cận điện năng của Việt Nam (khảo sát tại TPHCM) năm 2019 tiếp tục được cải thiện, đạt 87,94 trên 100 điểm, tăng 37 bậc so với năm 2018, từ vị trí 64 lên 27 trên 190 quốc gia và vùng lãnh thổ. 
+2019 là năm thứ tư liên tiếp tăng bậc và cũng là mức tăng cao nhất từ trước đến nay. 
+Cuối tháng 10/2019, World Bank công bố báo cáo Doing Business 2020, theo đó, chỉ số tiếp cận điện năng của Việt Nam tiếp tục cải thiện về điểm số (88,2 điểm), duy trì vị trí 27/190 nước và đứng thứ 4 trong khu vực ASEAN. 
+"Từ những kinh nghiệm đúc kết được trong thực tế, các giải pháp công nghệ quan trọng sẽ nhân rộng trong toàn EVN để góp phần vào việc nâng cao độ tin cậy cung cấp điện", đại diện đơn vị cho biết. 

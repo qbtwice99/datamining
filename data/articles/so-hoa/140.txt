@@ -1,0 +1,27 @@
+
+Mạng 5G có tốc độ phát triển vượt bậc so với 4G 
+Chỉ sau nửa năm được giới thiệu, mạng 5G đã được hơn 30 nhà mạng trên thế giới triển khai. 
+Năm 2013, sau 6 tháng ra mắt, mạng 4G chỉ xuất hiện tại 4 quốc gia và 3 nhà cung cấp tham gia sản xuất thiết bị. 
+Chưa kể, chất lượng mạng thời gian đầu không được giới chuyên gia đánh giá cao do thiếu đồng bộ và chất lượng thực tế chưa như giới thiệu. 
+Tuy nhiên, trong cùng khoảng thời gian năm 2019, đã có tới hơn 30 nhà mạng trên thế giới ra mắt 5G dù công nghệ mạng băng thông rộng này khó triển khai hơn nhiều so với 4G. 
+"Tính đến thời điểm hiện tại, việc chuyển đổi 5G là quá trình phức tạp nhất nhưng cũng là nhanh nhất mà chúng tôi từng trải qua", đại diện Qualcomm nói. 
+Không chỉ vậy, 5G còn được nhiều người dùng hào hứng đón nhận. 
+Tại Hàn Quốc, chỉ trong hai quý vừa qua, các hãng điện thoại đã bán ra được hai triệu smartphone hỗ trợ mạng 5G. 
+Hầu hết các nhà sản xuất điện thoại lớn như Samsung, Huawei, Xiaomi đều đã có ít nhất một model hỗ trợ mạng 5G ra mắt trong năm nay. 
+Theo Qualcomm, việc hỗ trợ 5G sẽ trở thành trang bị "đương nhiên" với các model cao cấp của mỗi hãng ra mắt vào năm 2020. 
+So với 4G, mạng 5G có nhiều ưu điểm vượt trội cả về tốc độ mạng, độ trễ thấp và tính ổn định cao hơn, đặc biệt là khả năng giữ kết nối giữa các thiết bị IoT - tương lai của sự phát triển công nghệ. Công nghệ kết nối mới sẽ giúp các công ty dễ dàng xây dựng nhà máy thông minh cũng như ứng dụng trong giao thông thông minh. 
+Cùng với nghiên cứu mạng 5G, đại diện Qualcomm cho biết công ty còn nghiên cứu về AI trong khoảng 10 năm nay. 
+Hãng tập trung vào kĩ thuật học sâu và mạng nơ-ron nhân tạo trong khi hầu hết các công ty về mảng này đang chú trọng nhiều vào điện toán đám mây (cloud) như Alexa, Google AI hay Siri. 
+Việc truyền tải dữ liệu lên cloud khiến độ ổn định giảm sút và người dùng cũng nghi ngại về khả năng bị rò rỉ thông tin cá nhân. 
+Thay vì xử lý trí tuệ nhân tạo trên "đám mây", Qualcomm giới thiệu công nghệ "AI on the edge" giúp xử lý dữ liệu và triển khai thuật toán AI tại một trung tâm nhỏ, gần hơn với thiết bị. 
+Công nghệ này giúp đảm bảo đường truyền được gửi dễ dàng, ổn định, đồng thời đảm bảo tính bảo mật và an toàn cho người dùng. 
+Trong ví dụ về lợi ích giữa việc kết hợp AI và 5G mới, Qualcomm cho biết các công ty có thể xây dựng một hệ thống giao thông thông minh hoàn chỉnh. 
+Các camera cố định, camera trên xe, hàng loạt cảm biến trên những xe di chuyển ở gần nhau sẽ được truyền tải thông suốt đến các trạm xử lý đám mây cục bộ Edge Cloud. 
+Tại đây, công nghệ AI sẽ đưa ra các kết quả dự đoán đầy đủ để xử lý tín hiệu đèn giao thông hay hỗ trợ các xe tự lái tốt hơn. 
+Theo Qualcomm, cuối năm 2019 và năm 2020 sẽ là khoảng thời gian chuyển đổi quan trọng từ 4G lên 5G. 
+Tuy nhiên, lộ trình phát triển và xây dựng của từng quốc gia sẽ khác nhau, phụ thuộc vào nhu cầu cũng như điều kiện cơ sở hạ tầng của các nhà mạng. 
+Đầu tiên, các nhà mạng sẽ xây dựng và triển khai mạng 5G không độc lập (non-standalone mode). 
+Điều nay nghĩa là LTE 4G và 5G được cùng triển khai trên tần số thấp, hay còn gọi là Dynamic Spectrum Sharing (DSS). 
+Điều này giúp nhà mạng triển 5G một cách nhanh chóng, tăng độ phủ sớm để người dùng 4G và 5G đều có thể sử dụng chung trên một kênh băng tần. Tiếp theo, hạ tầng cơ sở sẽ tiếp tục được xây dựng để triển khai mạng 5G độc lập (standalone mode). 
+Đầu tháng 8 vừa qua, một nhà mạng tại Việt Nam đã bắt đầu triển khai trạm phát sóng 5G đầu tiên. 
+Một công ty sản xuất smartphone trong nước là VinSmart khẳng định sẽ ra smartphone 5G giữa năm sau cũng như tự sản xuất, xây dựng một số thiết bị viễn thông phục vụ 5G. 

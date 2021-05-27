@@ -1,0 +1,27 @@
+
+Mạng 5G có tốc_độ phát_triển vượt_bậc so với 4G
+Chỉ sau nửa năm được giới_thiệu , mạng 5G đã được hơn 30 nhà mạng trên thế_giới triển_khai .
+Năm 2013 , sau 6 tháng ra_mắt , mạng 4G chỉ xuất_hiện tại 4 quốc_gia và 3 nhà cung_cấp tham_gia sản_xuất thiết_bị .
+Chưa kể , chất_lượng mạng thời_gian đầu không được giới chuyên_gia đánh_giá cao do thiếu đồng_bộ và chất_lượng thực_tế chưa như giới_thiệu .
+Tuy_nhiên , trong cùng khoảng thời_gian năm 2019 , đã có tới hơn 30 nhà mạng trên thế_giới ra_mắt 5G dù công_nghệ mạng băng thông rộng này khó triển_khai hơn nhiều so với 4G .
+" Tính đến thời_điểm hiện_tại , việc chuyển_đổi 5G là quá_trình phức_tạp nhất nhưng cũng là nhanh nhất mà chúng_tôi từng trải qua " , đại_diện Qualcomm nói .
+Không chỉ vậy , 5G còn được nhiều người dùng hào_hứng đón_nhận .
+Tại Hàn_Quốc , chỉ trong hai quý vừa_qua , các hãng điện_thoại đã bán ra được hai triệu smartphone hỗ_trợ mạng 5G .
+Hầu_hết các nhà_sản_xuất điện_thoại lớn như Samsung , Huawei , Xiaomi đều đã có ít_nhất một model hỗ_trợ mạng 5G ra_mắt trong năm nay .
+Theo Qualcomm , việc hỗ_trợ 5G sẽ trở_thành trang_bị " đương_nhiên " với các model cao_cấp của mỗi hãng ra_mắt vào năm 2020 .
+So với 4G , mạng 5G có nhiều ưu_điểm vượt_trội cả về tốc_độ mạng , độ trễ thấp và tính ổn_định cao hơn , đặc_biệt là khả_năng giữ kết_nối giữa các thiết_bị IoT - tương_lai của sự phát_triển công_nghệ . Công_nghệ kết_nối mới sẽ giúp các công_ty dễ_dàng xây_dựng nhà_máy thông_minh cũng như ứng_dụng trong giao_thông thông_minh .
+Cùng với nghiên_cứu mạng 5G , đại_diện Qualcomm cho biết công_ty còn nghiên_cứu về AI trong khoảng 10 năm nay .
+Hãng tập_trung vào kĩ_thuật học sâu và mạng nơ - ron nhân_tạo trong khi hầu_hết các công_ty về mảng này đang chú_trọng nhiều vào điện_toán đám_mây ( cloud ) như Alexa , Google_AI hay Siri .
+Việc truyền_tải dữ_liệu lên cloud khiến độ ổn_định giảm_sút và người dùng cũng nghi_ngại về khả_năng bị rò_rỉ thông_tin cá_nhân .
+Thay_vì xử_lý_trí_tuệ nhân_tạo trên " đám_mây " , Qualcomm giới_thiệu công_nghệ " AI on the edge " giúp xử_lý dữ_liệu và triển_khai thuật_toán AI tại một trung_tâm nhỏ , gần hơn với thiết_bị .
+Công_nghệ này giúp đảm_bảo đường truyền được gửi dễ_dàng , ổn_định , đồng_thời đảm_bảo tính bảo_mật và an_toàn cho người dùng .
+Trong ví_dụ về lợi_ích giữa việc kết_hợp AI và 5G mới , Qualcomm cho biết các công_ty có_thể xây_dựng một hệ_thống giao_thông thông_minh hoàn_chỉnh .
+Các camera cố_định , camera trên xe , hàng_loạt cảm_biến trên những xe di_chuyển ở gần nhau sẽ được truyền_tải thông_suốt đến các trạm xử_lý đám_mây cục_bộ Edge_Cloud .
+Tại đây , công_nghệ AI sẽ đưa ra các kết_quả dự_đoán đầy_đủ để xử_lý tín_hiệu đèn giao_thông hay hỗ_trợ các xe tự lái tốt hơn .
+Theo Qualcomm , cuối năm 2019 và năm 2020 sẽ là khoảng thời_gian chuyển_đổi quan_trọng từ 4G lên 5G .
+Tuy_nhiên , lộ_trình phát_triển và xây_dựng của từng quốc_gia sẽ khác nhau , phụ_thuộc vào nhu_cầu cũng như điều_kiện cơ_sở_hạ_tầng của các nhà mạng .
+Đầu_tiên , các nhà_mạng sẽ xây_dựng và triển_khai mạng 5G không độc_lập ( non - standalone mode ) .
+Điều nay nghĩa_là LTE 4G và 5G được cùng triển_khai trên tần_số thấp , hay còn gọi_là Dynamic_Spectrum_Sharing ( DSS ) .
+Điều này giúp nhà mạng triển 5G một_cách nhanh_chóng , tăng độ phủ sớm để người dùng 4G và 5G đều có_thể sử_dụng chung trên một kênh băng tần . Tiếp_theo , hạ_tầng_cơ_sở sẽ tiếp_tục được xây_dựng để triển_khai mạng 5G độc_lập ( standalone mode ) .
+Đầu tháng 8 vừa_qua , một nhà mạng tại Việt_Nam đã bắt_đầu triển_khai trạm phát_sóng 5G đầu_tiên .
+Một công_ty sản_xuất smartphone trong nước là VinSmart khẳng_định sẽ ra smartphone 5G giữa năm sau cũng như tự sản_xuất , xây_dựng một_số thiết_bị viễn_thông phục_vụ 5G .

@@ -1,0 +1,5 @@
+
+Luyện mắt với năm câu_đố tìm lỗi sai
+Mỗi câu_đố có một hoặc hai lỗi sai , đòi_hỏi người chơi sự tập_trung và tinh mắt để tìm ra trong thời_gian 10 giây .
+Câu 1 :
+Câu 2 :

@@ -1,0 +1,21 @@
+
+Người dùng iPhone phát bực vì iOS 13.2
+Bản cập_nhật hệ điều_hành iOS 13 lần thứ_sáu lại khiến nhiều iPhone và iPad gặp vấn_đề khi dùng đa_nhiệm .
+Vừa phát_hành hôm 29/10 , nhưng bản cập_nhật iOS 13.2 mới nhất đang làm cho nhiều người dùng " tức điên " , trang Independent nhận_xét .
+Chưa đầy ba ngày sau khi được phát_hành chính_thức , trên các mạng xã_hội và trên chính trang trợ_giúp của Apple , phàn_nàn của người dùng đối_với bản cập_nhật iOS mới nhất ngày_một nhiều .
+Các từ khoá MemoryGate ( lỗi bộ_nhớ ) , iOSbugs ( lỗi iOS ) liên_tục xuất_hiện trên Twitter những ngày gần đây .
+" Trình duyệt Safari liên_tục tải lại các trang_web mỗi khi chuyển_đổi qua_lại giữa các ứng_dụng , dù tôi đang sử_dụng chiếc iPhone 11 Pro 512 GB mới nhất " , một người dùng đăng lên Twitter .
+" iOS 13.2 có vấn_đề , thật bực_mình , tôi đang dùng iPad Pro có tới 6 GB_RAM cơ_mà " , một khách_hàng khác của Apple than_thở .
+" iOS 13.2 gặp lỗi nghiêm_trọng .
+Thiết_bị không_thể tải dữ_liệu ở chế_độ nền , các ứng_dụng bị tắt quá nhanh và dường_như chế_độ chạy đa_nhiệm không còn hoạt_động " , Marco_Arment , cựu Giám_đốc công_nghệ của Tumblr viết trên Twitter .
+Bên dưới dòng chia_sẻ , hàng trăm bình_luận của người dùng iPhone và iPad đã bày_tỏ vấn_đề tương_tự đang gặp phải sau khi nâng cấp thiết_bị lên iOS 13.2 .
+Apple chưa xác_nhận , nhưng theo một_số trang công_nghệ , iOS 13.2 có_thể phát_sinh lỗi trong việc quản_lý RAM và gây ra vấn_đề với chế_độ đa_nhiệm .
+Đây có_thể coi là lỗi nghiêm_trọng vì nó ảnh_hưởng nhiều đến trải_nghiệm và có_thể gặp phải trên bất_kỳ model iPhone , iPad nào , kể_cả những mẫu mới và cấu_hình cao như iPhone 11 Pro hay iPad Pro .
+Từ trước đến giờ , các thiết_bị di_động của Apple luôn được đánh_giá cao về khả_năng tối_ưu_hóa hiệu_năng , cho_phép nhiều ứng_dụng có_thể hoạt_động cùng lúc và chạy ngầm dù phần_cứng RAM thấp hơn nhiều so với thiết_bị Android .
+Nhưng với iOS 13.2 , trình duyệt Safari thường_xuyên phải tải lại ngay cả khi chỉ mở một trang_web .
+Nếu đang xem dở một video trên YouTube hay Facebook , tạm dừng rồi chuyển sang một ứng_dụng khác , khi quay lại , video đó có_thể biến mất .
+Nó cũng có_thể làm cho ứng_dụng Mail và Messages không hoạt_động được bình_thường .
+Các tin nhắn không đến cho tới khi mở các ứng_dụng .
+iOS 13.2 là bản cập_nhật thứ sáu mà Apple phát_hành trong hơn một tháng , sau khi tung ra hệ điều_hành iOS 13 bản chính_thức .
+Nó đem tính_năng chụp ảnh mới Deep_Fusion cho các mẫu iPhone 11 cũng như được giới_thiệu là sẽ khắc_phục nhiều lỗi .
+Dù_vậy , ngoài vấn_đề liên_quan đến chế_độ đa_nhiệm , phiên_bản này còn được phản_ánh về một_số lỗi khác liên_quan đến Face_ID , Touch_ID , làm thiết_bị hao pin hơn trước hay gặp vấn_đề trong kết_nối AirPlay , Bluetooth , Wi - Fi .

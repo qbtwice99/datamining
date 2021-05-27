@@ -1,0 +1,19 @@
+
+Thẻ tín_dụng của Apple bị điều_tra
+MỹCơ quan quản_lý_tài_chính đã bắt_đầu điều_tra Apple_Card sau khi nhiều người phàn_nàn hạn_mức tín_dụng Apple dành cho nam cao hơn nữ .
+Vấn_đề bắt_đầu khi nhà phát_triển phần_mềm David_Heinemeier_Hansson phàn_nàn trên Twitter rằng , hạn_mức tín_dụng Apple_Card của ông cao gấp 20 lần so với thẻ của vợ ông , dù cả hai đều khai chung tờ thuế .
+Thậm_chí , người này còn có điểm tín_dụng tệ hơn cả vợ mình .
+" Apple_Card là một chương_trình phân_biệt giới_tính khốn_kiếp .
+Tôi và vợ có chung nhiều điểm , sống trong một quốc_gia và đã kết_hôn thời_gian dài .
+Thế nhưng , Apple lại cho rằng tôi xứng_đáng với giới_hạn tín_dụng gấp 20 lần " , Hansson tweet .
+Ngay sau đó , đội_ngũ Apple đã phản_ứng nhanh bằng cách tăng giới_hạn tín_dụng cho vợ Hansson .
+Thế nhưng , không ít người dùng khác trên mạng xã_hội cũng gặp phải tình_trạng tương_tự khi đều nhận thấy hạn_mức tín_dụng của nam luôn cao hơn nữ nhiều lần .
+Thậm_chí , ngay cả đồng sáng_lập Apple_Steve_Wozniak cũng nằm trong danh_sách này .
+Ông cho biết hạn_mức tín_dụng của mình trên Apple_Card gấp 10 lần vợ , đồng_thời đã kêu_gọi chính_phủ điều_tra các hoạt_động về thuật_toán " phân_biệt đối_xử " của công_ty Mỹ .
+Trả_lời các khiếu_nại , Bộ Dịch_vụ Tài_chính ( DFS ) của thành_phố New_York ( Mỹ ) cho biết sẽ điều_tra Apple_Card - vốn được phát_hành bởi ngân_hàng Goldman_Sachs .
+" Bất_kỳ thuật_toán nào cố_tình trong việc đối_xử và phân_biệt đối_xử với phụ_nữ hoặc các tầng_lớp được bảo_vệ đều vi_phạm luật New_York " , một phát_ngôn_viên của DFS nói với New_York_Times .
+Người này thừa_nhận , phần_mềm của DFS có_thể gặp khó_khăn trong việc phát_hiện thuật_toán xử_lý phân_biệt đối_xử tiềm_ẩn của Apple_Card trong việc giới_hạn tín_dụng , nhưng sẽ " làm tất_cả " để đảm_bảo tất_cả người tiêu_dùng được đối_xử bình_đẳng và không phân_biệt giới_tính .
+Trong một tuyên_bố , đại_diện Goldman_Sachs phủ_nhận_việc tạo thuật_toán để phân_biệt đối_xử với phụ_nữ .
+" Trong mọi trường_hợp , chúng_tôi không đưa ra quyết_định hạn mức tín_dụng dựa trên các yếu_tố như giới_tính " , Andrew_Williams , người phát_ngôn của ngân_hàng , cho biết .
+Apple chưa đưa ra bình_luận nào .
+Khi ra_mắt Apple_Card hồi giữa năm nay , CEO công_ty là Tim_Cook tự_hào rằng chiếc thẻ tín_dụng của hãng sẽ mang lại sự đơn_giản , minh_bạch , tiện_dụng khi thanh_toán .

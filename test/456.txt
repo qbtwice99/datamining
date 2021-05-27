@@ -1,0 +1,5 @@
+
+Tìm điểm bất hợp_lý trong tranh
+Mỗi bức tranh đều có một điểm bất hợp_lý , không theo logic , đòi_hỏi bạn phải tập_trung và tinh mắt ?
+Câu 1 :
+Câu 2 :

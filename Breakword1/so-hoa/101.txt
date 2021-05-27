@@ -1,0 +1,27 @@
+
+Những vật cản sóng Wi - Fi
+Bề_mặt kim_loại , đồ nội_thất , tường nhà sẽ khiến sóng Wi - Fi không đạt tốc_độ truyền như ban_đầu .
+Kim_loại là một chất dẫn , tức_là nó có khả_năng hấp_thụ điện .
+Trong khi việc truyền tín_hiệu của Wi - Fi sẽ giải_phóng sóng điện_từ .
+Do_vậy , bất_kỳ bề_mặt kim_loại hoặc vật_thể nào tương_tự cũng sẽ ngăn sóng lan rộng .
+Nếu muốn kết_nối Internet thông_suốt , người dùng cần đặt bộ định_tuyến càng xa kim_loại càng tốt .
+Một_số tường xây bằng đá cẩm_thạch , xi_măng , bê_tông , thạch_cao hay gạch nung có_thể chặn sóng Wi - Fi .
+Để khắc_phục , người dùng cần đặt bộ định_tuyến ở một khu_vực mở và không bị ngăn_cách .
+Đây là vật_dụng phản_chiếu hình_ảnh của mình khi soi , nhưng cũng có_thể khiến tín_hiệu Wi - Fi bị bật ngược trở_lại , tương_tự lá_chắn .
+Khi đặt bộ định_tuyến gần gương , cường_độ tín_hiệu sẽ chậm hơn , tốc_độ Internet không nhanh như ban_đầu .
+Theo nguyên_tắc chung , các thiết_bị điện có đường_ống dẫn nước không thân_thiện với tín_hiệu Wi - Fi .
+Nước có_thể giữ lại một phần năng_lượng từ sóng không dây và điều này ảnh_hưởng tiêu_cực đến chất_lượng kết_nối Internet .
+Những chuỗi đèn đầy màu_sắc cũng có_thể là nguyên_nhân khiến tín_hiệu Wi - Fi bị yếu .
+Hệ_thống chip trên đó điều_khiển để tạo ra nhấp_nháy nhưng cũng đồng_thời tạo ra từ trường .
+Khi tương_tác với sóng điện do bộ định_tuyến phát ra , sóng Wi - Fi cũng từ đó bị yếu đi .
+Những màn_hình đời cũ , kích_thước nhỏ có_thể tạo ra sóng nhiễu 2,4 GHz tương_tự sóng Wi - Fi .
+Việc hai thiết_bị truyền cùng tần_số có_thể khiến sóng bị triệt_tiêu lẫn nhau , làm cho mạng_Wi - Fi chập_chờn , thậm_chí không sử_dụng được .
+Để tăng chất_lượng sóng Wi - Fi gia_đình , người dùng có_thể thực_hiện các cách sau :
+- Chọn vị_trí thích_hợp , không bị các vật cản che_khuất để đặt bộ định_tuyến .
+- Thường_xuyên cập_nhật bộ định_tuyến .
+- Dùng thiết_bị có ăng - ten mạnh .
+- Sử_dụng mật_khẩu mạnh , tránh chia_sẻ với bên ngoài nếu không cần_thiết .
+- Mua thêm bộ khuếch_đại Wi - Fi nếu bộ định_tuyến đặt xa nơi thường dùng .
+- Sử_dụng các công_nghệ_Wi - Fi mới và hiện_đại nhất .
+- Nếu đang sử_dụng bộ định_tuyến 2,4 GHz cũ_kỹ , người dùng có_thể nâng_cấp lên thiết_bị mới hơn với tần_số 5 GHz .
+- Reset bộ định_tuyến định_kỳ sau một thời_gian sử_dụng .

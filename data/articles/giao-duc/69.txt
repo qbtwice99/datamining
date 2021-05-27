@@ -1,0 +1,13 @@
+
+Tìm điểm khác biệt giữa những cặp tranh 
+Nếu không tập trung quan sát, bạn sẽ không thể tìm ra hết các điểm khác nhau giữa những bức tranh.
+Câu 1: 
+Tìm ít nhất 6 điểm khác biệt giữa hai hình? 
+Câu 2: 
+Tìm ít nhất 9 điểm khác biệt? 
+Câu 3: 
+Tìm ít nhất 12 điểm khác biệt? 
+Câu 4: 
+Tìm ít nhất 7 điểm khác biệt? 
+Câu 5: 
+Tìm ít nhất 8 điểm khác biệt? 

@@ -1,0 +1,21 @@
+
+Người dùng máy Mac có thể bị đọc trộm e-mail 
+Lỗ hổng nằm trong phân vùng hệ thống macOS, vốn có mục đích hỗ trợ Siri, nhưng vô tình để lộ dữ liệu riêng tư của người dùng.
+Bob Gendler, chuyên gia tại Viện nghiên cứu quốc gia về Công nghệ và Tiêu chuẩn (Mỹ), phát hiện lỗ hổng bảo mật trong tính năng gợi ý tìm kiếm của Siri, cho phép bên thứ ba đọc "một phần nội dung e-mail" của người dùng. 
+Cụ thể, thư mục "Gợi ý" trên phân vùng hệ thống của hệ điều hành macOS, gồm thư mục "snippets.db" chứa thông tin cá nhân từ Apple Mail để cải thiện hiệu năng của Siri, giúp trợ lý ảo đưa ra kết quả tìm kiếm mà người dùng quan tâm. 
+Tuy nhiên, dữ liệu trích xuất từ ứng dụng lại được giải mã dưới định dạng văn bản và có thể đọc được. 
+"Kể cả khi vô hiệu hóa Siri trên máy Mac, hệ thống vẫn lưu trữ những văn bản không mã hóa trong cơ sở dữ liệu này", Gendler cho biết. 
+Ông đã cảnh báo Apple về lỗ hổng có trên phiên bản macOS 10.12.6, macOS 10.13.6, macOS 10.14 và macOS 10.15 beta từ hồi tháng 7. 
+Bộ phận bảo mật của Apple cho biết sẽ tiến hành điều tra. 
+Đến tháng 9, ông tiếp tục báo cho Apple rằng sự cố trên vẫn tồn tại trên phiên bản thử nghiệm macOS Catalina beta. 
+Đến 9/10, Gendler liên hệ trực tiếp với bộ phận bảo mật để xác nhận lỗi chưa được giải quyết trên bản cập nhật chính thức cuối cùng của macOS Catalina và các bản vá bổ sung của macOS Mojave. 
+Sau hơn 100 ngày lỗ hổng được phát hiện, đến 5/11, Apple gửi email trả lời Gendler rằng sẽ sớm cung cấp tùy chọn vô hiệu hóa quá trình tự học qua Apple Mail của Siri. 
+Phản hồi về sự cố, phát ngôn viên của Apple nói họ "nhận thức được vấn đề và sẽ giải quyết ở bản cập nhật phần mềm trong tương lai". 
+Để hệ điều hành macOS ngừng thu thập dữ liệu cá nhân từ Apple Mail, Apple khuyến cáo người dùng nên vô hiệu hóa tính năng "Learn from this App" của Siri bằng cách truy cập theo đường dẫn: 
+Preferences > Siri > Siri Suggestions & Privacy > Mail. 
+Bên cạnh đó, người dùng có thể giảm nguy cơ bị đọc trộm nội dung các đoạn e-mail đã giải mã bằng cách không cấp quyền "truy cập cập toàn bộ ổ đĩa" (full disk access) cho ứng dụng bên thứ ba. 
+"Đây là một vấn đề lớn đối với chính phủ, tập đoàn và những người thường xuyên trao đổi thông tin bằng e-mail mã hóa bởi họ hy vọng nội dung e-mail sẽ được bảo mật tuyệt đối", Genders nhận xét. 
+"Đối với một công ty vốn tự hào về bảo mật và quyền riêng tư, việc thiếu cảnh giác đến lỗ hổng như vậy thực sự làm tôi ngạc nhiên". 
+Dù không ảnh hưởng tới đa số người dùng, lỗ hổng tiềm ẩn rủi ro với các tổ chức, doanh nghiệp thường xuyên gửi và nhận e-mail mã hóa qua ứng dụng Apple Mail trên hệ điều hành macOS. 
+Tuy nhiên, nếu phần mềm mã hóa File Vault được kích hoạt, hệ thống sẽ không hiển thị sẵn e-mail ở định dạng văn bản gốc. 
+Hơn nữa, ngoài vị trí của các tệp tin này, kẻ tấn công tiềm năng vẫn cần quyền truy cập vào phân vùng hệ thống máy tính Mac. 

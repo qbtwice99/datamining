@@ -1,0 +1,3 @@
+
+Robot tự xếp hình 
+Các nhà nghiên cứu MIT giới thiệu M-Block 2.0, robot hình khối hộp được mô-đun hóa, có thể tự di chuyển nhờ bánh đà tích hợp bên trong.

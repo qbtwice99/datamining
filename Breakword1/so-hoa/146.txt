@@ -1,0 +1,20 @@
+
+Ứng_dụng 40 triệu lượt tải trên Android chứa mã độc
+Mã độc " ai.type " giả_dạng ứng_dụng bàn_phím ảo để đăng_ký trái_phép nội_dung số và theo_dõi hành_vi của người dùng .
+Hãng bảo_mật Upstream_Secure - D vừa cảnh_báo về ứng_dụng bàn_phím ảo " ai.type " , đạt 40 triệu lượt tải trên Google_Play .
+Các chuyên_gia của hãng cho biết đã ngăn_chặn 14 triệu giao_dịch khả_nghi trên 110.000 thiết_bị cài_đặt ứng_dụng này , tổng giá_trị ước_tính lên tới 18 triệu USD.
+Ngoài việc thanh_toán trái_phép các nội_dung số , ứng_dụng còn chạy quảng_cáo ngầm và giả hành_vi của người dùng để kiếm lời bất_chính .
+Nghiêm_trọng hơn , ai.type sẽ gửi dữ_liệu theo_dõi người dùng theo thời_gian thực tới cho các công_ty quảng_cáo .
+Trong phần mô_tả trên Google_Play , nhà phát_hành ai.type LTD ( Isarel ) mô_tả ai.type là bàn_phím ảo miễn_phí , tích_hợp biểu_tượng cảm_xúc .
+Dù đã bị xóa khỏi cửa_hàng Google_Play vào tháng 6/20 19 , ứng_dụng vẫn tồn_tại trên hàng triệu thiết_bị Android .
+Đại_diện Upstream_Secure - D , Dimitris_Maniatis nói :
+" ai.type chứa bộ công_cụ phát_triển ( SDK ) được mã_hóa dẫn tới các trang quảng_cáo , rồi tự_động thực_hiện thao_tác chạm để đăng_ký trái_phép dịch_vụ trả phí " .
+Ông lý_giải rằng toàn_bộ công_đoạn này được thực_hiện bí_mật khiến người dùng không_thể nhận ra .
+" Các SDK đó liên_tục tải xuống những đoạn mã bổ_sung và ẩn liên_kết tải xuống để không bị phát_hiện " , ông Maniatis nói thêm .
+Theo Giám_đốc điều_hành của Upstream_Sercure - D , Guy_Krief , quảng_cáo lừa_đảo trên thiết_bị di_động tạo ra nguồn thu 40 tỷ USD mỗi năm .
+Mã độc này rất khó phát_hiện vì " chúng đột lốt ứng_dụng hợp_pháp và phổ_biến , gây tổn_hại danh_tiếng của toàn_bộ ngành công_nghiệp phần_mềm " , ông nói .
+Ví_dụ , ai.type đã giả_dạng nhiều ứng_dụng khác , bao_gồm SoundCloud .
+Hình_ảnh trên cho thấy thiết_bị lây_nhiễm mã độc đã gửi tin nhắn SMS để xác_nhận đăng_ký dịch_vụ mà chủ_sở_hữu không hề hay biết .
+Bên_cạnh đó , ai.type thường_xuyên yêu_cầu quyền truy_cập cấp cao vào danh_bạ , các tài_khoản đã đăng nhập , cũng như quyền đọc và ghi đè lên bộ_nhớ .
+Đến nay , Upstream_Secure - D đã ghi_nhận 400.000 hoạt_động bất_thường mỗi ngày liên_quan đến ai.type .
+Hãng đã khuyến_cáo người dùng nên kiểm_tra lại tình_trạng thiết_bị , danh_sách hóa_đơn thanh_toán và tần_suất sử_dụng dữ_liệu .

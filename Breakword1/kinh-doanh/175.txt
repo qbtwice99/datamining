@@ -1,0 +1,37 @@
+
+Công_nghệ thay_đổi ngành điện TP HCM
+
+Trước đây , xử_lý_sự_cố điện phải mất vài giờ thì hiện_tại thông_qua hệ_thống điều_hành từ xa mà sau vài phút có_thể đóng điện trở_lại .
+Thay_đổi đáng_kể này có được do Tổng_công_ty Điện_lực TP_HCM ( EVN_HCMC ) thực_hiện xây_dựng lưới điện thông_minh , góp_phần vào việc triển_khai đề_án " Xây_dựng TP HCM trở_thành thành_phố thông_minh giai_đoạn 2017 - 2020 , tầm nhìn 2025 " .
+Ông Nguyễn_Văn_Thanh - Phó_tổng_giám_đốc EVN_HCMC kể lại câu_chuyện xảy ra tại khu_vực đường Cây_Trâm , quận Gò_Vấp , TP HCM , hồi giữa tháng 3 .
+Sự_cố chập khiến một khu_vực rộng trải dài trên tuyến phố mất điện .
+Trước_đây với tình_trạng tương_tự , công_nhân phải trực_tiếp đến hiện_trường , tìm nguyên_nhân rồi cô_lập , khắc_phục một_cách thủ_công .
+Mỗi lần mất ít_nhất hai tiếng các khu_vực lân_cận mới có_thể đóng điện trở_lại .
+Giờ_đây , chỉ sau bốn phút , việc tái_lập điện đã được thực_hiện một phần nhờ cô_lập điểm gặp sự_cố .
+Công_nhân không mất_công xác_định nguyên_nhân .
+Sau 22 phút , hầu_hết hộ dân bị ảnh_hưởng có điện_trở_lại bình_thường .
+Toàn_bộ quá_trình từ khi phát_hiện , cho đến xử_lý đều được điều_khiển từ xa từ trung_tâm điều_độ hệ_thống điện của EVN_HCMC đặt tại quận 1 .
+Ông Thanh giải_thích , tất_cả lưới điện thuộc sự quản_lý của các công_ty điện_lực thành_viên đều hiển_thị thông_qua hệ_thống thông_tin điều_hành hiện_đại tại phòng điều_hành của trung_tâm điều_độ hệ_thống điện TP HCM , được xây_dựng bằng đội_ngũ kỹ_sư nội_tại .
+" Đó luôn là niềm tự_hào khi nói về trung_tâm điều_khiển từ xa - mô_hình thí_điểm đầu_tiên trên toàn_quốc " , ông nói .
+Với tổ_hợp thiết_bị tự_động lắp_đặt trên lưới_điện , mỗi khi có sự_cố , hệ_thống sẽ báo_động chính_xác vị_trí .
+Từ đó cô_lập khu_vực ngay từ xa , hạn_chế ở mức thấp nhất .
+Việc xây_dựng lưới điện thông_minh còn chứng_minh tính hiệu_quả trong những điều_kiện thời_tiết đặc_biệt .
+Khi cơn bão đổ_bộ vào thành_phố TP HCM vào tháng 11/20 18 , chỉ có 4 nhân_viên trực điều_hành toàn_bộ hệ_thống lưới điện 16 quận_huyện .
+Trước đó , để đảm_bảo an_toàn phải huy_động hàng chục người túc_trực ngày_đêm , do đặc_thù ngành là khi tiếp_cận gần phải có 2 người trở_lên .
+Công_nghệ đã giúp tối_đa hóa năng_suất lao_động từ những hoạt_động nhỏ nhất .
+Thậm_chí , trong bối_cảnh biến_đổi khí_hậu tác_động khó lường đến triều_cường , và các hiện_tượng thời_tiết cực_đoan gây nên tình_trạng ngập_úng đô_thị , ông Thanh cho biết EVN_HCMC còn phối_hợp để thiết_lập bản_đồ quản_lý các điểm có nguy_cơ ngập , lắp camera theo_dõi thường_xuyên để kịp_thời đánh_giá tình_hình thực_tế và lên phương_án vận_hành lưới .
+Theo đại_diện Tổng_công_ty Điện_lực TP HCM , đề_án lưới điện thông_minh đã triển_khai từ năm 2016 .
+Mục_tiêu là xây_dựng một hệ_thống lưới điện tiên_tiến , quản_lý nhu_cầu điện_năng theo thời_gian thực_tế , chất_lượng điện tin_cậy , ổn_định và liên_tục .
+Đến 2019 , đơn_vị đã hoàn_tất xây_dựng , chuyển sang điều_hành từ xa toàn_bộ các trạm 110kV .
+Trong đó đã rút người hoàn_toàn cho 40 trên 54 trạm biến_áp , số còn lại sẽ hoàn_tất trong cuối năm .
+Tổng_công_ty đồng_thời thực_hiện kế_hoạch tự_động_hóa lưới điện phân_phối 22kV .
+" Chúng_tôi đẩy_mạnh việc ứng_dụng công_nghệ thi_công , sửa_chữa trên đường_dây đang mang điện để giảm_thiểu thời_gian gián_đoạn cung_cấp điện " , đại_diện đơn_vị nói .
+Đơn_vị này còn nghiên_cứu , chế_tạo và đã đưa vào sử_dụng 21 bộ vệ_sinh cách điện_lưới 110kV , 22kV bằng vòi_nước áp_lực cao , nhằm phục_vụ công_tác bảo_trì lưới điện mà không phải cắt điện .
+Tại khu Công_nghệ_cao quận 9 , khu văn_phòng thương_mại dọc các trục đường chính quận 1 , khu dân_cư Miếu Nổi quận Phú_Nhuận và các khu dân_cư quận 7 , Tổng_công_ty thực_hiện thí_điểm mô_hình Micro_Grid - lưới điện thông_minh điển_hình khu_vực , làm cơ_sở cho việc nhân rộng mô_hình này trong các năm tới . EVN_HCMC hiện còn áp_dụng phần_mềm quản_lý dữ_liệu mất điện ( OMS ) và thực_hiện đề_án bảo_trì lưới điện theo mô_hình tiên_tiến .
+Theo đại_diện công_ty , quá_trình triển_khai các giải_pháp công_nghệ mới mang lại hiệu_quả lớn về mặt kinh_tế , kỹ_thuật .
+Độ tin_cậy lưới_điện được nâng cao với chỉ_số SAIFI ( số lần mất điện trung_bình một khách_hàng ) 9 tháng đầu năm 2019 là 0,64 lần , cải_thiện 50,51 % .
+Chỉ_số SAIDI ( số thời_gian mất điện trung_bình của một khách_hàng ) là 47,49 phút , cải_thiện 53,22 % .
+Chỉ_số tiếp_cận điện_năng của Việt_Nam ( khảo_sát tại TPHCM ) năm 2019 tiếp_tục được cải_thiện , đạt 87,94 trên 100 điểm , tăng 37 bậc so với năm 2018 , từ vị_trí 64 lên 27 trên 190 quốc_gia và vùng lãnh_thổ .
+2019 là năm thứ tư liên_tiếp tăng bậc và cũng là mức tăng cao nhất từ trước đến nay .
+Cuối tháng 10/20 19 , World_Bank công_bố báo_cáo Doing_Business_2020 , theo đó , chỉ_số tiếp_cận điện_năng của Việt_Nam tiếp_tục cải_thiện về điểm_số ( 88,2 điểm ) , duy_trì vị_trí 27/19 0 nước và đứng thứ 4 trong khu_vực ASEAN.
+" Từ những kinh_nghiệm đúc_kết được trong thực_tế , các giải_pháp công_nghệ quan_trọng sẽ nhân rộng trong toàn EVN để góp_phần vào việc nâng cao độ tin_cậy cung_cấp điện " , đại_diện đơn_vị cho biết .

@@ -1,0 +1,17 @@
+
+Đề_xuất tính giá bán_lẻ điện theo 5 bậc thang
+
+Theo tính_toán , phương_án biểu giá bán_lẻ điện chia 5 bậc_thang thì hộ dùng 101 - 200 kWh một tháng sẽ chịu tác_động ít_nhất .
+Theo Quyết_định 28/20 14 về cơ_cấu biểu giá bán_lẻ điện của Bộ Công_Thương , hiện giá điện bán_lẻ chia 6 bậc_thang ( từ 0 kWh đến trên 401 kWh ) .
+Tuy_nhiên , sau đợt tăng_giá bán_lẻ bình_quân thêm 8,36 % từ 20/3 , nhiều ý_kiến cho rằng , việc chia biểu giá 6 bậc_thang đã không còn phù_hợp .
+Tại hội_thảo lấy ý_kiến về nghiên_cứu cải_tiến cơ_cấu biểu giá bán_lẻ điện Việt_Nam sáng 5/11 , ông Bùi_Xuân_Hồi ( Bộ_môn Kinh_tế năng_lượng , Đại_học Bách_Khoa Hà_Nội ) - Chủ_nhiệm đề_án cho biết đang đề_xuất 3 kịch_bản với giá bán_lẻ điện sinh_hoạt tương_ứng với 3 , 4 và 5 bậc_thang .
+Theo đó , kịch_bản giá điện 3 bậc_thang rút_gọn từ 100 kWh đến trên 400 kWh . Kịch_bản 4 bậc sẽ rút gọn bậc từ 100 kWh đến trên 600 kWh , còn phương_án giá chia 5 bậc thang gồm dưới 100 kWh đến trên 700 kWh .
+Ông Bùi_Xuân_Hồi đánh_giá , 3 phương_án trên đều không gây tác_động nhiều đến hộ tiêu_dùng , xã_hội trong khi doanh_thu của EVN giảm nhẹ .
+Nhưng ở phương_án chia 3 bậc_thang thì hộ gia_đình dùng 101 - 200 kWh sẽ trả chi_phí tăng nhiều nhất , bình_quân 12.000 đồng một tháng .
+Sau khi phân_tích , nhóm nghiên_cứu đề_xuất chọn phương_án giá bán_lẻ điện chia 5 bậc_thang , bỏ bậc_thang 50kWh đầu_tiên và kéo_dài bậc thang lên tới trên 700kWh . Theo kịch_bản này biểu giá bán_lẻ điện sinh_hoạt sẽ như sau :
+Cũng theo ông Hồi , phương_án 5 bậc phù_hợp hơn cả với các mục_tiêu định_giá , trong đó , hộ tiêu_dùng bậc từ 101 - 200 kWh một tháng ( là hộ tiêu_dùng phổ_biến , lớn nhất hiện_nay ) chịu tác_động ít_nhất trong 3 phương_án .
+" 5 bậc_thang sản_lượng cũng phù_hợp với 5 bậc_thang thu_nhập của hộ gia_đình " , Chủ_nhiệm đề_án Bùi_Xuân_Hồi nhận_xét .
+Ông Trần_Đình_Long – chuyên_gia Hiệp_hội Năng_lượng Việt_Nam cũng cho rằng , phương_án 5 bậc_thang như đề_xuất là hợp_lý , phù_hợp với điều_kiện tiêu_thụ điện của các hộ gia_đình Việt_Nam .
+" Nếu chia bậc thang điện quá ít thì sẽ không phản_ánh đúng mức_độ tiêu_dùng điện , không tiết_kiệm năng_lượng " , ông Long góp_ý .
+Hiện mức giá bán_lẻ điện thấp nhất ( bậc 1 cho 0-50 kWh ) là 1.678 đồng một kWh và cao nhất 2.927 đồng cho mỗi kWh dùng trên 401 kWh .
+Do_đó , Thứ_trưởng Công_Thương Hoàng_Quốc_Vượng cho biết , cơ_quan này sẽ nghiên_cứu biểu giá bán_lẻ điện bậc_thang mới phù_hợp , công_bằng hơn cho người dùng điện , quản_lý ngành .

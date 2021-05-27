@@ -1,0 +1,17 @@
+
+Hacker bẻ khóa smartphone bằng vân tay trên ly nước
+Chỉ trong 20 phút , nhóm hacker mũ trắng Trung_Quốc có_thể xâm_nhập bất_kỳ chiếc smartphone sử_dụng cảm_biến vân tay nào .
+SCMP đưa tin nhóm hacker X - Lab đã hợp_tác cùng công_ty Tencent trình_diễn phương_thức tấn_công gián_tiếp bằng cách sử_dụng dấu vân tay in trên ly nước để đánh_lừa cảm_biến trên smartphone .
+Chỉ trong 20 phút , nhóm đã bẻ khóa thành_công ba chiếc smartphone , trong đó có 2 máy của khán_giả .
+Cách tấn_công được X - Lab mô_tả " tương_đối đơn_giản " .
+Sau khi nạn_nhân chạm ngón tay vào ly nước , một thành_viên trong nhóm sẽ chụp ảnh dấu vân tay in trên ly .
+Họ dùng ứng_dụng quét ảnh để tạo bản_sao của dấu vân tay .
+Nhóm cho biết quá_trình trích xuất dấu vân tay in trên màn_hình smartphone còn dễ hơn nhiều so với từ ly nước uống .
+" Chúng_tôi chỉ cần 1.000 nhân_dân_tệ ( tương_đương 3,3 triệu đồng ) để thực_hiện cuộc tấn_công này , gồm một chiếc smartphone và một ứng_dụng " , ông Chen_Yu , trưởng nhóm X - Lab nói và khẳng_định họ là tổ_chức đầu_tiên bẻ khóa được hầu_hết các cảm_biến vân tay trên smartphone như :
+cảm_biến vân tay diện dung , cảm_biến vân tay quang_học và cảm_biến vân tay siêu_âm .
+Đầu tháng 10 , cảm_biến siêu_âm trên Galaxy_S10 của một người dùng ở Anh cũng bị qua_mặt bởi tấm dán cường_lực dẻo mua trên eBay với giá 3 USD.
+Sự_cố nghiêm_trọng đến mức nhiều ngân_hàng trên thế_giới ngừng cung_cấp dịch_vụ trên Galaxy_S10 và Note10 .
+Samsung đã phải phát_hành bản cập_nhật khắc_phục lỗi này .
+Cảm_biến vân tay siêu_âm , do Qualcomm phát_triển , được kỳ_vọng là phương_pháp bảo_mật tiện_lợi và đáng tin_cậy hơn nhờ bộ phát_sóng âm vào đầu ngón tay người dùng và tiếp_nhận tín_hiệu phản_xạ lại .
+Năm 2018 , X - Lab công_bố lỗ_hổng trong thiết_kế ảnh_hưởng tới công_nghệ cảm_biến vân tay nhúng trên màn_hình của nhiều mẫu smartphone , bằng cách dùng một lá nhôm đặt lên dấu vân tay sót lại trên cảm_biến .
+Một nhóm nghiên_cứu bảo_mật khác thuộc Tencent , Keen_Lab , cũng phát_hiện ra lỗ_hổng trên hệ_thống xe tự_hành tiên_tiến của Tesla để lừa mẫu Model_S rẽ theo hướng ngược so với lộ_trình ban_đầu .

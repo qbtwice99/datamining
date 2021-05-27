@@ -1,0 +1,3 @@
+
+Học_sinh tiểu_học được kiểm_tra sức_khỏe bằng robot
+Trung_QuốcTrong 10 giây , robot tự_động ghi lại thông_số sức_khỏe hàng ngày , gửi tới bác_sĩ để theo_dõi và phát_hiện những vấn_đề bất_thường ở trẻ .

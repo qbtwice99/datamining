@@ -1,0 +1,15 @@
+
+Máy_tính Google có_thể khai_thác hết Bitcoin trong 2 giây
+Lượng Bitcoin trên thế_giới được dự_đoán có_thể bị khai_thác sớm hơn so với dự_đoán nhờ vào máy_tính lượng_tử của Google .
+Theo một bài viết mới_đây trên Medium , cỗ máy chạy chip_Sycamore của Google đã có bước đột_phá và có_thể giải_quyết một bài_toán trong 200 giây , điều mà IBM_Summit - siêu máy_tính mạnh nhất thế_giới - ước_tính phải mất 10.000 năm mới giải xong .
+Gần như ngay_lập_tức sau thông_tin này , một " cơn hoảng_loạn " bùng_phát trong cộng_đồng tiền điện_tử .
+Các cuộc thảo_luận về nguy_cơ loại tiền này sẽ mất_giá do Google có_thể khai_thác chúng nhanh hơn dự_đoán thu_hút hàng nghìn bình_luận .
+Giả_thuyết được trang_Medium đưa ra là 3 triệu còn lại trong tổng 21 triệu Bitcoin sẽ bị máy_tính lượng_tử của Google khai_thác chỉ trong vỏn_vẹn 2 giây .
+Bitcoin thứ 18 triệu đã được khai_thác thành_công hồi đầu năm và theo tính_toán ban_đầu , toàn_bộ số tiền ảo này sẽ bị khai_thác hết vào năm 2140 .
+Bài đăng đã bị xóa vì có một_số chi_tiết sai .
+Đầu_tiên , tác_giả tính_toán rằng mỗi Bitcoin sẽ được tạo ra sau 10 phút nhưng thực_tế số_lượng cao hơn , 12,5 Bitcoin sau 10 phút .
+Chênh_lệch này không phải nhỏ và nó sẽ khiến quá_trình tính_toán trở_nên phức_tạp hơn nên kết_quả cuối_cùng không còn đúng . Tác_giả cũng không để_ý đến chi_tiết là sau mỗi đợt sẽ có tiến_trình điều_chỉnh độ khó .
+Khi độ khó tăng lên , máy_tính lượng_tử cũng tính chậm đi .
+Thực_tế , trang_Cryptoglobe cho rằng việc đưa một cỗ máy mạnh_mẽ vào " đào " Bitcoin không hề đơn_giản , thậm_chí việc thiết_lập để nó đào Bitcoin cũng khó thực_hiện được .
+Chuyên_gia tiền ảo Vitalik_Buterin cho rằng máy_tính lượng_tử chưa thực_sự là mối đe_dọa với tiền kỹ_thuật_số , ít_nhất là lúc này .
+Theo ông , thiết_bị này chỉ mang tính khái_niệm và sẽ không tác_động tiêu_cực đến công_nghệ mã_hóa chuỗi khối hiện_tại . Tuy_nhiên , một_số chuyên_gia khác đánh_giá điện_toán lượng_tử đang đứng trước một cơ_hội lớn và vẫn có những lợi_ích nào đó đối_với nền công_nghiệp tiền kỹ_thuật_số .

@@ -1,0 +1,20 @@
+
+Mã độc_giả_mạo trình duyệt Chrome
+Sau khi được cài_đặt , 49 ứng_dụng chứa mã độc tự nhân_bản biểu_tượng trình duyệt Chrome trên màn_hình chính để đánh_lừa người dùng .
+Hãng bảo_mật Trend_Micro cho biết , 49 ứng_dụng này đã được tải xuống tổng_cộng hơn 3 triệu lần trên Google_Chrome .
+Tương_tự xHelper , chúng đều chứa mã độc quảng_cáo và rất khó_gỡ bỏ .
+Sau khi cài_đặt lên thiết_bị , mã độc tự ẩn biểu_tượng gốc , ngụy_trang bằng biểu_tượng của Chrome , thậm_chí thay luôn trình duyệt Google trên màn_hình chính , nhằm đánh_lừa người dùng .
+Sau đó , chúng liên_tục hiển_thị quảng_cáo toàn màn_hình .
+Thậm_chí , một_số mã còn tạo bản_sao shortcut của Chrome và hiện quảng_cáo ngay khi thiết_bị mở khóa .
+Cách duy_nhất để đóng quảng_cáo này là nhấn phím Home hoặc phím Back .
+Việc liên_tục hiển_thị quảng_cáo sẽ gây ngốn pin cũng như dung_lượng bộ_nhớ trên điện_thoại Android .
+Các chuyên_gia của Trend_Micro cho biết việc xóa icon ứng_dụng trên màn_hình chính không_thể vô_hiệu_hóa_mã độc .
+Người dùng cần truy_cập mục Ứng_dụng và thông_báo trong phần Cài_đặt , tìm và xóa ứng_dụng chứa mã độc_thủ_công .
+Theo PhoneArena , khi tải ứng_dụng , người dùng nên tham_khảo ý_kiến của những người khác trong phần bình_luận .
+Ví_dụ , một tài_khoản đã khuyến_cáo :
+" Đừng cài_đặt trò_chơi này .
+Quảng_cáo xuất_hiện khắp nơi , kể_cả khi đã đóng nó .
+Biểu_tượng của nó không xuất_hiện trên điện_thoại nhưng Play_Store thông_báo là đã được cài_đặt " .
+Trước đó , hãng bảo_mật Upstream_Secure - D cũng cảnh_báo về ứng_dụng bàn_phím ảo ai.type , đạt 40 triệu lượt tải trên Google_Play .
+Ứng_dụng này chứa mã độc tự_động gửi tin nhắn SMS tới các tổng_đài đăng_ký dịch_vụ số .
+Để ngăn tình_trạng mã độc phát_tán ngày_càng nhiều trên Play_Store , Google đã thành_lập liên_minh bảo_mật App_Defense_Alliance , hợp_tác với một_số công_ty bảo_mật , như ESET , Lookout và Zumperium , để hạn_chế rủi_ro cho người dùng Android .

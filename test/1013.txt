@@ -1,0 +1,16 @@
+
+Google thu_thập_dữ_liệu y_tế trái_phép
+MỹGoogle được cho là đã thu_thập_dữ_liệu sức_khỏe của hàng triệu người dân ở 21 bang mà không có thông_báo hoặc sự đồng_ý của người dùng .
+Việc thu_thập_dữ_liệu nằm trong dự_án có tên mã " Nightingale_Project " mà Google đang hợp_tác với hệ_thống chăm_sóc sức_khỏe lớn thứ hai nước Mỹ_Ascension , theo Wall_Street_Journal .
+Mục_đích chính của dự_án là nhằm cải_thiện phần_mềm chăm_sóc sức_khỏe mà công_ty tìm_kiếm đang triển_khai .
+Các thông_tin mà Google thu_thập bao_gồm " kết_quả phòng_thí_nghiệm , chẩn_đoán của bác_sĩ và hồ_sơ nhập_viện " .
+Chúng đều ở dạng " hồ_sơ sức_khỏe hoàn_chỉnh với đầy_đủ tên bệnh_nhân và ngày_sinh của họ " .
+Nói cách khác , Ascension đã bàn_giao toàn_bộ thông_tin y_tế khách_hàng của mình cho Google một_cách đầy_đủ thay_vì ẩn_danh .
+Mashable đánh_giá rằng sự_việc đang trở_nên tồi_tệ , bởi hành_vi của Google vẫn hợp_pháp dù thu_thập_dữ_liệu bệnh_nhân mà chưa được phép , do họ vẫn tuân_thủ đạo_luật về tính linh_hoạt và tính trách_nhiệm về bảo_hiểm sức_khoẻ ( HIPPA ) năm 1996 .
+Theo website của Bộ Y_tế và Dịch_vụ Nhân_sinh Mỹ , dựa trên HIPPA , các nhà_cung_cấp và chương_trình chăm_sóc y_tế có_thể " tiết_lộ thông_tin sức_khỏe được bảo_vệ cho các ' đối_tác kinh_doanh ' nếu nhà cung_cấp hoặc chương_trình đó đảm_bảo đối_tác sẽ chỉ sử_dụng chúng cho mục_đích thực_thể , cam_kết bảo_vệ thông_tin khỏi bị lạm_dụng và tuân_thủ Quy_tắc bảo_mật " .
+Trong trường_hợp này , Ascension là " thực_thể được bảo_hiểm " với tư_cách là nhà_cung_cấp dịch_vụ chăm_sóc sức_khỏe còn Google là " đối_tác kinh_doanh " .
+Một nguồn tin khác cho biết , ít_nhất 150 nhân_viên của Google có quyền truy_cập vào " Nightingale_Project " - nơi chứa khối dữ_liệu này , dù bệnh_nhân và bác_sĩ khám bệnh chưa cho_phép .
+Điều này có_thể khiến chúng dễ bị rò_rỉ , nhất_là trong quá_khứ , hãng tìm_kiếm Mỹ từng để lộ 52,2 triệu thông_tin người dùng do hệ_thống bị lỗi .
+Trước sự lo_ngại ngày_càng tăng , cả Ascension lẫn Google đều đưa ra thông_cáo_chung , trong đó khẳng_định mọi vấn_đề đều tuân_thủ theo luật_HIPAA , đồng_thời việc bảo_mật thông_tin được thực_hiện kỹ_lưỡng và nghiêm_ngặt quy_định của Ascension về xử_lý dữ_liệu .
+Tuy_vậy , thông_cáo báo_chí này lại không đề_cập đến những lo_ngại liên_quan đến quyền riêng_tư và các câu hỏi về tính hợp_pháp của việc chia_sẻ dữ_liệu cá_nhân mà chưa được bệnh_nhân đồng_ý .
+Thay vào đó , Google chỉ đề_cập đến việc hợp_tác liên_quan đến chuyển cơ_sở_hạ_tầng sang Google_Cloud , sử_dụng G - Suite và trí_tuệ nhân_tạo để " hỗ_trợ cải_thiện chất_lượng , hiệu_quả lâm_sàng và an_toàn cho bệnh_nhân " .

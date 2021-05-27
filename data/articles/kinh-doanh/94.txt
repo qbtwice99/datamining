@@ -1,0 +1,20 @@
+
+'Mở khóa' cho Mobile Money	
+
+Những quy định đầu tiên về Mobile Money (tiền di động) đã xuất hiện trong dự thảo thay thế Nghị định 101 về thanh toán không dùng tiền mặt. 	
+Theo dự thảo, tiền di động được định nghĩa là tiền điện tử do tổ chức cung ứng dịch vụ trung gian thanh toán kinh doanh dịch vụ viễn thông phát hành và định danh khách hàng thông qua cơ sở dữ liệu thuê bao di động. 
+Dịch vụ này, sau khi được Ngân hàng Nhà nước cấp phép, có thể dùng tài khoản viễn thông thanh toán các dịch vụ khác có giá trị nhỏ. 
+Dự thảo thay thế Nghị định 101 xếp tiền di động nằm trong loại dịch vụ hỗ trợ thanh toán, thuộc dịch vụ trung gian thanh toán. 
+Theo đó, các đơn vị cung cấp dịch vụ viễn thông, trước hết, phải đáp ứng các tiêu chí về trung gian thanh toán để được cấp phép, bao gồm điều kiện về vốn, đề án hoạt động, các điều kiện về nhân sự, kỹ thuật,... 
+Trong phần giải trình, cơ quan điều hành cho biết, tiền di động là nội dung mới, cần thiết giúp người dân có thể thanh toán mọi lúc mọi nơi với thiết bị di động được kết nối Internet, đồng thời giúp thúc đẩy tài chính toàn diện. 
+Đối với nội dung này, Ngân hàng Nhà nước cho biết đã nhận được sự đồng thuận của một số Bộ, ngành, tuy nhiên để quản lý đòi hỏi cần đáp ứng các điều kiện kinh doanh chặt chẽ. Dù vậy, cơ quan điều hành cũng nêu rõ, cơ sở ban hành còn phụ thuộc vào tiến độ của dự thảo Luật Đầu tư trình Quốc hội. 
+Theo Hiệp hội di động toàn cầu (GSMA), bản chất của Mobile Money là chuyển đổi hình thức của tiền mặt sang tiền điện tử theo tỉ lệ 1:1. 
+Theo đó, đơn vị cung cấp dịch vụ Mobile Money (ở đây có thể là nhà mạng) không phải là đơn vị phát hành tiền điện tử vì không tạo ra lượng tiền mới đưa vào lưu thông. 
+Họ chỉ chuyển đổi hình thức của tiền mặt để khách hàng có thể sử dụng thanh toán. 
+Đại diện Ngân hàng Nhà nước trong những hội thảo gần đây đã nhận định, Mobile Money bản chất là eMoney, là ví điện tử nhưng không có tài khoản ngân hàng. 
+Tuy nhiên, khác biệt lớn nhất giữa ví điện tử và Mobile Money là phần định danh khách hàng (KYC - Know your customer). 
+Với ví điện tử, KYC do ngân hàng làm. 
+Còn với Mobile Money, các công ty cung cấp dịch vụ phải tự làm. 
+Như vậy, thách thức với các nhà mạng là kho dữ liệu khách hàng phải chính xách, phải làm xác thực như ngân hàng, tránh mạo danh... 
+Bên cạnh đó, quan điểm của Ngân hàng Nhà nước cũng là Mobile Money không được làm phát sinh lượng tiền tệ. 
+Theo đó, số tiền công ty viễn thông nhận của khách phải được nạp tương ứng theo tỷ lệ 1:1. 

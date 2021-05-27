@@ -1,0 +1,28 @@
+
+Thử_nghiệm ' gây sốc điện ' 400 V lên con_người
+MỹNếu một kẻ có quyền ra_lệnh cho bạn chích điện mức 400 volt lên một người khác , bạn có làm không ? Đương_nhiên là không . Nhưng một thí_nghiệm đã chứng_minh ngược_lại .
+Trong những năm 1960 , nhà tâm_lý_học của Đại_học Yale , ông Stanley_Milgram , tiến_hành một loạt thí_nghiệm về sự tuân_lệnh của con_người trong những hoàn_cảnh nhất_định .
+Nó cho thấy sự nguy_hiểm khi " kẻ xấu " hoàn_toàn kiểm_soát tình_huống ;
+hoặc kẻ tuân_lệnh_chỉ răm_rắp làm mà không có suy_nghĩ của bản_thân .
+Thí_nghiệm này đến nay vẫn gây tranh_cãi về y_đức .
+Có 40 người tham_gia thí_nghiệm Milgram , được tuyển_chọn thông_qua quảng_cáo trên báo .
+Mỗi người được trả 4,50 USD.
+Stanley_Milgram tạo ra một bộ sốc điện , với các mức sốc bắt_đầu từ 30 volt và tăng dần mỗi nấc 15 volt đến 450 volt .
+Trên thiết_bị có các công_tắc được dán nhãn với các từ " sốc nhẹ " , " sốc vừa phải " và " nguy_hiểm sốc nặng " .
+Hai công_tắc cuối_cùng được gắn nhãn đơn_giản với chữ " XXX " .
+Mỗi người tham_gia đóng vai_trò là một " giáo_viên " .
+Họ sẽ sốc điện " học_sinh " mỗi khi học_sinh trả_lời sai .
+Máy tạo sốc điện thực_ra không nối với " học_sinh " và không gây hại cho họ .
+Học_sinh , thực_chất là những người hỗ_trợ thí_nghiệm và họ chỉ giả_vờ là bị sốc điện . Câu trả_lời của học_sinh được thu âm sẵn và phát lại tương_ứng với mức_độ sốc điện .
+Ở mức 75 volt , học_sinh bắt_đầu càu_nhàu và rên_rỉ , ở mức 150 volt họ yêu_cầu được cho ra khỏi thí_nghiệm .
+Ở 180 volt , họ kêu lên rằng mình không còn chịu_đựng được sự đau_đớn này nữa .
+Ở mức 300 volt , họ từ_chối trả_lời thêm bất_kỳ câu hỏi nào và nhấn_mạnh rằng họ cần phải được thả ra .
+Khi tiến_hành thí_nghiệm , người tham_gia sẽ nghe những " học_sinh " khẩn_khoản xin được thả ra hoặc thậm_chí nói rằng họ có vấn_đề về bệnh tim .
+Hầu_hết những người tham_gia hỏi nhà_khoa_học chủ_trì thí_nghiệm , rằng liệu họ có nên tiếp_tục không .
+Người chủ_trì sẽ ra một loạt lệnh để thúc_đẩy người tham_gia : " Xin vui_lòng tiếp_tục " , " Thí_nghiệm yêu_cầu bạn tiếp_tục " , " Việc bạn tiếp_tục là điều hoàn_toàn cần_thiết " , " Bạn không có lựa_chọn nào khác , bạn phải tiếp_tục " , ...
+Kết_quả , 65 % người tham_gia nghiên_cứu Milgram thực_hiện sốc điện tối_đa và 14 người dừng lại trước khi vặn mức cao nhất .
+Theo Stanley_Milgram , một_số yếu_tố tình_huống có_thể giải_thích mức_độ vâng_lời cao như vậy , ví_dụ như việc không phải chịu trách_nhiệm , sự tin_tưởng tuyệt_đối vào hình_ảnh một người có thẩm_quyền ( ở đây là người chủ_trì thí_nghiệm ) và uy_tín của trường đại_học Yale , nơi tổ_chức thí_nghiệm .
+Suốt nhiều năm , thí_nghiệm Milgram trở_thành đề_tài tranh_luận có vi_phạm đạo_đức hay không .
+Nó cũng trở_thành thí_nghiệm kinh_điển trong tâm_lý_học , chứng_minh sự nguy_hiểm của việc tuân theo mệnh_lệnh . Nghiên_cứu cho thấy các yếu_tố tình_huống có ảnh_hưởng mạnh hơn các yếu_tố tính_cách khi chủ_thể quyết_định xem nên vâng_lời hay không .
+Milgram kết_luận :
+" Dưới áp_lực xã_hội , nhiều cá_nhân sẽ tham_gia vào các hành_vi gây ra sự đau_khổ đáng_kể ở người khác và bản_thân họ " .

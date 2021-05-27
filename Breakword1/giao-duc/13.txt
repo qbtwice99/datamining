@@ -1,0 +1,31 @@
+
+‘ Tri_thức trẻ vì giáo_dục ’ vinh_danh 5 giải xuất_sắc
+Các công_trình ứng_dụng công_nghệ vào giảng_dạy , từ_điển cho học_sinh dân_tộc_thiểu_số ... được vinh_danh tại lễ trao giải_thưởng " Tri_thức trẻ vì giáo_dục " .
+Chương_trình do Trung_ương Đoàn , Bộ_Giáo_dục_và_Đào_tạo , báo Tuổi_Trẻ , cùng Công_ty Cổ_phần Tập_đoàn Thiên_Long phối_hợp tổ_chức tại Hà_Nội vào ngày 9/11 .
+Đại_diện ban tổ_chức cho biết , lần đầu_tiên sau 4 năm tổ_chức , có tối_đa 5 công_trình , sáng_kiến xuất_sắc .
+Mỗi công_trình được trao kỷ_niệm chương Tuổi_trẻ sáng_tạo của Trung_ương Đoàn , bằng_khen của Bộ Giáo_dục_và_Đào_tạo cùng phần quà tiền_mặt 100 triệu đồng .
+Trong 5 công_trình đạt giải xuất_sắc có 4 công_trình thuộc nhóm chủ_đề sáng_tạo , chế_tạo ra các công_cụ phục_vụ giảng_dạy , học_tập , bao_gồm :
+Công_trình " Sách Sinh_học lớp 10 ứng_dụng công_nghệ thực_tế ảo tăng_cường " gồm 5 sản_phẩm công_nghệ ứng_dụng vào dạy và học của tác_giả Võ Nguyễn_Đình_Trí , Nguyễn_Quang_Đức ở Đà_Nẵng ;
+Công_trình " Nghiên_cứu , thiết_kế , chế_tạo mô - đun đánh lỗi thiết_bị đào_tạo điều_khiển từ xa " của các tác_giả Nguyễn_Trung_Kiên , Trần_Hoài_Nam ở Vĩnh_Phúc , để thầy_cô thiết_kế các bài_tập thực_hành một_cách dễ_dàng và sát với thực_tế ;
+Công_trình " ShubClassroom " của các tác_giả Nguyễn_Đăng_An , Huỳnh_Quốc_Tuấn , Lê_Văn_Tư , Nguyễn_Hoàng_Kha ở TP HCM , giúp học_sinh nhận hướng_dẫn làm bài tập để bổ_sung kiến_thức và giảm bớt áp_lực học_tập ;
+Công_trình " Từ_điển Việt - M ' nông , M ' nông - Việt trên điện_thoại hệ điều_hành android " của tác_giả Văn_Thành_Đạt , Nguyễn_Văn_Nam ở Đắk_Nông .
+Công_trình thể_hiện được tinh_thần hướng về phương_diện đổi_mới giáo_dục cho các em học_sinh đồng_bào dân_tộc_thiểu_số , cải_thiện chất_lượng giáo_dục cho các em vùng_sâu , vùng_xa .
+Bên cạnh , có công_trình thuộc phạm_trù nghiên_cứu trong lĩnh_vực khoa_học , giáo_dục :
+" Nghiên_cứu , thiết_kế quy_trình công_nghệ chế_tạo thiết_bị dạy_học môn toán dành cho học_sinh khiếm_thị trong môi_trường giáo_dục hòa_nhập " của tác_giả Nguyễn_Sỹ_Nam ở Hà_Nội .
+Tác_giả mong_muốn tạo ra hệ_thống bộ dụng_cụ học_tập tiêu_chuẩn cho trẻ_em bị khiếm_thị , giúp các em lĩnh_hội trọn_vẹn các kiến_thức Toán_học .
+Ngoài_ra , có 8 công_trình , sáng_kiến được trao giải Cống_hiến gồm :
+bằng khen của Trung_ương Đoàn , bằng_khen của Bộ Giáo_dục_và_Đào_tạo và tiền thưởng 10 triệu đồng .
+Phát_biểu tại lễ trao thưởng , ông Bùi_Quang_Huy , Bí_thư Trung_ương Đoàn , Chủ_tịch Trung_ương Hội_Sinh_viên Việt_Nam đánh_giá , chương_trình Tri_thức trẻ vì giáo_dục thực_sự là một sân_chơi trí_tuệ , khoa_học và có ý_nghĩa với sự_nghiệp trồng người .
+Là đơn_vị đồng_hành với cuộc thi trong 4 năm qua , ông Bùi_Văn_Huống , phó tổng_giám_đốc Công_ty Cổ_phần Tập_đoàn Thiên_Long , chia_sẻ :
+" Chương_trình năm nay tăng hơn 138 công_trình , sáng_kiến so với năm 2018 .
+Điều đó cho thấy , xã_hội ngày_càng có nhiều trí_thức trẻ sẵn_sàng cống_hiến , dấn_thân vào sự_nghiệp phát_triển của nền giáo_dục nước_nhà " .
+Bên_cạnh đó , ông Bùi_Văn_Huống cũng nhận_định , các trí_thức trẻ đã vận_dụng và phát_huy sức_mạnh của nền_tảng công_nghệ vào trong việc đổi_mới phương_pháp dạy_học sáng_tạo và hiệu_quả , tạo ra được những phần_mềm , ứng_dụng hữu_ích , thân_thiện và tương_tác cao với người dùng .
+Ông Bùi_Văn_Huống Không nhận thấy vẫn còn rất nhiều thầy cô_giáo vẫn luôn quan_tâm và hướng về phương_diện đổi_mới giáo_dục cho các em học_sinh đồng_bào dân_tộc_thiểu_số , cải_thiện chất_lượng giáo_dục cho các em nhỏ gặp nhiều hoàn_cảnh khó_khăn , thiệt_thòi .
+Đánh_giá về chương_trình " Tri_thức trẻ vì giáo_dục " , Tiến_sĩ Nguyễn_Quân , nguyên Bộ_trưởng Bộ Khoa_học - Công_nghệ cho biết :
+" Ngoài hội_đồng chuyên_môn , ban tổ_chức cần mời các nhà_đầu_tư quan_tâm đến giới trẻ , công_nghệ , nếu thấy sản_phẩm tốt họ sẵn_sàng đầu_tư để phát_triển công_nghệ của mình .
+Ban tổ_chức nên mời doanh_nghiệp với tư_cách nhà_đầu_tư , ngồi với hội_đồng để đánh_giá mức_độ khả_thi của sản_phẩm " .
+Chương_trình " Tri_thức trẻ vì giáo_dục " tổ_chức từ năm 2015 .
+Năm 2016 và 2017 , ban giám_khảo vinh_danh 3 công_trình xuất_sắc mỗi năm .
+Năm 2018 , 4 công_trình được vinh_danh xuất_sắc .
+Bước sang năm thứ 4 , chương_trình nhận được 539 hồ_sơ công_trình , sáng_kiến gửi về tham_dự từ nhiều vùng_miền trên cả nước .
+Trong đó có 274 công_trình , sáng_kiến thuộc nhóm chủ_đề đổi_mới phương_pháp dạy_học sáng_tạo và hiệu_quả , 141 công_trình , sáng_kiến thiên về sáng_tạo , chế_tạo ra các công_cụ phục_vụ giảng_dạy , học_tập và 124 công_trình , sáng_kiến đưa ra những nghiên_cứu trong lĩnh_vực khoa_học giáo_dục .

@@ -1,0 +1,13 @@
+
+Sinh_viên chế_tạo xe_điện chạy 900 km trong một lần sạc
+Chiếc Helia do sinh_viên Đại_học_Cambridge phát_triển có tỷ_lệ tiêu_hao năng_lượng chỉ bằng 1/10 so với xe_điện thương_mại hiện_nay .
+Helia là đứa con tinh_thần của đội đua Eco_Eco đến từ Đại_học Cambridge - gồm 20 sinh_viên , dẫn_đầu bởi giám_đốc chương_trình Xiaofan_Zhang .
+Đây là một chiếc xe_điện 4 chỗ ngồi hiệu_suất cao , có khả_năng di_chuyển liên_tục quãng đường dài 900 km chỉ trong một lần sạc .
+Nhờ thiết_kế khung xe bằng sợi carbon siêu nhẹ , xe có trọng_lượng chỉ 550 kg .
+Khi chở đủ 4 người , nó có_thể chạy với tốc_độ tối_đa 120 km / h và tốc_độ hành_trình khoảng 80 km / h .
+Xe được mô_tả là tiết_kiệm nhiên_liệu gấp 10 lần so với các mẫu ôtô điện đang được bán trên thị_trường .
+Hiệu_suất cao của phương_tiện không chỉ đến từ cấu_trúc nhẹ mà_còn nhờ thiết_kế khí_động_học và lốp kháng lăn thấp ( low - rolling resistance tire ) - giúp giảm ma_sát giữa bề_mặt cao_su của lốp với mặt_đường .
+Trên nóc xe còn được lắp_đặt các tấm pin năng_lượng mặt_trời hiệu_suất 25 % với tổng diện_tích bề_mặt là 5 m2 .
+Ngay cả khi không sử_dụng pin mặt_trời , chiếc Helia vẫn có phạm_vi hoạt_động gấp đôi so với xe_điện Tesla hiện_nay .
+Hệ_thống pin của phương_tiện có_thể được sạc bằng bộ sạc điện tiêu_chuẩn .
+Đội đua Eco_Eco cho biết sẽ tổ_chức các chuyến lưu_diễn với xe_điện Helia tại các trường_học trên khắp Vương_quốc Anh vào mùa hè tới , với mục_đích truyền_cảm_hứng cho thế_hệ kỹ_sư tương_lai .

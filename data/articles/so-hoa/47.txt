@@ -1,0 +1,15 @@
+
+‘Cha đẻ’ Riot Games bị trộm danh tính để đào tiền mã hóa 
+Thủ phạm để lại trên tài khoản của nạn nhân hóa đơn thuê dịch vụ đám mây Amazon Web Services có trị giá 5 triệu USD.
+Marc Merril, nhà đồng sáng lập Riot Games, vừa trở thành nạn nhân của một vụ lừa đảo liên quan đến tiền mã hóa. 
+Theo Forbes, ông Merril đã bị một người đàn ông Singapore đánh cắp thông tin trên thẻ tín dụng American Express để thuê dịch vụ điện toán đám mây của Amazon và Google. 
+Thủ phạm tên là Matthew Ho. 
+Người này đã khai nhận sử dụng máy chủ Amazon đào nhiều loại tiền mã hóa khác nhau, gồm Bitcoin và Etherium, kể từ tháng 11/2014. 
+Tính tới tháng 1/2018, Ho đã trở thành khách hàng lớn nhất trên nền tảng Amazon Web Services (AWS) với giá trị giao dịch lên tới 5 triệu USD. 
+Cơ quan điều tra cho biết ông Merril đã thanh toán tối thiểu 135.000 USD cho hóa đơn của Ho, do tài khoản này cũng thường xuyên được ông sử dụng để trả phí thuê dịch vụ đám mây cho công ty. 
+Ngoài ông Merril, nạn nhân của Ho còn có một doanh nhân ở Texas (Mỹ) và một nhà sáng lập công ty công nghệ tại Ấn Độ. 
+Để Amazon tin rằng mình là tỷ phú của ngành công nghiệp trò chơi điện tử, thủ phạm tạo ra bằng lái xe giả ở California mang tên Marc Merril và đăng ký dịch vụ đám mây bằng e-mail giả mạo. 
+Bằng phương thức tương tự, Ho đã 16 lần thuê dịch vụ điện toán đám mây của Google với tổng chi phí 240.000 USD. 
+Sau đó, hắn bán toàn bộ số tiền mã hóa kiếm được trái phép trên các sàn giao dịch ngang hàng (P2P) như localbitcoins.net. 
+Nhờ dữ liệu như địa chỉ IP do Amazon, Google và Facebook cung cấp, cảnh sát Singapore đã có thể xác định Matthew Ho là nghi phạm chính. 
+Ho bị bắt giữ vào ngày 26/9 và đang phải đối mặt với nhiều cáo buộc khác nhau, gồm 4 tội danh lừa đảo qua đường dây hữu tuyến, 4 tội danh lừa đảo qua thiết bị truy cập và 2 tội danh đánh cắp danh tính nghiêm trọng. 

@@ -1,0 +1,15 @@
+
+Giải_pháp tổng_đài trợ_lý ảo của MobiFone
+Công_nghệ thay_thế nhân_viên tổng_đài giúp các doanh_nghiệp có_thể xử_lý lượng khách_hàng lớn và đa_dạng .
+Hãng viễn_thông đưa ra giải_pháp tổng_đài tự_động MobiFone AI Call_Center ( mAICallCenter ) nhằm hỗ_trợ các doanh_nghiệp đạt hiệu_suất và hiệu_quả làm_việc cao hơn .
+Nhân_viên truyền_thống là những người được bố_trí nhiệm_vụ trực tổng_đài để giao_tiếp với khách_hàng .
+Sự phát_triển ngày_càng cao của cuộc_sống , tệp khách_hàng lớn với nhu_cầu đa_dạng đã tạo áp_lực không nhỏ lên bộ_phận này .
+mAICallCenter là giải_pháp thay_thế nhân_viên trực tổng_đài truyền_thống với khả_năng tương_tác bằng giọng nói , được phát_triển trên nền_tảng xử_lý tiếng_nói ứng_dụng AI.
+Với tổng_đài ảo , doanh_nghiệp có_thể soạn nội_dung , gọi điện tự_động đến từng khách_hàng để phục_vụ theo nhiều mục_đích .
+Giải_pháp này có khả_năng giúp doanh_nghiệp cắt_giảm chi_phí nhân_viên tổng_đài với các cuộc gọi được tự_động_hoá .
+Mỗi khách_hàng sẽ tiếp_nhận thông_điệp riêng , dựa trên cơ_sở dữ_liệu người dùng .
+mAICallCenter phù_hợp với nhóm khách_hàng là các doanh_nghiệp viễn_thông , doanh_nghiệp tài_chính , bảo_hiểm , các công_ty sự_kiện , giao vận hay công_ty thương_mại_điện_tử với số_lượng khách_hàng và đơn hàng lên đến hàng vạn , hàng triệu vận_đơn mỗi ngày , đại_diện MobiFone nói .
+Ứng_dụng trên hỗ_trợ đắc_lực cho hoạt_động chăm_sóc khách_hàng của doanh_nghiệp bằng cách chủ_động gọi và khảo_sát chất_lượng dịch_vụ , tự_động trả_lời các yêu_cầu theo kịch_bản được nạp sẵn .
+Thậm_chí , mAICallCenter còn được phát_triển với các giọng đọc theo giới_tính , vùng_miền , dự_đoán cách đọc các từ chưa chuẩn_hóa , viết tắt , từ mượn khiến giọng nói có biểu_cảm và ngữ_điệu giống người thật .
+Trợ_lý ảo mAICallCenter có_thể vận_hành 24/7 .
+Điểm quan_trọng của khách_hàng khi sử_dụng dịch_vụ là sự đồng_bộ , nhất_quán trong việc đưa ra các giải_pháp được lập_trình sẵn để giải_đáp thắc_mắc của khách_hàng .

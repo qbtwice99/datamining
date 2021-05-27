@@ -1,0 +1,41 @@
+
+Sinh_viên khởi_nghiệp từ ứng_dụng hỗ_trợ làm bài tập
+Sau bốn tháng , SHub_Classroom của Nguyễn_Đăng_An ( 23 tuổi , ở TP HCM ) và cộng_sự đạt 100.000 người dùng , lọt top 4 ứng_dụng giáo_dục thịnh_hành trên Google_Play .
+Một ngày sau khi ngành giải_thưởng cao nhất 100 triệu đồng của chương_trình " Tri_thức trẻ vì giáo_dục " 2019 , Đăng_An đáp chuyến bay sớm nhất trở về TP HCM để chia vui với người_thân và thành_viên dự_án SHub_Classroom .
+" Là người đầu_tiên được xướng_tên trong top 5 công_trình xuất_sắc , mình như vỡ òa , chân_tay run lên .
+Giải_thưởng như một dấu mốc , ghi_nhận công_sức , đam_mê của mình và các thành_viên trong nhóm bỏ ra trong hơn hai năm qua " , Đăng_An , người sáng_lập dự_án SHub_Classrom , nhớ lại khoảnh_khắc nhận giải_thưởng .
+Nhóm startup của Đăng_An gồm 10 người từ 19 đến 23 tuổi , quen nhau vì học chung Đại_học Khoa_học Tự_nhiên , Đại_học Quốc_gia TP HCM.
+Trước khi thực_hiện SHub_Classroom , nhóm đã đồng_hành trong hơn hai năm với ba dự_án startup khác nhưng đều thất_bại , thua_lỗ khoảng 50 triệu đồng .
+Đăng_An đặt mục_tiêu phải tìm ra sản_phẩm và hướng đi mới cho nhóm .
+Ý_tưởng thực_hiện SHub_Classroom đến từ trải_nghiệm thời học phổ_thông chịu áp_lực quá lớn .
+Đăng_An cho rằng học_sinh phải học nhiều kiến_thức , hôm_nay chưa nắm rõ bài mà sáng_mai đã phải học bài mới .
+" Mình nảy ra ý_tưởng giúp học_sinh có_thể tìm được người hỗ_trợ , giải_đáp và bổ_sung kiến_thức còn thiếu một_cách liên_tục , kịp_thời thay_vì phải đợi đến buổi học hôm sau mới có_thể hỏi giáo_viên , bạn_bè " , An nói .
+Cuối tháng 2 , An chia_sẻ ý_tưởng này với các thành_viên và được đón_nhận rất tích_cực .
+Mượn được một phòng tại Khu Công_nghệ của Đại_học Quốc_gia TP HCM , cả nhóm đến đó tập_trung nghiên_cứu và phát_triển dự_án .
+SHub Classroom hoạt_động theo mô_hình kết_nối như các ứng_dụng xe_ôm công_nghệ hiện_nay , khi có vấn_đề hoặc bài_tập nào khó , các em đăng câu hỏi hoặc chụp hình lại , hệ_thống sẽ tự_động tìm người hỗ_trợ phù_hợp .
+Trước đó , người dùng cần đăng_ký thông_tin về điểm mạnh , điểm yếu của mình ở môn_học nào để hệ_thống có căn_cứ kết_nối .
+Điểm khác_biệt của SHub_Classroom là một người có_thể vừa đăng câu hỏi , vừa giúp_đỡ người khác giải bài_tập nếu làm được .
+Đối_tượng ứng_dụng tập_trung hướng đến là học_sinh THCS và THPT vì các em ở độ tuổi này có_thể sử_dụng điện_thoại thông_minh một_cách thành_thạo .
+Sau thời_gian phát_triển và thử_nghiệm , SHub_Classroom đã có_mặt trên cửa_hàng ứng_dụng và người dùng được tải miễn_phí .
+Số_lượng người dùng sau bốn tháng ra_mắt của SHub_Classroom khoảng 100.000 , tăng nhanh đến mức chính Đăng_An và các thành_viên không ngờ tới .
+Lúc đầu , Đăng_An lên kế_hoạch mỗi tháng nhóm phải trả 10 triệu đồng tiền thuê máy_chủ và các nền_tảng công_nghệ_thông_tin cho ứng_dụng vận_hành .
+Tuy_nhiên , hai tháng trở_lại đây , con_số này đã lên tới 30 triệu vì số_lượng người dùng tăng quá nhanh .
+Các thành_viên trong nhóm phải kêu_gọi hỗ_trợ , đầu_tư đồng_thời sử_dụng tiền kiếm được từ các công_việc khác để bù vào số tiền vượt dự_tính .
+Trong hơn bảy tháng thực_hiện dự_án , khó_khăn lớn nhất của Đăng_An và cộng_sự là thiếu kinh_phí duy_trì .
+" Có nhiều ngày anh_em hết tiền phải ở văn_phòng ăn mì gói , làm đến 9-10 h tối , có_khi ngủ lại rồi sáng_mai lại làm tiếp " , An nhớ lại .
+Ngoài_ra , thách_thức rất lớn cho các thành_viên là tìm cách để SHub_Classroom cạnh_tranh được với các đối_thủ trong và ngoài nước khi không có tiềm_lực như họ .
+Câu_hỏi làm thế_nào để bật lên , sống được khi thiếu kinh_phí , không có đại_diện và người cố_vấn khiến Đăng_An và nhóm đau_đầu tìm lời_giải .
+Có thời_điểm dự_án SHub_Classroom tưởng_chừng phải dừng lại vì " đường đi mờ_mịt , tiền lại không có " , Đăng_An stress đến mức gần như rơi vào trầm_cảm .
+" Mình không có gì lúc đó , ngoài ý_chí và đam_mê .
+Nếu muốn thoát khỏi tình_trạng này và tiếp_tục theo_đuổi những gì mình thích , đam_mê phải lớn hơn những khó_khăn trước_mắt " , An tự động_viên mình và các thành_viên .
+Để có tiền duy_trì dự_án , nhóm thay nhau đi xin tài_trợ từ một_số nhà đầu_tư nhỏ , cựu sinh_viên và nhận được sự hỗ_trợ từ gia_đình .
+Khi đã có thêm vốn , các thành_viên SHub_Classroom tiếp_tục phải giải_quyết việc tìm chỗ_đứng cho sản_phẩm trên thị_trường .
+Nhờ có bố_mẹ đều là giáo_viên tiểu_học , Đăng_An được tiếp_xúc nhiều với thầy_cô , hiểu được khó_khăn và áp_lực học_tập của cả người dạy và người học , từ đó đặt mục_tiêu tạo ra một ứng_dụng thiết_thực , dễ sử_dụng .
+" Mỗi ngày , bọn mình đều gọi điện cho 20 người dùng là giáo_viên , học_sinh để lấy ý_kiến , làm căn_cứ chỉnh sửa những chi_tiết nhỏ nhất của sản_phẩm như màu_sắc , phông_chữ sao cho thân_thiện và dễ sử_dụng nhất " , Đăng_An nói .
+Nguyễn_Thùy_Linh , đại_diện nhóm tác_giả dự_án " Bộ ấn_phẩm góp_phần xóa bỏ định_kiến giới của học_sinh THPT trên địa_bàn tỉnh Lạng_Sơn " , cũng tham_gia chương_trình " Tri_thức trẻ vì giáo_dục " 2019 .
+Tuy là đối_thủ tại vòng chung_kết , Thùy_Linh đánh_giá SHub_Classroom xứng_đáng giành giải_thưởng cao nhất .
+" Dự_án của nhóm Đăng_An có tính ứng_dụng rất cao .
+Chính những thầy_cô và học_sinh trường THPT mình từng học đã sử_dụng ứng_dụng này một thời_gian và cảm_thấy rất thích " , Linh chia_sẻ .
+Hiện_tại , SHub_Classroom nhận được nhiều phản_hồi tích_cực từ cộng_đồng giáo_viên và học_sinh trên cả nước , xếp_hạng 22 ứng_dụng tốt nhất trên App_Store , top 4 ứng_dụng giáo_dục thịnh_hành trên Google_Play , 90.000 học_sinh và 5.000 giáo_viên đăng_ký với hơn 150.000 lượt nộp bài và đặt câu hỏi .
+Với 100 triệu giải_thưởng từ chương_trình " Tri_thức trẻ vì giáo_dục " , nhóm sẽ dùng để tái_đầu_tư_sản_xuất , chi_trả tiền thuê máy_chủ và các nền_tảng công_nghệ cho ứng_dụng trong hai tháng tới .
+Đăng_An cho biết cả nhóm sẽ đẩy nhanh tiến_độ , hoàn_thiện dự_án để có_thể mang SHub_Classroom đi kêu gọi vốn từ một_số nhà_đầu_tư lớn .

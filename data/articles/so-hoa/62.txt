@@ -1,0 +1,20 @@
+
+Mã độc giả mạo trình duyệt Chrome 
+Sau khi được cài đặt, 49 ứng dụng chứa mã độc tự nhân bản biểu tượng trình duyệt Chrome trên màn hình chính để đánh lừa người dùng.
+Hãng bảo mật Trend Micro cho biết, 49 ứng dụng này đã được tải xuống tổng cộng hơn 3 triệu lần trên Google Chrome. 
+Tương tự xHelper, chúng đều chứa mã độc quảng cáo và rất khó gỡ bỏ. 
+Sau khi cài đặt lên thiết bị, mã độc tự ẩn biểu tượng gốc, ngụy trang bằng biểu tượng của Chrome, thậm chí thay luôn trình duyệt Google trên màn hình chính, nhằm đánh lừa người dùng. 
+Sau đó, chúng liên tục hiển thị quảng cáo toàn màn hình. 
+Thậm chí, một số mã còn tạo bản sao shortcut của Chrome và hiện quảng cáo ngay khi thiết bị mở khóa. 
+Cách duy nhất để đóng quảng cáo này là nhấn phím Home hoặc phím Back. 
+Việc liên tục hiển thị quảng cáo sẽ gây ngốn pin cũng như dung lượng bộ nhớ trên điện thoại Android. 
+Các chuyên gia của Trend Micro cho biết việc xóa icon ứng dụng trên màn hình chính không thể vô hiệu hóa mã độc. 
+Người dùng cần truy cập mục Ứng dụng và thông báo trong phần Cài đặt, tìm và xóa ứng dụng chứa mã độc thủ công. 
+Theo PhoneArena, khi tải ứng dụng, người dùng nên tham khảo ý kiến của những người khác trong phần bình luận. 
+Ví dụ, một tài khoản đã khuyến cáo: 
+"Đừng cài đặt trò chơi này. 
+Quảng cáo xuất hiện khắp nơi, kể cả khi đã đóng nó. 
+Biểu tượng của nó không xuất hiện trên điện thoại nhưng Play Store thông báo là đã được cài đặt". 
+Trước đó, hãng bảo mật Upstream Secure-D cũng cảnh báo về ứng dụng bàn phím ảo ai.type, đạt 40 triệu lượt tải trên Google Play. 
+Ứng dụng này chứa mã độc tự động gửi tin nhắn SMS tới các tổng đài đăng ký dịch vụ số. 
+Để ngăn tình trạng mã độc phát tán ngày càng nhiều trên Play Store, Google đã thành lập liên minh bảo mật App Defense Alliance, hợp tác với một số công ty bảo mật, như ESET, Lookout và Zumperium, để hạn chế rủi ro cho người dùng Android. 

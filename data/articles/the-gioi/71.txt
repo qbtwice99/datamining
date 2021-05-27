@@ -1,0 +1,15 @@
+
+Mỹ sửa lỗi mũ bảo hiểm của phi công F-35 
+Tập đoàn Lockheed Martin thay cụm đèn LED trên chiếc mũ giá 400.000 USD nhằm khắc phục lỗi hạn chế tầm nhìn phi công bay đêm.
+Tập đoàn Lockheed Martin hôm qua được Lầu Năm Góc giao hợp đồng tái thiết kế và lắp đặt diode hữu cơ phát quang (OLED) trên mũ bảo hiểm trị giá 400.000 USD của phi công siêu tiêm kích F-35, thay thế cụm thiết bị sử dụng đèn LED tích hợp hiện nay. 
+Nhà sản xuất không tiết lộ số mũ cần chỉnh sửa cũng như chi phí cho đợt sửa chữa này. 
+Cụm đèn LED tích hợp trong hệ thống hiển thị gắn trên mũ bảo hiểm (HMDS) của phi công F-35 tạo ra quầng ánh sáng xanh lục, khiến phi công khó quan sát khi tác chiến ban đêm. 
+Lỗi này được phát hiện từ năm 2012 nhưng chưa được xử lý, khiến phi công hải quân Mỹ không thể quan sát dàn đèn dẫn đường trên boong tàu sân bay, gây nguy hiểm tính mạng nếu họ cố hạ cánh trong đêm. 
+"Boong tàu sân bay là môi trường tối nhất bạn có thể gặp trong những đêm không trăng. 
+Bạn không thể hạ độ sáng đèn LED tới mức đủ để quan sát xung quanh mà vẫn nhìn được dữ liệu hiển thị trên mũ. 
+Nếu muốn nhìn rõ thông tin trong mũ, đèn LED phải đạt độ sáng lấn át mọi thứ bên ngoài", trung tá Tommy Locke, chỉ huy Phi đoàn tiêm kích số 125 hải quân Mỹ, cho biết hồi năm ngoái. 
+Lỗi này khiến phần lớn phi công tiêm kích hạm F-35C không được bay trong điều kiện trời tối, chỉ những người có trên 50 lần hạ cánh thành công xuống tàu sân bay mới được thực hiện nhiệm vụ ban đêm. 
+Lầu Năm Góc từng tìm cách giải quyết vấn đề bằng cách nâng cấp phần mềm, cho phép phi công giảm độ sáng của đèn LED, nhưng nó vẫn không giải quyết triệt để vấn đề. 
+Công nghệ OLED mang lại nhiều lợi ích so với LED như cải thiện chất lượng hình ảnh và thời gian phản ứng nhanh, nhưng có nhược điểm là tuổi thọ thấp hơn. 
+Mũ bảo hiểm của phi công F-35 được ví như "thiên nhãn" vì được kết nối với hệ thống cảm biến trên máy bay, giúp phi công quan sát mọi thứ xung quanh tiêm kích khi hoạt động. 
+Hệ thống HMDS hiển thị các thông số quan trọng như tốc độ và độ cao, dữ liệu mục tiêu và cảnh báo nguy hiểm, bảo đảm phi công luôn nắm bắt được tình huống tác chiến. 

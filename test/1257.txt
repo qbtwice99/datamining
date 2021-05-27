@@ -1,0 +1,14 @@
+
+Robot phẫu_thuật thần_kinh
+CanadaViện Nghiên_cứu não_bộ Krembil ở Toronto đã sử_dụng robot để phẫu_thuật thần_kinh cho một bệnh_nhân nữ .
+Ca phẫu_thuật diễn ra ngày 1/11 , bệnh_nhân 64 tuổi bị phình động_mạch trong não .
+Đây là ca phẫu_thuật phức_tạp nhằm loại_bỏ đoạn phình động_mạch thông_qua một cánh_tay robot điều_khiển từ xa .
+Hệ_thống robot điều_khiển ống thông , dây_điện và các thiết_bị được sử_dụng trong quy_trình phẫu_thuật .
+Người điều_khiển có khả_năng kiểm_soát 100 % quy_trình nhưng robot là " người " thực_hiện các chuyển_động với độ chính_xác cao .
+" Cỗ_máy này có_thể làm những gì chúng_ta làm bằng bốn_tay " , Tiến_sĩ Vitor_Mendes_Pereira , người điều_khiển robot trong ca phẫu_thuật cho biết .
+Sử_dụng robot phẫu_thuật còn cải_thiện việc chăm_sóc bệnh_nhân .
+Các hoạt_động phẫu_thuật không xâm_lấn nên không yêu_cầu mở hộp_sọ .
+Bệnh_nhân đôi_khi có_thể được xuất_viện trong ngày .
+Chứng phình động_mạch xảy ra khi một phần của thành động_mạch suy_yếu , khiến nó mở_rộng hoặc sưng lên .
+Nếu chỗ phình động_mạch bị vỡ có_thể gây tử_vong hoặc gây tổn_thương não vĩnh_viễn .
+Tiến_sĩ Pereira nói thêm :

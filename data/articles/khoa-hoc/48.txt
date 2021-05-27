@@ -1,0 +1,12 @@
+
+Robot báo săn trổ tài chơi bóng đá 
+Đội robot báo săn của viện MIT thể hiện kỹ năng nhào lộn và chơi bóng tài tình dưới sự điều khiển của con người.
+Phòng thí nghiệm Mô phỏng Sinh học thuộc Viện Công nghệ Massachusetts (MIT) hôm 6/11 chia sẻ video ghi hình những con robot báo săn cỡ nhỏ khoe kỹ năng vận động trên bãi cỏ. 
+Đội robot siêu nhẹ và có 4 chân do MIT phát triển có kích thước lớn ngang chó, có thể bật lên, nhào lộn và chơi bóng đá. 
+Trong video, các robot phối hợp giống như đang nô đùa với nhau. 
+Mỗi con robot báo săn nặng khoảng 9 kg, vận hành nhờ 12 motor điện và có thể đạt tốc độ 8 km/h (2,2 m/s). 
+Hồi đầu năm, MIT từng đăng video ghi hình robot báo săn thể hiện tài nhào lộn và giữ thăng bằng không kém nghệ sĩ xiếc. 
+"Trọng lượng 9 kg không quá nhỏ nhưng cũng không lớn tới mức gây nguy hiểm", Sangbae Kim, giám đốc Phòng thí nghiệm Mô phỏng Sinh học, nói. 
+Kim đang lên kế hoạch kiểm tra những con robot trên đường đua vượt chướng ngại vật. 
+"Tôi hy vọng chúng tôi có thể tổ chức cuộc đua robot, trong đó mỗi đội điều khiển một con robot báo săn cỡ nhỏ với thuật toán khác nhau để xem chiến lược nào hiệu quả hơn. 
+Đó là cách để thúc đẩy nghiên cứu", Kim chia sẻ. 

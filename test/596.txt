@@ -1,0 +1,12 @@
+
+Trung_Quốc ra_mắt robot phân_loại rác
+Robot được trang_bị công_nghệ trí_tuệ nhân_tạo , có khả_năng nhận_diện và phân_loại bốn nhóm rác_thải khác nhau để tái_chế .
+Trung_Quốc hôm 5/11 trình_làng mẫu robot phân_loại rác tự_động mới tại Triển_lãm Nhập_khẩu Quốc_tế ( CIIE ) lần thứ hai diễn ra tại thành_phố Thượng_Hải .
+Thiết_bị do hãng sản_xuất robot công_nghiệp ABB phát_triển là sự kết_hợp giữa hai cánh_tay máy YuMi và robot xử_lý vật_liệu IRB 1200 .
+YuMi có nhiệm_vụ phân_loại rác thành bốn nhóm khác nhau , từ chất_thải nguy_hiểm đến vật_liệu có_thể tái_chế .
+Rác sau khi phân_loại được chuyển tới robot IRB 1200 bằng băng_chuyền , nơi chúng được thu_gom để tái_chế .
+Theo Cui_Hengfeng , kỹ_sư của ABB , hệ_thống sử_dụng trí_tuệ nhân_tạo ( AI ) và công_nghệ_học máy ( machine learning ) , cho_phép nhận_dạng thêm các loại rác_thải mới có_thể được tạo ra trong tương_lai .
+Robot có khả_năng tự học_hỏi và nâng_cấp để vận_hành tốt hơn trong một quy_trình kỹ_thuật_số hoàn_toàn tự_động .
+Thiết_bị còn có_thể tùy chỉnh để sử_dụng trong nhiều lĩnh_vực khác như kiểm_tra chất_lượng , quản_lý sản_phẩm trên dây_chuyền lắp_ráp và phân_loại vật_liệu .
+Triển_lãm CIIE sẽ diễn ra từ ngày 5/11 đến hết ngày 10/11 .
+Theo kế_hoạch , hơn 40 thành_phố của Trung_Quốc sẽ được thêm vào mạng_lưới phân_loại rác_thải trong thời_gian tới .

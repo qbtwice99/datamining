@@ -1,0 +1,5 @@
+
+Thanh cuộn thay đổi thế nào sau 38 năm 
+Thanh cuộn (Scrollbar) xuất hiện lần đầu tiên trên nền tảng Xerox Star vào năm 1981 và hoàn thiện dần theo thời gian.
+Trong quá trình hình thành và phát triển của Giao diện người dùng (User Interface - UI), thanh cuộn là một thành phần cốt yếu, không thể thiếu khi trải nghiệm trên hầu hết ứng dụng của mọi hệ điều hành. 
+Mới đây, nhà nghiên cứu Sébastien Matos đã xây dựng lại quá trình hình thành của nó một cách sinh động. 

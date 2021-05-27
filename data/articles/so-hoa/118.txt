@@ -1,0 +1,21 @@
+
+Người dùng iPhone phát bực vì iOS 13.2 
+Bản cập nhật hệ điều hành iOS 13 lần thứ sáu lại khiến nhiều iPhone và iPad gặp vấn đề khi dùng đa nhiệm.
+Vừa phát hành hôm 29/10, nhưng bản cập nhật iOS 13.2 mới nhất đang làm cho nhiều người dùng "tức điên", trang Independent nhận xét. 
+Chưa đầy ba ngày sau khi được phát hành chính thức, trên các mạng xã hội và trên chính trang trợ giúp của Apple, phàn nàn của người dùng đối với bản cập nhật iOS mới nhất ngày một nhiều. 
+Các từ khoá MemoryGate (lỗi bộ nhớ), iOSbugs (lỗi iOS) liên tục xuất hiện trên Twitter những ngày gần đây. 
+"Trình duyệt Safari liên tục tải lại các trang web mỗi khi chuyển đổi qua lại giữa các ứng dụng, dù tôi đang sử dụng chiếc iPhone 11 Pro 512 GB mới nhất", một người dùng đăng lên Twitter. 
+"iOS 13.2 có vấn đề, thật bực mình, tôi đang dùng iPad Pro có tới 6 GB RAM cơ mà", một khách hàng khác của Apple than thở. 
+"iOS 13.2 gặp lỗi nghiêm trọng. 
+Thiết bị không thể tải dữ liệu ở chế độ nền, các ứng dụng bị tắt quá nhanh và dường như chế độ chạy đa nhiệm không còn hoạt động", Marco Arment, cựu Giám đốc công nghệ của Tumblr viết trên Twitter. 
+Bên dưới dòng chia sẻ, hàng trăm bình luận của người dùng iPhone và iPad đã bày tỏ vấn đề tương tự đang gặp phải sau khi nâng cấp thiết bị lên iOS 13.2. 
+Apple chưa xác nhận, nhưng theo một số trang công nghệ, iOS 13.2 có thể phát sinh lỗi trong việc quản lý RAM và gây ra vấn đề với chế độ đa nhiệm. 
+Đây có thể coi là lỗi nghiêm trọng vì nó ảnh hưởng nhiều đến trải nghiệm và có thể gặp phải trên bất kỳ model iPhone, iPad nào, kể cả những mẫu mới và cấu hình cao như iPhone 11 Pro hay iPad Pro. 
+Từ trước đến giờ, các thiết bị di động của Apple luôn được đánh giá cao về khả năng tối ưu hóa hiệu năng, cho phép nhiều ứng dụng có thể hoạt động cùng lúc và chạy ngầm dù phần cứng RAM thấp hơn nhiều so với thiết bị Android. 
+Nhưng với iOS 13.2, trình duyệt Safari thường xuyên phải tải lại ngay cả khi chỉ mở một trang web. 
+Nếu đang xem dở một video trên YouTube hay Facebook, tạm dừng rồi chuyển sang một ứng dụng khác, khi quay lại, video đó có thể biến mất. 
+Nó cũng có thể làm cho ứng dụng Mail và Messages không hoạt động được bình thường. 
+Các tin nhắn không đến cho tới khi mở các ứng dụng. 
+iOS 13.2 là bản cập nhật thứ sáu mà Apple phát hành trong hơn một tháng, sau khi tung ra hệ điều hành iOS 13 bản chính thức. 
+Nó đem tính năng chụp ảnh mới Deep Fusion cho các mẫu iPhone 11 cũng như được giới thiệu là sẽ khắc phục nhiều lỗi. 
+Dù vậy, ngoài vấn đề liên quan đến chế độ đa nhiệm, phiên bản này còn được phản ánh về một số lỗi khác liên quan đến Face ID, Touch ID, làm thiết bị hao pin hơn trước hay gặp vấn đề trong kết nối AirPlay, Bluetooth, Wi-Fi. 

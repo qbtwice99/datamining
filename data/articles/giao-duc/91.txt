@@ -1,0 +1,5 @@
+
+Năm bài toán điền số cấp độ trung bình 
+Bạn cần vận dụng khả năng tính toán, tư duy logic để tìm ra quy luật và điền số còn thiếu vào dấu hỏi chấm trong vòng một phút.
+Câu 1: 
+Câu 2: 

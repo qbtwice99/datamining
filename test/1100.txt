@@ -1,0 +1,15 @@
+
+‘ Cha_đẻ ’ Riot_Games bị trộm danh_tính để đào tiền mã_hóa
+Thủ_phạm để lại trên tài_khoản của nạn_nhân hóa_đơn thuê dịch_vụ đám_mây Amazon_Web_Services có trị_giá 5 triệu USD.
+Marc Merril , nhà đồng sáng_lập Riot_Games , vừa trở_thành nạn_nhân của một vụ lừa_đảo liên_quan đến tiền mã_hóa .
+Theo Forbes , ông Merril đã bị một người đàn_ông Singapore đánh_cắp thông_tin trên thẻ tín_dụng American_Express để thuê dịch_vụ điện_toán đám_mây của Amazon và Google .
+Thủ_phạm tên là Matthew_Ho .
+Người này đã khai nhận sử_dụng máy_chủ Amazon đào nhiều loại tiền mã_hóa khác nhau , gồm Bitcoin và Etherium , kể từ tháng 11/20 14 .
+Tính tới tháng 1/20 18 , Ho đã trở_thành khách_hàng lớn nhất trên nền_tảng Amazon_Web_Services ( AWS ) với giá_trị giao_dịch lên tới 5 triệu USD.
+Cơ_quan điều_tra cho biết ông Merril đã thanh_toán tối_thiểu 135.000 USD cho hóa_đơn của Ho , do tài_khoản này cũng thường_xuyên được ông sử_dụng để trả phí thuê dịch_vụ đám_mây cho công_ty .
+Ngoài ông Merril , nạn_nhân của Ho còn có một doanh_nhân ở Texas ( Mỹ ) và một nhà sáng_lập công_ty công_nghệ tại Ấn_Độ .
+Để Amazon tin rằng mình là tỷ_phú của ngành công_nghiệp trò_chơi điện_tử , thủ_phạm tạo ra bằng lái_xe giả ở California mang tên Marc_Merril và đăng_ký dịch_vụ đám_mây bằng e - mail giả_mạo .
+Bằng phương_thức tương_tự , Ho đã 16 lần thuê dịch_vụ điện_toán đám_mây của Google với tổng chi_phí 240.000 USD.
+Sau đó , hắn bán toàn_bộ số tiền mã_hóa kiếm được trái_phép trên các sàn giao_dịch ngang_hàng ( P2P ) như localbitcoins.net .
+Nhờ dữ_liệu như địa_chỉ IP do Amazon , Google và Facebook cung_cấp , cảnh_sát Singapore đã có_thể xác_định Matthew_Ho là nghi phạm chính .
+Ho bị bắt_giữ vào ngày 26/9 và đang phải đối_mặt với nhiều cáo_buộc khác nhau , gồm 4 tội_danh lừa_đảo qua đường_dây hữu_tuyến , 4 tội_danh lừa_đảo qua thiết_bị truy_cập và 2 tội_danh đánh_cắp danh_tính nghiêm_trọng .

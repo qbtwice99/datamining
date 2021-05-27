@@ -1,0 +1,3 @@
+
+Robot tự xếp hình
+Các nhà_nghiên_cứu MIT giới_thiệu M - Block 2.0 , robot hình_khối hộp được mô - đun hóa , có_thể tự di_chuyển nhờ bánh đà_tích_hợp bên trong .

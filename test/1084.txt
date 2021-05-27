@@ -1,0 +1,28 @@
+
+Bốn điểm nhấn đặc_biệt chỉ có tại FPT_Techday 2019
+Một trong các điểm nhấn của ngày_hội công_nghệ là lần đầu_tiên khách_mời được di_chuyển trên chiếc xe tích_hợp công_nghệ tự_hành tiên_tiến của FPT ngay tại sự_kiện .
+Với chủ_đề " Khởi_động thông_minh " , Diễn_đàn công_nghệ_FPT ( FPT_Techday 2019 ) diễn ra ngày 21/11 sẽ xoay quanh việc tìm điểm bắt_đầu thông_minh và hiệu_quả cho doanh_nghiệp , tổ_chức để tham_gia vào cuộc chơi chuyển_đổi số_hiệu_quả .
+Tại đây , những xu_hướng công_nghệ nổi_bật , những bài_học , kinh_nghiệm bắt_đầu thực_tiễn trong quản_trị doanh_nghiệp thông_minh , ngân_hàng số ...
+sẽ được chia_sẻ bên cạnh các giải_pháp chuyển_đổi số thông_minh mang tính ứng_dụng cao .
+Với hơn 6 năm tổ_chức , sự_kiện Techday lần này được FPT nâng tầm trở_thành một Diễn_đàn công_nghệ với quy_mô tầm_cỡ , được ban tổ_chức hứa_hẹn mang đến bốn điểm nhấn đặc_biệt .
+Yếu_tố " lần đầu_tiên " xuất_hiện tại FPT_Techday 2019 là cơ_hội trải_nghiệm công_nghệ xe tự_hành do FPT tập_trung nghiên_cứu phát_triển từ năm 2016 đến nay .
+Vào cuối tháng 10/20 19 , FPT đã chính_thức thử_nghiệm thành_công xe tự_hành tại khu đô_thị Ecopark .
+Yếu_tố lần đầu_tiên xuất_hiện tại FPT_Techday 2019 là cơ_hội trải_nghiệm công_nghệ xe tự_hành do FPT tập_trung nghiên_cứu phát_triển từ năm 2016 đến nay .
+Vào cuối tháng 10/20 19 , FPT đã chính_thức thử_nghiệm thành_công xe tự_hành tại khu đô_thị Ecopark .
+Tại Diễn_đàn sắp tới , khách tham_gia sẽ có cơ_hội trải_nghiệm chiếc xe với công_nghệ tự_hành của FPT bằng cách đứng chờ và gọi xe từ một trong bốn trạm chờ thuộc khuôn_viên Trung_tâm Hội_nghị Quốc_gia , nơi diễn ra sự_kiện .
+Sau khi hành_khách đặt xe , hệ_thống tự_động sẽ tính_toán cung đường tối_ưu để điều_phối xe đón khách theo thứ_tự .
+Trong thời_gian di_chuyển , xe sẽ tự_động dừng , tránh các vật cản cố_định hoặc xuất_hiện bất_ngờ cũng như các phương_tiện khác , đồng_thời đón trả khách tại các trạm chờ cố_định với độ chính_xác 100 % .
+Người tham_gia có_thể lần đầu_tiên tận_mắt chứng_kiến và khám_phá một sản_phẩm hoàn_chỉnh được phát_triển và xây_dựng bởi bàn_tay và khối_óc Việt .
+Với trọng_tâm giúp các doanh_nghiệp khởi_động chuyển_đổi số thông_minh , Diễn_đàn quy_tụ rất nhiều những bài chia_sẻ , kinh_nghiệm thành_công thực_tiễn xung_quanh chủ_đề này .
+Đội_ngũ diễn_giả không chỉ đến từ các chuyên_gia , lãnh_đạo cấp cao của FPT mà_còn là những khách_mời cấp cao của các doanh_nghiệp , ngân_hàng đi đầu trong quá_trình chuyển_đổi số như EY , Masan , Nvidia , Sacombank , TPBank ...
+Họ sẽ là những diễn giả thuyết_phục nhất khi chia_sẻ về hành_trình chuyển_đổi của chính bản_thân doanh_nghiệp , đồng_thời đưa ra những bài_học thành_công quý_giá để chuyển_đổi số đúng_hướng và hiệu_quả , giúp quá_trình vận_hành_doanh_nghiệp tinh_gọn , bứt_phá .
+Trường_hợp điển_hình có_thể kể đến giải_pháp số hóa thông_tin khách_hàng ứng_dụng FPT. AI Vision công_nghệ nhận_dạng và trích xuất thông_tin từ hình_ảnh chứng_minh_thư , giấy_tờ tùy_thân của chủ tài_khoản với độ chính_xác tới 98 % .
+Nhờ giải_pháp này , MB_Bank có_thể xử_lý trên 5.000 yêu_cầu mỗi ngày liên_quan đến nhận_diện và phân_tích thông_tin khách_hàng từ chứng_minh_thư nhân_dân , rút ngắn thời_gian và nhân_sự so với cách làm truyền_thống .
+Là sân_chơi cho những lập_trình_viên , sinh_viên công_nghệ nhanh_nhạy nắm_bắt xu_thế , dám đương_đầu với công_nghệ mới , FPT_Techday 2019 sẽ có những cuộc thi đầy thử_thách bao_gồm Đấu_sĩ Coder , BOT đại_chiến và AI đào vàng , dựa trên các nền_tảng , sản_phẩm do FPT phát_triển .
+Với đa_dạng hình_thức từ thi cá_nhân đến thi đội , người chơi sẽ có cơ_hội thể_hiện tài_năng cũng như nhận giải_thưởng tổng trị_giá 150 triệu từ cuộc thi .
+Một khác_biệt nữa so với FPT_Techday những năm trước nằm việc khách_mời sẽ được trải_nghiệm công_nghệ hoàn_chỉnh từ khi đăng_ký đến khi tham_gia trực_tiếp tại sự_kiện .
+Dự_kiến , Diễn_đàn năm nay thu_hút trên 3.000 người tham_dự .
+Với số_lượng khách_mời khổng_lồ này , lần đầu_tiên ban tổ_chức sử_dụng trợ_lý ảo AI , phát_triển dựa trên nền_tảng trí_tuệ nhân_tạo toàn_diện FPT._AI , để thay_thế tổng_đài viên gọi điện ghi_danh và xác_nhận khách_mời .
+Theo đại_diện FPT , giải_pháp trợ_lý ảo dựa trên trí_tuệ nhân_tạo Made in Vietnam sẽ trở_thành trợ_thủ đắc_lực cho các doanh_nghiệp trong quá_trình chuyển_đổi số , đặc_biệt ở mảng chăm_sóc khách_hàng .
+Những giải_pháp thực_tiễn , những màn trình_diễn công_nghệ tiên_tiến sẽ có tại diễn_đàn công_nghệ_FPT 2019 và 21/11 tới .
+Cập_nhật thông_tin sự_kiện và đăng_ký tham_gia tại đây .

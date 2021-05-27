@@ -1,0 +1,20 @@
+
+Ứng dụng 40 triệu lượt tải trên Android chứa mã độc 
+Mã độc "ai.type" giả dạng ứng dụng bàn phím ảo để đăng ký trái phép nội dung số và theo dõi hành vi của người dùng.
+Hãng bảo mật Upstream Secure-D vừa cảnh báo về ứng dụng bàn phím ảo "ai.type", đạt 40 triệu lượt tải trên Google Play. 
+Các chuyên gia của hãng cho biết đã ngăn chặn 14 triệu giao dịch khả nghi trên 110.000 thiết bị cài đặt ứng dụng này, tổng giá trị ước tính lên tới 18 triệu USD. 
+Ngoài việc thanh toán trái phép các nội dung số, ứng dụng còn chạy quảng cáo ngầm và giả hành vi của người dùng để kiếm lời bất chính. 
+Nghiêm trọng hơn, ai.type sẽ gửi dữ liệu theo dõi người dùng theo thời gian thực tới cho các công ty quảng cáo. 
+Trong phần mô tả trên Google Play, nhà phát hành ai.type LTD (Isarel) mô tả ai.type là bàn phím ảo miễn phí, tích hợp biểu tượng cảm xúc. 
+Dù đã bị xóa khỏi cửa hàng Google Play vào tháng 6/2019, ứng dụng vẫn tồn tại trên hàng triệu thiết bị Android. 
+Đại diện Upstream Secure-D, Dimitris Maniatis nói: 
+"ai.type chứa bộ công cụ phát triển (SDK) được mã hóa dẫn tới các trang quảng cáo, rồi tự động thực hiện thao tác chạm để đăng ký trái phép dịch vụ trả phí". 
+Ông lý giải rằng toàn bộ công đoạn này được thực hiện bí mật khiến người dùng không thể nhận ra. 
+"Các SDK đó liên tục tải xuống những đoạn mã bổ sung và ẩn liên kết tải xuống để không bị phát hiện", ông Maniatis nói thêm. 
+Theo Giám đốc điều hành của Upstream Sercure-D, Guy Krief, quảng cáo lừa đảo trên thiết bị di động tạo ra nguồn thu 40 tỷ USD mỗi năm. 
+Mã độc này rất khó phát hiện vì "chúng đột lốt ứng dụng hợp pháp và phổ biến, gây tổn hại danh tiếng của toàn bộ ngành công nghiệp phần mềm", ông nói. 
+Ví dụ, ai.type đã giả dạng nhiều ứng dụng khác, bao gồm SoundCloud. 
+Hình ảnh trên cho thấy thiết bị lây nhiễm mã độc đã gửi tin nhắn SMS để xác nhận đăng ký dịch vụ mà chủ sở hữu không hề hay biết. 
+Bên cạnh đó, ai.type thường xuyên yêu cầu quyền truy cập cấp cao vào danh bạ, các tài khoản đã đăng nhập, cũng như quyền đọc và ghi đè lên bộ nhớ. 
+Đến nay, Upstream Secure-D đã ghi nhận 400.000 hoạt động bất thường mỗi ngày liên quan đến ai.type. 
+Hãng đã khuyến cáo người dùng nên kiểm tra lại tình trạng thiết bị, danh sách hóa đơn thanh toán và tần suất sử dụng dữ liệu. 

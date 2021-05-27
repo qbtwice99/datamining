@@ -1,0 +1,15 @@
+
+Hacker chiếm quyền điều_khiển một ngôi nhà thông_minh
+MỹHệ thống Google_Nest của một gia_đình bị hacker bật nhạc từ xa và chỉnh điều_hòa ở mức nhiệt tối_đa khoảng 33 độ C.
+Theo Fox6 , một cặp vợ_chồng ở Milwaukee , Wisconsin ( Mỹ ) đã rất lo_sợ khi phát_hiện hệ_thống nhà thông_minh của mình bị tin tặc xâm_nhập vào tuần trước .
+" Điều_hòa bị chỉnh lên 90 độ F ( khoảng 33 độ C ) khi chúng_tôi về nhà , trong khi loa liên_tục phát ra những bài nhạc thô_tục " , Samatha_Westmoreland nói .
+Westmoreland cùng chồng trước đó trở về nhà và phát_hiện ngôi nhà nóng_rực nhưng ban_đầu cho rằng hệ_thống có_thể đã bị trục_trặc .
+Hai người cố_gắng thiết_lập lại nhiệt_độ nhưng bộ điều_chỉnh liên_tục tự trở_về cài_đặt cao nhất ( 90 độ F ) .
+" Đến khi hacker bắt_đầu nói_chuyện với chúng_tôi qua một camera an_ninh đặt trong bếp , tôi mới nhận ra hệ_thống của mình đã bị hack " , cô nói .
+Ngay sau đó , cả hai đã rút hết phích cắm điện để đảm_bảo an_toàn .
+Hệ_thống Google_Nest với vài thiết_bị thông_minh được gia_đình Westmoreland mua với giá 700 USD.
+Cặp_đôi tin rằng ai đó đã đột_nhập vào hệ_thống nhà thông_minh của họ thông_qua kết_nối Wi - Fi .
+Ngay sau khi đổi mật_khẩu mạng , các thiết_bị đã hoạt_động trở_lại bình_thường .
+Theo Gigadgets , Google cho biết không có khả_năng ai đó có_thể xâm_nhập vào hệ_thống Nest có xác_thực hai bước .
+Trường_hợp của gia_đình Samatha_Westmoreland , kẻ_gian có_thể đã có mật_khẩu vào mạng_Wi - Fi và sử_dụng tính_năng điều_khiển qua mạng_LAN để kiểm_soát các thiết_bị trong nhà .
+Nest là một trong những hệ_sinh_thái nhà thông_minh đầu_tiên trên thế_giới nhưng vì vấn_đề bảo_mật , Google đã ngừng cung_cấp API cho các bên thứ ba từ năm nay .

@@ -1,0 +1,82 @@
+
+Có nên dạy xác_suất thống_kê cho trẻ tiểu_học ?
+Anh Lê_Hải_Nam , nghiên_cứu_sinh tại Đại_học_Dublin ( Ireland ) cho rằng việc đưa xác_suất thống_kê vào giảng_dạy sớm là " tư_duy cấp_tiến " và không hề " điên_rồ " .
+Đang làm nghiên_cứu_sinh về Khoa_học nhận_thức ( Cognitive_Science ) và Trí thông_minh nhân_tạo ( AI ) ở Đại_học Dublin , anh Lê_Hải_Nam chia_sẻ về việc dạy xác_suất thống_kê cho học_sinh tiểu_học :
+Việc đẩy_mạnh giảng_dạy và tư_duy xác_suất thống_kê tôi đã nhấn_mạnh trong nhiều năm qua mỗi khi nói về Toán_học Việt_Nam .
+Theo chương_trình giáo_dục_phổ_thông mới , xác_suất thống_kê được dạy từ lớp 2 , khiến nhiều phụ_huynh phản_ứng tiêu_cực .
+Tôi xin nêu ý_kiến về một_số câu hỏi liên_quan đến việc này .
+1 .
+Có nên dạy xác_suất thống_kê cho trẻ_em ?
+Câu_hỏi này đã và đang thịnh_hành trong nhiều nghiên_cứu giáo_dục ở trình_độ cao trên thế_giới , thậm_chí vẫn còn nóng_hổi trong một thập_niên trở_lại đây .
+Chúng_ta đều thấy việc hiểu và giáo_dục các khái_niệm xác_suất thống_kê cho trẻ là cần_thiết , nhưng phần_lớn vẫn còn tranh_cãi ở một_số vấn_đề , như :
+Nên đưa xác_suất thống_kê vào giáo_dục cho trẻ lứa tuổi nào ?
+Liệu có phải chờ khi trẻ phát_triển các kỹ_năng cần_thiết như toán đại_số , số_học , kỹ_năng sống khác rồi mới dạy xác_suất thống_kê như mô_hình truyền_thống ở nhiều quốc_gia ?
+Jerome S.
+Bruner trong cuốn The process of_Education ( xuất_bản 1960 bởi Harvard_University_Press ) viết :
+" Nếu việc hiểu các con_số , phép_đo và xác_suất là quan_trọng trong việc theo_đuổi khoa_học thì việc giảng_dạy các chủ_đề này nên bắt_đầu một_cách thực_sự học_thuật và sớm nhất có_thể , sao cho phù_hợp với quá_trình hình_thành suy_nghĩ ở trẻ " .
+Bruner tin " Nếu tôn_trọng các con đường tư_duy của đứa trẻ đang phát_triển và nếu đủ nhã_nhặn khi đưa các vật_chất vào suy_nghĩ logic của cậu bé , đồng_thời đủ thử_thách để gợi_mở cậu ấy tiến_bộ , ta có_thể giới_thiệu cho cậu bé ít tuổi các ý_tưởng và phong_cách - cái sẽ tạo nên một người có giáo_dục ở phía sau của cuộc_đời " .
+Nếu xét ở thế_kỷ 21 , ý_tưởng và phong_cách đó bao_gồm những gì ?
+Chắc_chắn không_thể không kể đến xác_suất thống_kê - một trong những trọng_tâm chính của ngành học máy và trí_tuệ nhân_tạo , cũng như các ngành nghiên_cứu xã_hội , y_học .
+Vì_vậy theo tôi , việc dạy xác_suất thống_kê cho trẻ là cần_thiết .
+2 .
+Học xác_suất thống_kê từ sớm có lợi_ích gì ?
+Cuốn Thực_trạng việc giáo_dục toán_học :
+Xây_dựng nền_tảng vững_chắc cho thế_kỷ 21 của tác_giả Riley ( xuất_bản năm 1998 ) đã chỉ ra tầm quan_trọng của xác_suất thống_kê .
+Một_số nền giáo_dục như Nhật , Đức đưa lĩnh_vực này vào dạy cho bậc tiểu_học từ những năm cuối của thế_kỷ 20 .
+Thập_niên đầu_tiên của thế_kỷ 21 tiếp_tục chứng_kiến một_số quốc_gia đưa mô_hình xác_suất thống_kê vào bậc tiểu_học , như Australia .
+Ngay cả nước Mỹ cũng đã có những bài viết nói về việc " chậm_tiến " vì chưa đưa xác_suất vào bậc tiểu_học .
+Vậy việc đưa xác_suất thống_kê vào giảng_dạy từ sớm có lợi_ích gì ?
+Trước_tiên chúng_ta cần hiểu về khái_niệm xác_suất thống_kê .
+Trên thực_tế , xác_suất ( Probability ) và thống_kê ( Statistics ) là hai ngành riêng_biệt , nhưng có liên_quan đến nhau .
+Tiếng Anh vẫn hay viết là Probability and_Statistics .
+Lý_do là xác_suất và thống_kê thường được giảng_dạy và học cùng một lúc .
+Tạm để lại vấn_đề thuật_ngữ , một_cách ngắn_gọn và dễ hiểu , xác_suất cung_cấp mô_hình toán_học để biểu_diễn các biến_cố ngẫu_nhiên , tính không chắc_chắn của các sự_kiện xảy ra trong vũ_trụ , tự_nhiên , đời_sống hàng ngày .
+Trong khi thống_kê liên_quan đến việc thu_thập , tổ_chức , và phân_tích dữ_liệu ( dữ_liệu này có_thể là những quan_sát thực_tế , hay từ các thí_nghiệm ) .
+Ví_dụ :
+" Tính trung_bình của các điểm_số thu được sau 5 lượt chơi một trò_chơi " là một phép thống_kê .
+Việc hiểu lý_thuyết xác_suất là quan_trọng để hiểu các vấn_đề như chính_trị , dự_báo thời_tiết , thể_thao , chính_sách_xã_hội .
+Xác_suất thống_kê bao_hàm cả những việc xảy ra trong đời_sống hàng ngày của con_người ở bất_cứ lứa tuổi nào .
+Vì_vậy , tôi cho rằng việc dạy xác_suất thống_kê ở bậc tiểu là sự chuẩn_bị cho trẻ cách tư_duy , cách nhìn và cách ứng_phó với thế_giới đầy biến_động trong tương_lai , đặc_biệt như thế_giới đang diễn ra , khi một chuyện hôm_nay là đúng , ngày_mai có_thể đã không còn đúng nữa .
+Mục_đích quan_trọng nhất của tư_duy xác_suất thống_kê , theo tôi là hỗ_trợ tư_duy ra quyết_định dưới điều_kiện không chắc_chắn ( decision - making under uncertainty ) , hiểu được các hành_vi ngẫu_nhiên và xem_xét các khả_năng .
+Việc hình_thành tư_duy xác_suất thống_kê từ sớm cũng sẽ hỗ_trợ tốt cho tư_duy phản_biện ( Critical_Thinking ) , giúp đặt câu hỏi về mọi vấn_đề với con mắt nhìn của xác_suất .
+Khi đó , các phương_pháp " nhồi_sọ " từ trên xuống dưới sẽ không còn chỗ_đứng .
+Trẻ sẽ có con mắt xác_suất , ngờ_vực tính khả_dĩ , thậm_chí là từ lời của bố_mẹ nếu không có logic .
+3 . Trẻ_em có_thể học được xác_suất thống_kê không ?
+Có_lẽ nên hỏi theo cách khác " Là trẻ_em thì không_thể học được xác_suất thống_kê sao ?
+Nếu học được xác_suất thống_kê thì nó là gì " ?
+Cách hỏi sẽ gợi_mở vấn_đề một_cách rộng_rãi và dễ_dàng trả_lời hơn .
+Trước_hết về mặt xác_suất , cần phân_biệt Experimental với Theoretical_Probability .
+Experimental probability là xác_suất dựa trên thí_nghiệm , thực_nghiệm .
+Ví_dụ , tung một đồng xu 10 lần , mặt chẵn xuất_hiện 4 lần và chúng_ta sẽ học được hóa_ra xác_suất thực_nghiệm của mặt chẵn xuất_hiện là 4/10 = 0,4 .
+Theoretical probability là xác_suất dựa trên các công_thức toán_học và suy_diễn .
+Ví_dụ , về mặt học_thuyết chúng_ta biết rằng mặt chẵn có khả_năng xuất_hiện với xác_suất 1/2 .
+Tại các quốc_gia đã đưa xác_suất vào bậc tiểu_học , họ sẽ giới_thiệu hay " đưa " vào não_bộ của trẻ các khái_niệm xác_suất thông_qua thí_nghiệm , ví_dụ trực_quan .
+Rõ_ràng mọi đứa trẻ đều có_thể hiểu được những khái_niệm trực_quan này và hình_thành tư_duy về likelihood - tính khả_năng của mọi sự_kiện , biến_cố trong cuộc_sống .
+Khi trẻ được học phép_chia , phân_số thì các khái_niệm xác_suất thực_nghiệm này là khả_dĩ .
+Đối_với thống_kê , có_lẽ trẻ có_thể tiếp_cận trực_diện hơn bởi thống_kê làm_việc trực_tiếp với dữ_liệu .
+Có vô_vàn cách để thu_thập_dữ_liệu liên_quan đến mọi hoạt_động và cuộc_sống của trẻ .
+Một ví_dụ sơ_đẳng như sau :
+Trẻ có_thể tập thể_thao thông_qua chơi đá bóng mỗi cuối tuần , ví_dụ đội A và B.
+Câu_hỏi thống_kê có_thể là :
+Tổng_số có bao_nhiêu bàn thắng được ghi bởi đội A ?
+Trung_bình mỗi tuần đội B ghi được bao_nhiêu bàn thắng ?
+Vậy cách thu_thập_dữ_liệu là ghi lại số bàn thắng của mỗi đội sau mỗi trận đấu hàng tuần .
+Và bằng một_số phép_toán đơn_giản , trẻ có_thể " thống_kê " lại các giá_trị liên_quan đến dữ_liệu số bàn thắng trong hoạt_động đá bóng .
+Không_những thế , thống_kê còn giúp trẻ hình_thành data visualization , minh_họa_dữ_liệu thông_qua các biểu_đồ , bảng_biểu .
+Đây là kỹ_năng rất tốt , đặc_biệt là ở lứa tuổi_trẻ đang rất nhạy_cảm với trí_tưởng_tượng liên_quan đến hình_vẽ .
+4 .
+Việc giảng_dạy xác_suất thống_kê cho bậc tiểu_học ở Việt_Nam thì sao ?
+Các chỉ_trích xoay quanh việc đưa xác_suất thống_kê vào chương_trình Toán lớp 2 ở Việt_Nam là dễ hiểu .
+Nhưng rõ_ràng đây là " tư_duy cấp_tiến " và không hề " điên_rồ " . Một_số người có xu_hướng mang mô_hình Mỹ ra làm tiêu_chuẩn .
+Tôi chắc_chắn họ chưa nhìn rộng ra các nền giáo_dục tiên_tiến khác như Nhật , Đức , Anh , bởi nghiên_cứu một_chút về giáo_dục sẽ thấy chính_Mỹ cũng đang đau_đầu về việc " đi sau " .
+Nó dẫn đến hệ_lụy là thế_hệ trẻ của Mỹ cạnh_tranh kém hơn so với các quốc_gia trong các lĩnh_vực khoa_học công_nghệ_cao ở thế_kỷ này .
+Quay lại việc chương_trình dạy xác_suất thống_kê từ lớp 2 tại Việt_Nam .
+Nếu_như Đức , Nhật , Anh , Australia đã làm được , tại_sao chúng_ta không_thể làm ?
+Nếu_như những lợi_ích của tư_duy xác_suất thống_kê mà tôi chỉ ra bên trên có tác_động không nhỏ đến hình_thành tư_duy phản_biện - điều mà học_sinh Việt_Nam đã và đang rất thiếu trong nhiều thập_niên qua , thì tại_sao lại không đưa xác_suất thống_kê vào giảng_dạy ?
+Nói_tóm_lại , tôi ủng_hộ việc đưa xác_suất thống_kê vào chương_trình giáo_dục tiểu_học , nhưng quan_trọng là dạy như thế_nào để đảm_bảo đúng tính đẹp_đẽ của xác_suất thống_kê và hình_thành tư_duy này cho trẻ ?
+Đây lại là vấn_đề cần bàn thảo kỹ hơn .
+Tôi chỉ có một_số lời khuyên một_cách chung_chung .
+Thứ nhất , ở lứa tuổi nhỏ , chúng_ta cần tránh dạy theo lối cũ , tức_là đừng xuất_phát từ các khái_niệm , công_thức trừu_tượng mà hãy bắt_đầu với Experimental_Probability , đưa các ví_dụ trực_quan về cuộc_sống hàng ngày của trẻ có liên_quan đến likelihood ( khả_năng ) , uncertainty ( tính không chắc_chắn ) để từ đó trẻ có_thể hình_thành dần tư_duy về các khả_năng của biến_cố .
+Thứ hai là bỏ ngay thói_quen dạy kiểu bài để đi thi .
+Làm được như vậy thì việc đưa xác_suất thống_kê vào chương_trình tiểu_học may ra mới có ý_nghĩa với thế_hệ Việt_Nam trong tương_lai .
+Nếu không , quá_trình " nhồi_nhét " những thứ vô_bổ lại tiếp_tục .

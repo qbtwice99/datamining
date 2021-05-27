@@ -1,0 +1,10 @@
+
+Ứng_dụng Facebook_tự mở camera của người dùng iPhone
+Camera iPhone hoạt_động ở chế_độ nền khi người dùng lướt tin trên New_Feeds .
+Facebook được cho là đang bí_mật sử_dụng camera trên iPhone để theo_dõi người dùng .
+Tài_khoản Joshua_Maddux của Twitter đã ghi lại màn_hình iPhone khi phát_hiện hiện_tượng bất_thường của ứng_dụng Facebook trên hệ điều_hành iOS .
+Đoạn video đăng trên Twitter cho thấy camera của iPhone vẫn hoạt_động khi người dùng lướt tin trên News_Feed .
+Maddux cũng cho biết , tình_trạng này xuất_hiện trên 5 chiếc iPhone khác nhau cùng chạy hệ điều_hành iOS 13.2.2 .
+TNW xác_nhận tình_trạng này chỉ xảy ra ở phiên_bản iOS mới nhất , chứ không xuất_hiện trên iOS 13.1.3 và các thiết_bị Android .
+Đáng chú_ý , iPhone không cấp quyền truy_cập camera cho ứng_dụng Facebook sẽ không gặp phải sự_cố tương_tự .
+Sau bê_bối Cambridge_Analytica , Facebook làm rò_rỉ thông_tin cá_nhân của hơn 400 triệu người dùng vào năm 2017 , chuyên_gia_bảo_mật Felix_Krause khuyến_cáo cách tốt nhất để hạn_chế rủi_ro là chặn quyền truy_cập camera của Facebook , dù trải_nghiệm ứng_dụng mạng xã_hội có_thể không hoàn_hảo .

@@ -1,0 +1,20 @@
+
+Những lưu_ý cần biết khi cứu dữ_liệu
+Người dùng không đủ trình_độ chuyên_môn tự_ý can_thiệp sẽ khiến việc cứu dữ_liệu trở_nên khó_khăn .
+Dữ_liệu là tài_nguyên quan_trọng đối_với các doanh_nghiệp .
+Những can_thiệp nhằm cứu dữ_liệu một_cách hiệu_quả sẽ phụ_thuộc vào việc người dùng xử_lý ngay khi xảy ra sự_cố .
+Các chuyên_gia khuyến_cáo , nếu không am_hiểu về kỹ_thuật , người dùng nên hạn_chế can_thiệp để cứu dữ_liệu .
+Nếu không rành về kỹ_thuật , những can_thiệp vô_tình có_thể khiến xác_suất cứu dữ_liệu bị giảm xuống , hoặc xấu nhất là không_thể cứu được , ông Võ_Ngọt , Giám_đốc công_ty khôi_phục dữ_liệu Võ_Nguyễn_nói .
+Đối_với hư_hại về mặt vật_lý , người dùng mở ổ cứng trong môi_trường bụi bẩn sẽ làm ảnh_hưởng tới bộ_phận đầu và đĩa_cứng .
+Trong khi tại các trung_tâm , công_đoạn này được thực_hiện trong phòng sạch , tiêu_chuẩn cao .
+Đối_với các lỗi về logical , sau khi thử những cách thông_thường nhưng không thành_công , người dùng nên lưu lại những thông_tin chi_tiết về lỗi để các chuyên_gia nắm_bắt được tình_trạng lỗi .
+Từ đó , việc cứu dữ_liệu sẽ dễ_dàng và lượng dữ_liệu được cứu sẽ nhiều hơn .
+Tại các doanh_nghiệp chuyên cứu và phục_hồi dữ_liệu máy_chủ , người dùng có_thể trực_tiếp theo_dõi tiến_trình .
+Doanh_nghiệp sử_dụng các thiết_bị hiện_đại như PC - 3000 của Acelab hay MRT_Ultra của MRT_Lab từ chuẩn SCSI , SATA , SAS để cứu dữ_liệu , ông Võ nói .
+Đội_ngũ kỹ_sư trình_độ cao của chúng_tôi được đào_tạo tại Nga , Trung_Quốc từng xử_lý thành_công nhiều trường_hợp khó .
+Các trường_hợp ổ cứng trong máy_chủ , NAS / SAN còn nhận_dạng nhưng mất cấu_hình Raid , xóa , mất tập tin , bad sector , bị virus phá_hoại , thời_gian xử_lý mất khoảng 2 giờ .
+Ngoài_ra , người dùng cần mang thiết_bị đến để các kỹ_sư kiểm_tra và tính_toán mức_độ thiệt_hại cũng như tỷ_lệ thành_công và thời_gian hoàn_thành .
+Điện_thoại :
+0888711775 - 0974756775 .
+Các khách_hàng lớn của doanh_nghiệp :
+VTC , đại_học Mở_TPHCM , Big C Việt_Nam , Vinamilk ...

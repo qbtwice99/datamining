@@ -1,0 +1,21 @@
+
+Người dùng máy Mac có_thể bị đọc trộm e - mail
+Lỗ_hổng nằm trong phân_vùng hệ_thống macOS , vốn có mục_đích hỗ_trợ Siri , nhưng vô_tình để lộ dữ_liệu riêng_tư của người dùng .
+Bob_Gendler , chuyên_gia tại Viện nghiên_cứu quốc_gia về Công_nghệ và Tiêu_chuẩn ( Mỹ ) , phát_hiện lỗ_hổng bảo_mật trong tính_năng gợi_ý tìm_kiếm của Siri , cho_phép bên thứ ba đọc " một phần nội_dung e - mail " của người dùng .
+Cụ_thể , thư_mục " Gợi_ý " trên phân_vùng hệ_thống của hệ điều_hành macOS , gồm thư_mục " snippets.db " chứa thông_tin cá_nhân từ Apple_Mail để cải_thiện hiệu_năng của Siri , giúp trợ_lý ảo đưa ra kết_quả tìm_kiếm mà người dùng quan_tâm .
+Tuy_nhiên , dữ_liệu trích xuất từ ứng_dụng lại được giải_mã dưới định_dạng văn_bản và có_thể đọc được .
+" Kể_cả khi vô_hiệu_hóa_Siri trên máy Mac , hệ_thống vẫn lưu_trữ những văn_bản không mã_hóa trong cơ_sở dữ_liệu này " , Gendler cho biết .
+Ông đã cảnh_báo Apple về lỗ_hổng có trên phiên_bản macOS 10.12.6 , macOS 10.13.6 , macOS 10.14 và macOS 10.15 beta từ hồi tháng 7 .
+Bộ_phận bảo_mật của Apple cho biết sẽ tiến_hành điều_tra .
+Đến tháng 9 , ông tiếp_tục báo cho Apple rằng sự_cố trên vẫn tồn_tại trên phiên_bản thử_nghiệm macOS Catalina beta .
+Đến 9/10 , Gendler liên_hệ trực_tiếp với bộ_phận bảo_mật để xác_nhận lỗi chưa được giải_quyết trên bản cập_nhật chính_thức cuối_cùng của macOS Catalina và các bản vá bổ_sung của macOS Mojave .
+Sau hơn 100 ngày lỗ_hổng được phát_hiện , đến 5/11 , Apple gửi email trả_lời Gendler rằng sẽ sớm cung_cấp tùy chọn vô_hiệu_hóa quá_trình tự học qua Apple_Mail của Siri .
+Phản_hồi về sự_cố , phát_ngôn_viên của Apple nói họ " nhận_thức được vấn_đề và sẽ giải_quyết ở bản cập_nhật phần_mềm trong tương_lai " .
+Để hệ điều_hành macOS ngừng thu_thập_dữ_liệu cá_nhân từ Apple_Mail , Apple khuyến_cáo người dùng nên vô_hiệu_hóa tính_năng " Learn from this App " của Siri bằng cách truy_cập theo đường_dẫn :
+Preferences > Siri > Siri Suggestions & Privacy > Mail .
+Bên_cạnh đó , người dùng có_thể giảm nguy_cơ bị đọc trộm nội_dung các đoạn e - mail đã giải_mã bằng cách không cấp quyền " truy_cập cập toàn_bộ ổ_đĩa " ( full disk access ) cho ứng_dụng bên thứ ba .
+" Đây là một vấn_đề lớn đối_với chính_phủ , tập_đoàn và những người thường_xuyên trao_đổi thông_tin bằng e - mail mã_hóa bởi họ hy_vọng nội_dung e - mail sẽ được bảo_mật tuyệt_đối " , Genders nhận_xét .
+" Đối_với một công_ty vốn tự_hào về bảo_mật và quyền riêng_tư , việc thiếu cảnh_giác đến lỗ_hổng như vậy thực_sự làm tôi ngạc_nhiên " .
+Dù không ảnh_hưởng tới đa_số người dùng , lỗ_hổng tiềm_ẩn rủi_ro với các tổ_chức , doanh_nghiệp thường_xuyên gửi và nhận e - mail mã_hóa qua ứng_dụng Apple_Mail trên hệ điều_hành macOS .
+Tuy_nhiên , nếu phần_mềm mã_hóa File Vault được kích_hoạt , hệ_thống sẽ không hiển_thị sẵn e - mail ở định_dạng văn_bản gốc .
+Hơn_nữa , ngoài vị_trí của các tệp tin này , kẻ tấn_công tiềm_năng vẫn cần_quyền truy_cập vào phân_vùng hệ_thống máy_tính Mac .

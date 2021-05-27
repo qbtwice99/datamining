@@ -1,0 +1,19 @@
+
+Thử máu phát_hiện ung_thư vú sớm 5 năm
+AnhPhương_pháp này dựa trên phản_ứng miễn_dịch của cơ_thể với các chất được tiết ra bởi tế_bào ung_thư .
+Tế_bào ung_thư_sinh ra các protein gọi là kháng_nguyên .
+Các protein kháng_nguyên này thúc_đẩy quá_trình tạo ra các kháng_thể kháng với chính protein , gọi_là quá_trình_tự kháng_thể .
+Các nhà_nghiên_cứu tại Đại_học Nottingham dựa vào các kháng_nguyên liên_quan đến khối_u ( gọi tắt là TAA ) để xác_định những dấu_hiệu sớm ung_thư .
+Họ phát_triển các bảng chứa kháng_nguyên TAA để tìm_hiểu xem có tự kháng_thể chống lại chúng trong những mẫu máu bệnh_nhân hay không .
+Trong một thí_nghiệm , các nhà_khoa_học lấy mẫu máu của 90 bệnh_nhân ung_thư vú tại thời_điểm được chẩn_đoán mắc bệnh .
+Sau đó các mẫu máu được đối_chứng với mẫu máu lấy từ 90 bệnh_nhân không bị ung_thư vú .
+Kết_quả công_bố hôm 3/11 cho thấy quá_trình_tự kháng_thể kháng lại một_số kháng_nguyên TAA có_thể phát_hiện sớm 5 năm trước khi ung_thư có dấu_hiệu lâm_sàng .
+Nghiên_cứu_sinh Daniyah_Alfattani , một thành_viên của nhóm , cho biết :
+" Từ kết_quả nghiên_cứu , chúng_tôi nhận thấy rằng ung_thư vú tạo ra tự kháng_thể chống lại các nhóm kháng_nguyên liên_quan đến khối_u " .
+Các nhà_nghiên_cứu sử_dụng ba bảng với số_lượng kháng_nguyên TAA khác nhau để kiểm_tra tự kháng_thể .
+Cụ_thể , bảng có 5 kháng_nguyên TAA phát_hiện chính_xác tế_bào ung_thư ở 29 % mẫu máu bệnh_nhân ung_thư vú và xác_định chính_xác 84 % ở các mẫu đối_chứng không có ung_thư .
+Bảng có 7 kháng_nguyên TAA xác_định chính_xác tế_bào ung_thư trong 35 % mẫu ung_thư và không có ung_thư trong 79 % mẫu đối_chứng .
+Con_số ở bảng có 9 kháng_nguyên TAA lần_lượt là 37 % và 79 % .
+Alfattani chia_sẻ , nhóm nghiên_cứu cần thêm thời_gian để phát_triển và kiểm_chứng thêm về phương_pháp này .
+" Tuy_nhiên , những kết_quả trên rất đáng khích_lệ .
+Nó mở ra hy_vọng về khả_năng sớm phát_hiện ra những dấu_hiệu của bệnh ung_thư vú " , Daniyah_Alfattani nói .

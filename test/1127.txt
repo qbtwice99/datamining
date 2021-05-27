@@ -1,0 +1,20 @@
+
+Facebook ' chơi xấu ' YouTube , Twitter
+Loạt email bị rò_rỉ cho thấy Facebook đã kiểm_soát dữ_liệu người dùng như thế_nào để ngăn_cản đối_thủ lớn như YouTube , Twitter , Amazon .
+Ngày 5/11 , hơn 4.000 trang tài_liệu mật , nằm trong vụ kiện giữa Facebook và nhà phát_triển Six4Three , được nhà_báo điều_tra Duncan_Campbell tung lên mạng , cho thấy nhiều góc khuất của mạng xã_hội lớn nhất thế_giới .
+Trước đó , từ 2018 , một phần tài_liệu cũng đã bị phát_tán và Facebook đã tìm nhiều cách để ngăn_chặn , cho rằng những thông_tin đó , được thu_thập từ 2012 đến 2015 , khiến hình_ảnh về công_ty bị sai_lệch và không toàn_diện .
+Trang Business_Insider cho biết , dữ_liệu người dùng là " đồng_tiền " có giá_trị với các công_ty công_nghệ và là trung_tâm trong mô_hình kinh_doanh của Facebook .
+Dù không bán thông_tin người dùng , Facebook chia_sẻ dữ_liệu này với các ứng_dụng khác mỗi khi người dùng kết_nối tài_khoản Facebook với các ứng_dụng đó .
+Ví_dụ , các ứng_dụng cho_phép người dùng đăng nhập bằng tài_khoản Facebook sẽ " nhìn thấy " địa_chỉ email và danh_sách bạn_bè của họ , nhờ đó người dùng vẫn có_thể kết_nối với bạn_bè Facebook ngay trên ứng_dụng bên thứ ba .
+Tuy_nhiên , đầu những năm 2010 , các nhân_viên Facebook đã thảo_luận về việc hạn_chế quyền tiếp_cận dữ_liệu có giá_trị với những ứng_dụng đối_thủ , trong đó có Twitter , Amazon , Pinterest , và YouTube_dù bề_ngoài , các ứng_dụng đó đã được Facebook chấp_thuận cho tiếp_cận thông_tin người dùng .
+Các email từ năm 2012 đến 2014 cũng cho thấy Facebook dự_tính ép các công_ty , trong đó có các nhà quảng_cáo phải trả tiền để có_thể tiếp_cận dữ_liệu người dùng .
+Tuy_nhiên , sau đó Facebook không theo_đuổi kế_hoạch này và đại_diện mạng xã_hội khẳng_định " không bao_giờ bán thông_tin người dùng " .
+Trong khi đó , khi tìm_hiểu các trang tài_liệu rò_rỉ , trang Computer_Weekly cũng phát_hiện Facebook lên kế_hoạch dùng ứng_dụng Android của mình để theo_dõi vị_trí của người dùng , từ đó , cho phép nhà quảng_cáo hiển_thị quảng_cáo chính_trị , hay mời_chào các trang hẹn_hò tới những người dùng smartphone Android còn độc_thân .
+Facebook từng nhiều lần khẳng_định họ chưa bao_giờ bán dữ_liệu người dùng .
+Nhưng trong một email gửi tháng 10/20 12 , Mark_Zuckerberg , CEO_Facebook , đã thảo_luận về mô_hình kiếm tiền , cho phép nhà phát_triển sử_dụng công_cụ đăng nhập của Facebook hoặc xuất_bản nội_dung lên Facebook miễn_phí , nhưng sẽ tính phí cho việc " đọc " dữ_liệu .
+" Một mô_hình cơ_bản có_thể là :
+Đăng nhập bằng Facebook luôn miễn_phí .
+Đưa nội_dung lên Facebook cũng luôn miễn_phí .
+Đọc bất_cứ điều gì , kể_cả từ bạn_bè , sẽ tốn tiền .
+Có_thể đề_xuất mức 0,1 USD trên một người dùng mỗi năm " , CEO_Facebook gợi_ý .
+Phát_ngôn_viên của Facebook nói với Business_Insider rằng những tài_liệu trên đã cũ , bị trích_dẫn không đúng bối_cảnh và bị cố_tình phát_tán nhằm chống lại Facebook và vi_phạm luật_pháp Mỹ .

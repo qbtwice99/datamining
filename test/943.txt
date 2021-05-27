@@ -1,0 +1,18 @@
+
+Có nên ghi giá giao_dịch thấp trong hợp_đồng mua_bán nhà ?
+Tôi có hai hợp_đồng mua_bán nhà ghi số tiền rất chênh_lệch và đều khác_xa thực_tế . ( Độc_giả Quốc_Hoàng ) .
+Căn nhà này tôi mới mua được nửa năm , theo nguyện_vọng của chủ cũ , tôi chỉ ghi trong hợp_đồng giá_trị mua_bán là 100 triệu đồng .
+Tôi sau đó không làm thủ_tục sang tên sổ_đỏ .
+Nay tôi bán , người mua nhờ ghi đúng giá giao_dịch là 1,3 tỷ đồng . Xin hỏi theo quy_định hiện_hành , tôi phải đóng thuế thu_nhập cá_nhân là 2 % trên giá_trị hợp_đồng mua_bán công_chứng hay_là 25 % giá_trị chênh_lệch giữa hợp_đồng mua và bán .
+Theo điều 124 Bộ_luật_Dân_sự 2015 về Giao_dịch dân_sự vô_hiệu do giả_tạo : Khi các bên xác_lập giao_dịch dân_sự một_cách giả_tạo nhằm che_giấu một giao_dịch dân_sự khác thì giao_dịch dân_sự giả_tạo vô_hiệu ;
+còn giao_dịch dân_sự bị che_giấu vẫn có hiệu_lực , trừ trường_hợp giao_dịch đó cũng vô_hiệu theo quy_định của Bộ_luật này hoặc luật khác có liên_quan .
+Nếu trên thực_tế giá_trị căn nhà của bạn không phải là 1,3 tỷ đồng nhưng người mua nhờ bạn ghi vào hợp_đồng mua_bán công_chứng với giá_trị 1,3 tỷ đồng thì hợp_đồng này vô_hiệu do giả_tạo .
+Hợp_đồng này nhằm che_giấu hợp_đồng mua_bán với giá_trị thực của ngôi nhà .
+Bên_cạnh đó tại khoản 2 điều 4 Luật_Thuế thu_nhập cá_nhân 2007 quy_định về thu_nhập được miễn_thuế như sau : Thu_nhập từ chuyển_nhượng nhà_ở , quyền sử_dụng đất ở và tài_sản gắn liền với đất ở của cá_nhân trong trường_hợp cá_nhân chỉ có một nhà_ở , đất ở duy_nhất .
+Nếu bạn chỉ có một nhà ở duy_nhất này , việc bạn chuyển_nhượng sẽ được miễn_thuế .
+Trong trường_hợp bạn không được miễn_thuế thu_nhập cá_nhân , theo khoản 11 , khoản 12 điều 2 tại Nghị_định số 12/20 15 ngày 12/2/2015 quy_định chi_tiết thi_hành luật sửa_đổi , bổ_sung một_số điều của các Luật về thuế và sửa_đổi bổ_sung một_số điều của các Nghị_định về thuế , khoản thuế thu_nhập cá_nhân bạn phải nộp được tính theo phương_thức sau :
+- Thu_nhập tính thuế được xác_định là giá chuyển_nhượng từng lần .
+- Giá chuyển_nhượng bất_động_sản là giá ghi trên hợp_đồng chuyển_nhượng tại thời_điểm chuyển_nhượng ...
+- Thuế_suất đối_với thu_nhập từ chuyển_nhượng bất_động_sản là 2 % trên giá chuyển_nhượng .
+Như_vậy nếu bạn không thuộc trường_hợp được miễn_thuế thì thuế thu_nhập cá_nhân bạn phải đóng là 2 % trên giá_trị chuyển_nhượng ghi trên hợp_đồng mua_bán nhà ở .
+Luật_sư , Thạc_sĩ Phạm_Thanh_BìnhCông_ty Luật_Bảo_Ngọc , Hà_Nội .

@@ -1,0 +1,13 @@
+
+Apple xóa ứng dụng 'rình mò' Instagram 
+Ứng dụng Like Patrol thông báo cho người sử dụng mỗi khi tài khoản Instagram mà họ muốn theo dõi có tương tác mới, như bấm Like hay bình luận ảnh.
+Tuần trước, Instagram đã gửi cảnh báo tới nhà phát triển Sergio Luis Quintero với lý do Like Patrol vi phạm điều khoản dịch vụ của mạng xã hội. 
+Tuần này, đến lượt Apple quyết định xóa ứng dụng khỏi App Store do liên quan tới việc thu thập dữ liệu và xâm phạm quyền riêng tư. 
+Like Patrol bị các chuyên gia bảo mật chỉ trích vì nó được lập trình để theo dõi hoạt động của những tài khoản Instagram nhất định, chẳng hạn khi vợ muốn biết chồng mình đã dùng Instagram để "thích" ảnh của những ai, comment những gì... 
+Tuy nhiên, Quintero cho rằng họ không vi phạm chính sách của Apple. 
+Thực tế, Instagram vốn tích hợp thẻ "Following" để người dùng biết được các hoạt động của những tài khoản mà họ muốn theo dõi. 
+Đến tháng 10/2019, Instagram loại bỏ thẻ này. 
+Quintero đã viết thuật toán riêng để tiếp tục lấy được thông tin từ các tài khoản Instagram và cung cấp cho người dùng nếu họ trả phí 2,99 USD/tuần hay 80 USD/năm. 
+Ứng dụng này thậm chí còn phân tích số liệu theo giới tính và chỉ ra ai là người mà tài khoản Instagram đó tương tác nhiều nhất. 
+Dù đã bị gỡ bỏ, Like Patrol vẫn tồn tại trên trên những thiết bị đã tải và cài đặt ứng dụng từ trước đó. 
+Hiện chưa rõ người dùng có thể tiếp tục sử dụng dịch vụ này hay không. 

@@ -1,0 +1,5 @@
+
+Thanh cuộn thay_đổi thế_nào sau 38 năm
+Thanh cuộn ( Scrollbar ) xuất_hiện lần đầu_tiên trên nền_tảng Xerox_Star vào năm 1981 và hoàn_thiện dần theo thời_gian .
+Trong quá_trình hình_thành và phát_triển của Giao_diện người dùng ( User_Interface - UI ) , thanh cuộn là một thành_phần cốt_yếu , không_thể thiếu khi trải_nghiệm trên hầu_hết ứng_dụng của mọi hệ điều_hành .
+Mới_đây , nhà_nghiên_cứu Sébastien_Matos đã xây_dựng lại quá_trình hình_thành của nó một_cách sinh_động .

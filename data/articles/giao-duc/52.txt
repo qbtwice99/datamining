@@ -1,0 +1,82 @@
+
+Có nên dạy xác suất thống kê cho trẻ tiểu học? 
+Anh Lê Hải Nam, nghiên cứu sinh tại Đại học Dublin (Ireland) cho rằng việc đưa xác suất thống kê vào giảng dạy sớm là "tư duy cấp tiến" và không hề "điên rồ".
+Đang làm nghiên cứu sinh về Khoa học nhận thức (Cognitive Science) và Trí thông minh nhân tạo (AI) ở Đại học Dublin, anh Lê Hải Nam chia sẻ về việc dạy xác suất thống kê cho học sinh tiểu học: 
+Việc đẩy mạnh giảng dạy và tư duy xác suất thống kê tôi đã nhấn mạnh trong nhiều năm qua mỗi khi nói về Toán học Việt Nam. 
+Theo chương trình giáo dục phổ thông mới, xác suất thống kê được dạy từ lớp 2, khiến nhiều phụ huynh phản ứng tiêu cực. 
+Tôi xin nêu ý kiến về một số câu hỏi liên quan đến việc này. 
+1. 
+Có nên dạy xác suất thống kê cho trẻ em? 
+Câu hỏi này đã và đang thịnh hành trong nhiều nghiên cứu giáo dục ở trình độ cao trên thế giới, thậm chí vẫn còn nóng hổi trong một thập niên trở lại đây. 
+Chúng ta đều thấy việc hiểu và giáo dục các khái niệm xác suất thống kê cho trẻ là cần thiết, nhưng phần lớn vẫn còn tranh cãi ở một số vấn đề, như: 
+Nên đưa xác suất thống kê vào giáo dục cho trẻ lứa tuổi nào? 
+Liệu có phải chờ khi trẻ phát triển các kỹ năng cần thiết như toán đại số, số học, kỹ năng sống khác rồi mới dạy xác suất thống kê như mô hình truyền thống ở nhiều quốc gia? 
+Jerome S. 
+Bruner trong cuốn The process of Education (xuất bản 1960 bởi Harvard University Press) viết: 
+"Nếu việc hiểu các con số, phép đo và xác suất là quan trọng trong việc theo đuổi khoa học thì việc giảng dạy các chủ đề này nên bắt đầu một cách thực sự học thuật và sớm nhất có thể, sao cho phù hợp với quá trình hình thành suy nghĩ ở trẻ". 
+Bruner tin "Nếu tôn trọng các con đường tư duy của đứa trẻ đang phát triển và nếu đủ nhã nhặn khi đưa các vật chất vào suy nghĩ logic của cậu bé, đồng thời đủ thử thách để gợi mở cậu ấy tiến bộ, ta có thể giới thiệu cho cậu bé ít tuổi các ý tưởng và phong cách - cái sẽ tạo nên một người có giáo dục ở phía sau của cuộc đời". 
+Nếu xét ở thế kỷ 21, ý tưởng và phong cách đó bao gồm những gì? 
+Chắc chắn không thể không kể đến xác suất thống kê - một trong những trọng tâm chính của ngành học máy và trí tuệ nhân tạo, cũng như các ngành nghiên cứu xã hội, y học. 
+Vì vậy theo tôi, việc dạy xác suất thống kê cho trẻ là cần thiết. 
+2. 
+Học xác suất thống kê từ sớm có lợi ích gì? 
+Cuốn Thực trạng việc giáo dục toán học: 
+Xây dựng nền tảng vững chắc cho thế kỷ 21 của tác giả Riley (xuất bản năm 1998) đã chỉ ra tầm quan trọng của xác suất thống kê. 
+Một số nền giáo dục như Nhật, Đức đưa lĩnh vực này vào dạy cho bậc tiểu học từ những năm cuối của thế kỷ 20. 
+Thập niên đầu tiên của thế kỷ 21 tiếp tục chứng kiến một số quốc gia đưa mô hình xác suất thống kê vào bậc tiểu học, như Australia. 
+Ngay cả nước Mỹ cũng đã có những bài viết nói về việc "chậm tiến" vì chưa đưa xác suất vào bậc tiểu học. 
+Vậy việc đưa xác suất thống kê vào giảng dạy từ sớm có lợi ích gì? 
+Trước tiên chúng ta cần hiểu về khái niệm xác suất thống kê. 
+Trên thực tế, xác suất (Probability) và thống kê (Statistics) là hai ngành riêng biệt, nhưng có liên quan đến nhau. 
+Tiếng Anh vẫn hay viết là Probability and Statistics. 
+Lý do là xác suất và thống kê thường được giảng dạy và học cùng một lúc. 
+Tạm để lại vấn đề thuật ngữ, một cách ngắn gọn và dễ hiểu, xác suất cung cấp mô hình toán học để biểu diễn các biến cố ngẫu nhiên, tính không chắc chắn của các sự kiện xảy ra trong vũ trụ, tự nhiên, đời sống hàng ngày. 
+Trong khi thống kê liên quan đến việc thu thập, tổ chức, và phân tích dữ liệu (dữ liệu này có thể là những quan sát thực tế, hay từ các thí nghiệm). 
+Ví dụ: 
+"Tính trung bình của các điểm số thu được sau 5 lượt chơi một trò chơi" là một phép thống kê. 
+Việc hiểu lý thuyết xác suất là quan trọng để hiểu các vấn đề như chính trị, dự báo thời tiết, thể thao, chính sách xã hội. 
+Xác suất thống kê bao hàm cả những việc xảy ra trong đời sống hàng ngày của con người ở bất cứ lứa tuổi nào. 
+Vì vậy, tôi cho rằng việc dạy xác suất thống kê ở bậc tiểu là sự chuẩn bị cho trẻ cách tư duy, cách nhìn và cách ứng phó với thế giới đầy biến động trong tương lai, đặc biệt như thế giới đang diễn ra, khi một chuyện hôm nay là đúng, ngày mai có thể đã không còn đúng nữa. 
+Mục đích quan trọng nhất của tư duy xác suất thống kê, theo tôi là hỗ trợ tư duy ra quyết định dưới điều kiện không chắc chắn (decision-making under uncertainty), hiểu được các hành vi ngẫu nhiên và xem xét các khả năng. 
+Việc hình thành tư duy xác suất thống kê từ sớm cũng sẽ hỗ trợ tốt cho tư duy phản biện (Critical Thinking), giúp đặt câu hỏi về mọi vấn đề với con mắt nhìn của xác suất. 
+Khi đó, các phương pháp "nhồi sọ" từ trên xuống dưới sẽ không còn chỗ đứng. 
+Trẻ sẽ có con mắt xác suất, ngờ vực tính khả dĩ, thậm chí là từ lời của bố mẹ nếu không có logic. 
+3. Trẻ em có thể học được xác suất thống kê không? 
+Có lẽ nên hỏi theo cách khác "Là trẻ em thì không thể học được xác suất thống kê sao? 
+Nếu học được xác suất thống kê thì nó là gì"? 
+Cách hỏi sẽ gợi mở vấn đề một cách rộng rãi và dễ dàng trả lời hơn. 
+Trước hết về mặt xác suất, cần phân biệt Experimental với Theoretical Probability. 
+Experimental probability là xác suất dựa trên thí nghiệm, thực nghiệm. 
+Ví dụ, tung một đồng xu 10 lần, mặt chẵn xuất hiện 4 lần và chúng ta sẽ học được hóa ra xác suất thực nghiệm của mặt chẵn xuất hiện là 4/10 = 0,4. 
+Theoretical probability là xác suất dựa trên các công thức toán học và suy diễn. 
+Ví dụ, về mặt học thuyết chúng ta biết rằng mặt chẵn có khả năng xuất hiện với xác suất 1/2. 
+Tại các quốc gia đã đưa xác suất vào bậc tiểu học, họ sẽ giới thiệu hay "đưa" vào não bộ của trẻ các khái niệm xác suất thông qua thí nghiệm, ví dụ trực quan. 
+Rõ ràng mọi đứa trẻ đều có thể hiểu được những khái niệm trực quan này và hình thành tư duy về likelihood - tính khả năng của mọi sự kiện, biến cố trong cuộc sống. 
+Khi trẻ được học phép chia, phân số thì các khái niệm xác suất thực nghiệm này là khả dĩ. 
+Đối với thống kê, có lẽ trẻ có thể tiếp cận trực diện hơn bởi thống kê làm việc trực tiếp với dữ liệu. 
+Có vô vàn cách để thu thập dữ liệu liên quan đến mọi hoạt động và cuộc sống của trẻ. 
+Một ví dụ sơ đẳng như sau: 
+Trẻ có thể tập thể thao thông qua chơi đá bóng mỗi cuối tuần, ví dụ đội A và B. 
+Câu hỏi thống kê có thể là: 
+Tổng số có bao nhiêu bàn thắng được ghi bởi đội A? 
+Trung bình mỗi tuần đội B ghi được bao nhiêu bàn thắng? 
+Vậy cách thu thập dữ liệu là ghi lại số bàn thắng của mỗi đội sau mỗi trận đấu hàng tuần. 
+Và bằng một số phép toán đơn giản, trẻ có thể "thống kê" lại các giá trị liên quan đến dữ liệu số bàn thắng trong hoạt động đá bóng. 
+Không những thế, thống kê còn giúp trẻ hình thành data visualization, minh họa dữ liệu thông qua các biểu đồ, bảng biểu. 
+Đây là kỹ năng rất tốt, đặc biệt là ở lứa tuổi trẻ đang rất nhạy cảm với trí tưởng tượng liên quan đến hình vẽ. 
+4. 
+Việc giảng dạy xác suất thống kê cho bậc tiểu học ở Việt Nam thì sao? 
+Các chỉ trích xoay quanh việc đưa xác suất thống kê vào chương trình Toán lớp 2 ở Việt Nam là dễ hiểu. 
+Nhưng rõ ràng đây là "tư duy cấp tiến" và không hề "điên rồ". Một số người có xu hướng mang mô hình Mỹ ra làm tiêu chuẩn. 
+Tôi chắc chắn họ chưa nhìn rộng ra các nền giáo dục tiên tiến khác như Nhật, Đức, Anh, bởi nghiên cứu một chút về giáo dục sẽ thấy chính Mỹ cũng đang đau đầu về việc "đi sau". 
+Nó dẫn đến hệ lụy là thế hệ trẻ của Mỹ cạnh tranh kém hơn so với các quốc gia trong các lĩnh vực khoa học công nghệ cao ở thế kỷ này. 
+Quay lại việc chương trình dạy xác suất thống kê từ lớp 2 tại Việt Nam. 
+Nếu như Đức, Nhật, Anh, Australia đã làm được, tại sao chúng ta không thể làm? 
+Nếu như những lợi ích của tư duy xác suất thống kê mà tôi chỉ ra bên trên có tác động không nhỏ đến hình thành tư duy phản biện - điều mà học sinh Việt Nam đã và đang rất thiếu trong nhiều thập niên qua, thì tại sao lại không đưa xác suất thống kê vào giảng dạy? 
+Nói tóm lại, tôi ủng hộ việc đưa xác suất thống kê vào chương trình giáo dục tiểu học, nhưng quan trọng là dạy như thế nào để đảm bảo đúng tính đẹp đẽ của xác suất thống kê và hình thành tư duy này cho trẻ? 
+Đây lại là vấn đề cần bàn thảo kỹ hơn. 
+Tôi chỉ có một số lời khuyên một cách chung chung. 
+Thứ nhất, ở lứa tuổi nhỏ, chúng ta cần tránh dạy theo lối cũ, tức là đừng xuất phát từ các khái niệm, công thức trừu tượng mà hãy bắt đầu với Experimental Probability, đưa các ví dụ trực quan về cuộc sống hàng ngày của trẻ có liên quan đến likelihood (khả năng), uncertainty (tính không chắc chắn) để từ đó trẻ có thể hình thành dần tư duy về các khả năng của biến cố. 
+Thứ hai là bỏ ngay thói quen dạy kiểu bài để đi thi. 
+Làm được như vậy thì việc đưa xác suất thống kê vào chương trình tiểu học may ra mới có ý nghĩa với thế hệ Việt Nam trong tương lai. 
+Nếu không, quá trình "nhồi nhét" những thứ vô bổ lại tiếp tục. 

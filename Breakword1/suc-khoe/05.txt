@@ -1,0 +1,9 @@
+
+Ứng_dụng sàng_lọc trẻ bị rối_loạn di_truyền
+Trung_QuốcPhần mềm dùng trí_tuệ nhân_tạo quét khuôn_mặt trẻ sơ_sinh để sàng_lọc và phát_hiện sớm chứng rối_loạn di_truyền .
+Các nhà_nghiên_cứu từ Trung_tâm Y_tế Trẻ_em Thượng_Hải và Trung_tâm Nhi_khoa Thượng_Hải phát_triển công_cụ chẩn_đoán gene đầu_tiên trên thế_giới có khả_năng phát_hiện hơn 100 chứng rối_loạn với các đặc_điểm trên khuôn_mặt , trong đó có hội_chứng Cornelia de Lange ( CdLS ) và hội_chứng Down .
+Theo thông_tin công_bố ngày 8/11 , công_cụ này sử_dụng công_nghệ trí_tuệ nhân_tạo ( AI ) trong quá_trình sàng_lọc ban_đầu , tránh chẩn_đoán sai hoặc bỏ_sót trẻ sơ_sinh mắc bệnh , đưa ra phương_pháp điều_trị phù_hợp . Ứng_dụng rà_soát và sàng_lọc các dữ_liệu hồ_sơ khuôn_mặt bệnh_nhân , sử_dụng dữ_liệu này để giúp chẩn_đoán ca bệnh mới .
+Phần_mềm này đã được thử_nghiệm tại Thượng_Hải .
+Các bác_sĩ nhi_khoa tải hình_ảnh khuôn_mặt bệnh_nhân lên , sau đó tiến_hành sàng_lọc hình_ảnh hoặc video để phát_hiện các chứng rối_loạn nếu có .
+Theo Tổ_chức CdLS , khuôn_mặt trẻ_em mắc chứng_CdLS có các đặc_điểm nổi_bật như lông_mày mỏng và giao nhau , lông_mi dài , mũi ngắn và hếch , môi dưới mỏng , tai thấp và vòm_miệng cao hoặc vòm_miệng hở .
+Trong khi đó , trẻ_em mắc hội_chứng Down thường có những đốm trắng nhỏ ở phần mắt , mặt_phẳng , lưỡi lè ra khỏi miệng và mắt có hình quả hạnh , hoặc có hình_dạng khác_biệt so với đặc_điểm dân_tộc .

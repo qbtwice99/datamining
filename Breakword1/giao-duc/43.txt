@@ -1,0 +1,33 @@
+
+Đáp_án bài_toán mở khóa số của Hong_Kong
+Trong 61 bạn gửi lời giải bài_toán thi học_sinh giỏi lớp 5 của Hong_Kong năm 2006 , nhiều bạn đã tìm ra đáp_số đúng là 96 .
+Topic 59 .
+Problem :
+Solly want to unlock his friend Koo ' s combination lock .
+The lock consists of 4 reels , each reel display the digits from 1 to 9 .
+Koo tells Solly that the first digit from left to right is a multiple of 3 , the second digit is a prime , the third digit is a multiple of 2 , and the whole number is divisible by 4 .
+For example :
+What is the maximum possible number of different ways that Solly may try in order to unlock it ?
+Dịch đề :
+Solly muốn mở ổ_khóa số của Koo .
+Ổ_khóa có bốn vòng số để xoay , mỗi vòng số là một chữ số từ 1 đến 9 .
+Koo gợi_ý cho Solly về các con_số như sau :
+đếm từ trái , chữ_số đầu_tiên là bội của 3 , chữ_số thứ hai là một số_nguyên_tố , chữ_số thứ ba là bội của 2 , và cả 4 chữ_số tạo thành một_số chia_hết cho 4 .
+Ví_dụ :
+Nếu Solly chỉ thử các số thỏa_mãn quy_luật mà Koo gợi_ý , thì cậu ấy phải thử nhiều nhất bao_nhiêu nhóm các số khác nhau mới có_thể mở được ổ_khoá ?
+Lời_giải :
+Chữ_số đầu_tiên có 3 cách chọn từ bộ số ( 3 , 6 , 9 ) .
+Chữ_số thứ hai có 4 cách chọn từ bộ số ( 2 , 3 , 5 , 7 ) .
+Chữ_số thứ ba có 4 cách chọn từ bộ số ( 2 , 4 , 6 , 8 ) .
+Điều_kiện để một_số có nhiều chữ_số chia_hết cho 4 là số tạo bởi 2 chữ_số tận_cùng của nó phải chia_hết cho 4 .
+Với mỗi chữ_số hàng chục thuộc bộ số ( 2 , 4 , 6 , 8 ) luôn có 2 cách chọn chữ_số hàng đơn_vị từ bộ số ( 4 , 8 ) để tạo ra số có 2 chữ_số chia_hết cho 4 .
+Theo quy_tắc nhân thì số lần thử nhiều nhất là 3 x 4 x 4 x 2 = 96 ( lần ) .
+Solution :
+There are 3 ways to select the first digit from the set ( 3 , 6 , 9 ) .
+There are 4 ways to select the second digit from the set ( 2 , 3 , 5 , 7 ) .
+There are 4 ways to select the third digit from the set ( 2 , 4 , 6 , 8 ) .
+In order for the number to be divisible by 4 , its two last digits must be divisible by 4 .
+We already know that its third digit belongs to the set ( 2 , 4 , 6 , 8 ) .
+The last digit must be either 4 or 8 to create a two - digit number divisible by 4 .
+According to the multiplication rule , the maximum possible number of different ways that Solly may try is :
+3 x 4 x 4 x 2 = 96 ( ways ) .

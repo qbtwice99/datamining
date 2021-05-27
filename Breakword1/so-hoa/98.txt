@@ -1,0 +1,12 @@
+
+Hai lỗ_hổng trong tiện_ích quản_lý cấu_hình mạng
+Lỗ_hổng được đánh_giá là nghiêm_trọng trên công_cụ rConfig có_thể tạo điều_kiện cho hacker chiếm quyền điều_khiển thiết_bị .
+rConfig là tiện_ích quản_lý cấu_hình mạng được sử_dụng phổ_biến trong hệ_thống mạng lớn như của các doanh_nghiệp cung_cấp hạ_tầng mạng và viễn_thông .
+Nhà nghiên_cứu bảo_mật Mohammad_Askar đã phát_hiện sự_cố đầu tuần này và cho biết ít_nhất một trong hai lỗ_hổng có_thể cho_phép kẻ tấn_công xâm_nhập vào các máy_chủ mục_tiêu và các thiết_bị mạng được kết_nối .
+Tất_cả các phiên_bản của rConfig , kể_cả bản mới nhất 3.9.2 , đều bị ảnh_hưởng và hiện chưa có bản vá bảo_mật .
+Với mức nguy_hiểm 9.8 / 10 từ Viện Tiêu_chuẩn và Kỹ_thuật quốc_gia Mỹ ( NIST ) , Công_ty An_ninh mạng Việt_Nam VSEC nhận_định lỗ_hổng sẽ ảnh_hưởng trực_tiếp đến nhiều doanh_nghiệp Việt_Nam .
+Kẻ tấn_công có_thể nhúng các đoạn mã thực_thi vào ứng_dụng , dễ_dàng chiếm quyền điều_khiển máy_chủ , từ đó kiểm_soát được toàn_bộ hệ_thống mạng do tiện_ích rConfig quản_lý .
+rConfig là tiện_ích mã nguồn mở , quản_lý cấu_hình thiết_bị mạng như bộ chuyển_mạch , bộ định_tuyến , tường lửa , bộ cân_bằng tải , tối_ưu_hóa_mạng WAN. . .
+Theo nhà phát_triển rConfig , tiện_ích hiện quản_lý hơn 3,3 triệu thiết_bị .
+Tại Việt_Nam , theo thống_kê của VSEC , khoảng hơn 10.000 thiết_bị thuộc hệ_thống mạng lớn tại các doanh_nghiệp cung_cấp hạ_tầng mạng , hạ_tầng CNTT và viễn_thông đang sử_dụng tiện_ích này .
+Do chưa có bản vá , VSEC khuyến_cáo các đơn_vị sử_dụng rConfig giới_hạn địa_chỉ IP truy_cập vào hệ_thống , chặn truy_cập module ajaxServerSettingsChk . php nếu không sử_dụng tới , hoặc sử_dụng các giải_pháp quản_trị thay_thế khác và cập_nhật ngay khi bản vá được phát_hành .

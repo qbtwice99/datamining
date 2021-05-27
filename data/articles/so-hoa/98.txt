@@ -1,0 +1,12 @@
+
+Hai lỗ hổng trong tiện ích quản lý cấu hình mạng 
+Lỗ hổng được đánh giá là nghiêm trọng trên công cụ rConfig có thể tạo điều kiện cho hacker chiếm quyền điều khiển thiết bị.
+rConfig là tiện ích quản lý cấu hình mạng được sử dụng phổ biến trong hệ thống mạng lớn như của các doanh nghiệp cung cấp hạ tầng mạng và viễn thông. 
+Nhà nghiên cứu bảo mật Mohammad Askar đã phát hiện sự cố đầu tuần này và cho biết ít nhất một trong hai lỗ hổng có thể cho phép kẻ tấn công xâm nhập vào các máy chủ mục tiêu và các thiết bị mạng được kết nối. 
+Tất cả các phiên bản của rConfig, kể cả bản mới nhất 3.9.2, đều bị ảnh hưởng và hiện chưa có bản vá bảo mật. 
+Với mức nguy hiểm 9.8/10 từ Viện Tiêu chuẩn và Kỹ thuật quốc gia Mỹ (NIST), Công ty An ninh mạng Việt Nam VSEC nhận định lỗ hổng sẽ ảnh hưởng trực tiếp đến nhiều doanh nghiệp Việt Nam. 
+Kẻ tấn công có thể nhúng các đoạn mã thực thi vào ứng dụng, dễ dàng chiếm quyền điều khiển máy chủ, từ đó kiểm soát được toàn bộ hệ thống mạng do tiện ích rConfig quản lý. 
+rConfig là tiện ích mã nguồn mở, quản lý cấu hình thiết bị mạng như bộ chuyển mạch, bộ định tuyến, tường lửa, bộ cân bằng tải, tối ưu hóa mạng WAN... 
+Theo nhà phát triển rConfig, tiện ích hiện quản lý hơn 3,3 triệu thiết bị. 
+Tại Việt Nam, theo thống kê của VSEC, khoảng hơn 10.000 thiết bị thuộc hệ thống mạng lớn tại các doanh nghiệp cung cấp hạ tầng mạng, hạ tầng CNTT và viễn thông đang sử dụng tiện ích này. 
+Do chưa có bản vá, VSEC khuyến cáo các đơn vị sử dụng rConfig giới hạn địa chỉ IP truy cập vào hệ thống, chặn truy cập module ajaxServerSettingsChk.php nếu không sử dụng tới, hoặc sử dụng các giải pháp quản trị thay thế khác và cập nhật ngay khi bản vá được phát hành. 

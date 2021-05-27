@@ -1,0 +1,5 @@
+
+Năm bài_toán logic ít người giải đúng
+Bạn cần vận_dụng khả_năng tính_toán , tư_duy logic để tìm ra quy_luật và điền số còn thiếu vào dấu_hỏi chấm trong 30 giây .
+Câu 1 :
+Câu 2 :

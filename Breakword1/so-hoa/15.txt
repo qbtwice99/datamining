@@ -1,0 +1,10 @@
+
+Facebook cho tắt thông_báo phiền_nhiễu
+Bản cập_nhật Facebook cho các nền_tảng di_động sẽ cho_phép người dùng không còn nhận thông_báo từ Marketplace , Watch và nhiều tính_năng khác .
+Sau khi cập_nhật , sẽ có một menu Cài_đặt Thanh phím tắt ( Shortcut_Bar_Settings ) thêm vào ứng_dụng .
+Tuy_nhiên , tùy chọn này được Facebook " chôn " khá sâu , khi người dùng phải vào More_tab ( Ba gạch_ngang ở góc phải ) > Settings & Privacy > Settings > Shortcuts để thấy tất_cả những tính_năng cần tắt thông_báo .
+Ngoài Marketplace ( Thị_trường ) hay Watch ( xem video ) , người dùng có_thể tắt các thông_báo gây phiền_nhiễu của Groups ( nhóm ) , Events ( sự_kiện ) , Profile ( hồ_sơ người dùng ) , Friend_Requests ( bạn_bè gửi lời kết_bạn ) , News ( tin_tức ) , Gaming ( trò_chơi ) và cả Dating ( hẹn_hò ) .
+Facebook chưa đưa ra thông_báo chính_thức nào .
+Trả_lời Techcrunch , một đại_diện của mạng xã_hội lớn nhất thế_giới thừa_nhận " đang triển_khai tính_năng cho_phép người dùng kiểm_soát và điều hướng thông_báo , nhằm giúp họ có trải_nghiệm tốt hơn " .
+Hiện tính_năng trên mới chỉ được triển_khai cho người dùng iOS .
+Tuy_nhiên , các thiết_bị chạy Android cũng sớm cập_nhật trong thời_gian tới .

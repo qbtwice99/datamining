@@ -1,0 +1,36 @@
+
+Lễ_hội mua_sắm trực_tuyến thúc_đẩy logistics phát_triển
+
+Chiến_dịch khuyến_mãi của các sàn thương_mại_điện_tử đòi_hỏi tăng tốc_độ , chất_lượng giao hàng , tạo trải_nghiệm hàng tốt hơn cho người dùng .
+Báo_cáo " Logistics và thương_mại_điện_tử " do Bộ Công_Thương thực_hiện năm 2018 ghi_nhận , năng_lực của các doanh_nghiệp logistics đang cải_thiện thông_qua các ứng_dụng công_nghệ .
+Báo_cáo dẫn số_liệu về chỉ_số năng_lực logistics ( LPI ) 2018 của Ngân_hàng Thế_giới cho thấy , Việt_Nam xếp_hạng 39/16 0 nước trong khảo_sát , tăng 25 bậc so với xếp_hạng 64 năm 2016 .
+Việt_Nam đứng đầu trong các thị_trường mới nổi và xếp_hạng cao nhất trong nhóm các nước có thu_nhập trung_bình thấp .
+Tất_cả các chỉ_số tăng vượt_bậc , trong đó có mức tăng cao nhất là năng_lực chất_lượng dịch_vụ và khả_năng theo_dõi , truy_xuất hàng_hóa .
+Với việc các sàn TMĐT đua nhau tổ_chức các chiến_dịch khuyến_mãi cũng làm lượng hàng_hóa giao_dịch qua các kênh trực_tuyến tăng nhanh khiến nhu_cầu dịch_vụ logistics cho thương_mại_điện_tử tăng cao , trên thực_tế đang vượt quá khả_năng đáp_ứng .
+Nỗ_lực cải_tiến quy_trình xử_lý và phân_phối hàng_hóa của các doanh_nghiệp thương_mại_điện_tử đóng vai_trò chủ_đạo trong việc thúc_đẩy phát_triển logistics tại Việt_Nam , nhất_là ở phân khúc giao hàng chặng cuối đến tay người tiêu_dùng .
+Đơn_cử đầu tháng 10 , Lazada công_bố loạt giải_pháp thúc_đẩy logistics để chuẩn_bị phục_vụ tốt hơn cho người dùng trong dịp lễ_hội mua_sắm 11/11 và 12/12 .
+Theo đó , nhân_dịp mở bán loạt iPhone mới nhất của Apple vào 0h ngày 1/11 , hơn 1h sáng cùng ngày , ông James_Dong - Tổng_giám_đốc Lazada Việt_Nam đã đích_thân đi giao đơn hàng iPhone đầu_tiên để quảng_bá cho chương_trình giao hàng hỏa_tốc 2h ngay trong đêm .
+Doanh_nghiệp này cũng giới_thiệu dịch_vụ giao hàng trong 4 giờ , áp_dụng cho các sản_phẩm cồng_kềnh lên đến 15kg .
+Doanh_nghiệp còn ứng_dụng các sáng_kiến công_nghệ trong quy_trình xử_lý hàng_hóa .
+Hệ_thống chia_chọn tự_động dựa vào các thông_tin được mã_hóa dưới dạng mã_vạch trên vận_đơn để đưa hàng đúng khu_vực của khách_hàng .
+Trên mỗi vận_đơn sẽ có mã_vạch thể_hiện các thông_tin điểm đến , hệ_thống sẽ tự_động đọc và điều_khiển robot phân_loại hoạt_động .
+Không chỉ đọc thông_tin điểm đến để điều_khiển robot , hệ_thống còn có khả_năng cân trọng_lượng và đo kích_thước của mỗi kiện_hàng , lưu_trữ trên hệ_thống để làm cơ_sở tính phí vận_chuyển .
+Hiện Lazada có hai trung_tâm phân_loại hàng_hoá tự_động tại TP HCM và Hà_Nội với công_suất hàng chục nghìn đơn hàng mỗi giờ .
+Về giao hàng , đơn_vị cũng ứng_dụng công_nghệ tiên_tiến nhất để giúp người mua xem trạng_thái đơn hàng theo thời_gian thực .
+Ngoài phương_thức nhận hàng tại nhà hay văn_phòng thông_thường , trong lễ_hội mua_sắm 11.11 lần này , Lazada cũng giới_thiệu dịch_vụ " Điểm lấy hàng " lần đầu xuất_hiện tại Việt_Nam , triển_khai trước_mắt tại TP HCM và Hà_Nội .
+Người mua có_thể lấy hàng tại một trong hơn 300 điểm ( collection point ) thuộc hệ_thống đối_tác , bao_gồm cửa_hàng tiện_lợi mở 24/7 như Circle_K , quán trà sữa , cửa_hàng quần_áo hay nhà_thuốc của hệ_thống PostCo .
+Theo đuổi xu_hướng công_nghệ Internet kết_nối vạn_vật ( IoT ) , doanh_nghiệp hợp_tác iLogic Việt_Nam để triển_khai hệ_thống các điểm lấy hàng tự_động qua " tủ khóa thông_minh " ( smart locker ) .
+Người mua hàng trên Lazada có_thể chủ_động lấy hàng mọi lúc và hoàn_toàn tự_động sau khi đặt_hàng , chỉ cần quét mã QR nhận qua email hoặc nhập số điện_thoại và mã_OTP để mở tủ khóa .
+Hiện có 11 tủ khóa tại TP HCM và 7 tủ tại Hà_Nội , đặt tại trung_tâm mua_sắm , chung_cư và đại_học .
+" Các lễ_hội mua_sắm là ' phép thử ' cho hệ_thống vận_hành và giúp Lazada liên_tục đổi_mới để theo kịp với nhu_cầu mua_sắm ngày_càng tăng nhanh tại Việt_Nam và Đông_Nam_Á .
+Chúng_tôi đầu_tư lớn vào hạ_tầng e - logistics vì đây là ' xương_sống ' cho thương_mại_điện_tử .
+Ngoài_ra , doanh_nghiệp cũng đồng_hành với một_số đơn_vị logistics trong và ngoài nước để tăng_tốc phát_triển logistics " , ông James_Dong - CEO_Lazada Việt_Nam và Thái_Lan nói .
+Gia_nhập thị_trường Việt_Nam vào năm 2012 , Lazada chỉ kỳ_vọng đạt 500 đơn hàng một ngày .
+Hiện_tại , đơn_vị có_thể xử_lý trên 500 đơn hàng mỗi phút .
+Theo các chuyên_gia , hiện vẫn còn nhiều yếu_tố ảnh_hưởng đến phân_phối hàng_hóa trên cả nước .
+Hệ_thống cơ_sở_hạ_tầng giao_thông còn yếu dẫn đến tốc_độ lưu_thông của phương_tiện chậm , nhất_là giữa TP HCM , Hà_Nội và liên tỉnh .
+Một_số ý_kiến cho rằng cấm xe_tải nhỏ vào trung_tâm thành_phố cũng gây khó cho hoạt_động của các đơn_vị chuyển phát .
+Trong khi đó vận_chuyển xuyên đêm làm chậm thời_gian và tăng chi_phí vận_hành .
+Tình_trạng phụ_thuộc vào xe_máy để chuyển hàng nội_thành cũng tồn_tại bất_cập bởi không hiệu_quả , không chứa được khối_lượng hàng_hóa lớn , góp_phần tắc_nghẽn giao_thông và ô_nhiễm môi_trường .
+Lazada cũng đã đưa vào vận_hành xe_đạp điện với thùng hàng có sức chứa lớn và để góp_phần giảm khí thải và tăng hiệu_quả vận_chuyển trong khu_vực nội_thành .
+Các sáng_kiến công_nghệ từ doanh_nghiệp tiềm_lực mạnh trong và ngoài nước được kỳ_vọng sẽ góp_phần giải_quyết hạn_chế của thị_trường , tối_ưu_hóa quy_trình xử_lý , phân_loại và giao hàng trong lĩnh_vực thương_mại_điện_tử và kéo_theo đó , thúc_đẩy phát_triển thị_trường logistics cho thương_mại_điện_tử tại Việt_Nam .
